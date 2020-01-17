@@ -1,0 +1,2466 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<results country="Sweden">
+  <tournament league="Allsvenskan" season="2019" stage_id="14071081" gid="1407" is_current="True" id="1407">
+    <week number="1" >
+      <match date="31.03.2019" time="13:00" status="13:00" venue="Falcon Alkoholfri Arena (Falkenberg)" venue_id="89634" venue_city="Falkenberg" static_id="2564375" id="3059848">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.03.2019" time="13:00" status="13:00" venue="Guldfågeln Arena (Kalmar)" venue_id="10427" venue_city="Kalmar" static_id="2564376" id="3059849">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.03.2019" time="13:00" status="13:00" venue="Friends Arena (Solna)" venue_id="15710" venue_city="Solna" static_id="2564379" id="3059852">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.03.2019" time="15:30" status="15:30" venue="Olympia (Helsingborg)" venue_id="88769" venue_city="Helsingborg" static_id="2564373" id="3059846">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.03.2019" time="15:30" status="15:30" venue="Tunavallen (Eskilstuna)" venue_id="5809" venue_city="Eskilstuna" static_id="2564380" id="3059853">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.04.2019" time="17:00" status="17:00" venue="Borås Arena (Borås)" venue_id="88780" venue_city="Borås" static_id="2564374" id="3059847">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.04.2019" time="17:00" status="17:00" venue="" venue_id="1808" venue_city="" static_id="2564377" id="3059850">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.04.2019" time="17:00" status="17:00" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564378" id="3059851">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="2" >
+      <match date="06.04.2019" time="14:00" status="14:00" venue="NP3 Arena (Sundsvall)" venue_id="91510" venue_city="Sundsvall" static_id="2564383" id="3059856">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="06.04.2019" time="14:00" status="14:00" venue="Bravida Arena (Göteborg)" venue_id="57156" venue_city="Göteborg" static_id="2564387" id="3059860">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="07.04.2019" time="13:00" status="13:00" venue="Jämtkraft Arena (Östersund)" venue_id="5848" venue_city="Östersund" static_id="2564384" id="3059857">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="07.04.2019" time="13:00" status="13:00" venue="Gamla Ullevi (Göteborg)" venue_id="90203" venue_city="Göteborg" static_id="2564386" id="3059859">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="07.04.2019" time="15:30" status="15:30" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564385" id="3059858">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="08.04.2019" time="17:00" status="17:00" venue="Behrn Arena (Örebro)" venue_id="88766" venue_city="Örebro" static_id="2564381" id="3059854">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="08.04.2019" time="17:00" status="17:00" venue="Östgötaporten (Norrköping)" venue_id="78115" venue_city="Norrköping" static_id="2564382" id="3059855">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="08.04.2019" time="17:00" status="17:00" venue="Studenternas IP (Uppsala)" venue_id="5855" venue_city="Uppsala" static_id="2564388" id="3059861">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="3" >
+      <match date="12.04.2019" time="17:00" status="17:00" venue="Tunavallen (Eskilstuna)" venue_id="5809" venue_city="Eskilstuna" static_id="2564396" id="3059869">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.04.2019" time="11:30" status="11:30" venue="Falcon Alkoholfri Arena (Falkenberg)" venue_id="89634" venue_city="Falkenberg" static_id="2564391" id="3059864">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.04.2019" time="14:00" status="14:00" venue="Guldfågeln Arena (Kalmar)" venue_id="10427" venue_city="Kalmar" static_id="2564392" id="3059865">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.04.2019" time="13:00" status="13:00" venue="Borås Arena (Borås)" venue_id="88780" venue_city="Borås" static_id="2564390" id="3059863">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.04.2019" time="13:00" status="13:00" venue="Friends Arena (Solna)" venue_id="15710" venue_city="Solna" static_id="2564395" id="3059868">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.04.2019" time="15:30" status="15:30" venue="Olympia (Helsingborg)" venue_id="88769" venue_city="Helsingborg" static_id="2564393" id="3059866">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="15.04.2019" time="17:00" status="17:00" venue="" venue_id="1808" venue_city="" static_id="2564389" id="3059862">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="15.04.2019" time="17:00" status="17:00" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564394" id="3059867">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="4" >
+      <match date="19.04.2019" time="11:30" status="11:30" venue="Jämtkraft Arena (Östersund)" venue_id="5848" venue_city="Östersund" static_id="2564400" id="3059873">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.04.2019" time="14:00" status="14:00" venue="Studenternas IP (Uppsala)" venue_id="5855" venue_city="Uppsala" static_id="2564404" id="3059877">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.04.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564397" id="3059870">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.04.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564398" id="3059871">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.04.2019" time="13:00" status="13:00" venue="Bravida Arena (Göteborg)" venue_id="57156" venue_city="Göteborg" static_id="2564403" id="3059876">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.04.2019" time="15:30" status="15:30" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564401" id="3059874">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="22.04.2019" time="13:00" status="13:00" venue="Gamla Ullevi (Göteborg)" venue_id="90203" venue_city="Göteborg" static_id="2564402" id="3059875">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="22.04.2019" time="15:30" status="15:30" venue="NP3 Arena (Sundsvall)" venue_id="91510" venue_city="Sundsvall" static_id="2564399" id="3059872">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="5" >
+      <match date="24.04.2019" time="17:00" status="17:00" venue="Borås Arena (Borås)" venue_id="88780" venue_city="Borås" static_id="2564406" id="3059879">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.04.2019" time="17:00" status="17:00" venue="Falcon Alkoholfri Arena (Falkenberg)" venue_id="89634" venue_city="Falkenberg" static_id="2564407" id="3059880">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.04.2019" time="17:00" status="17:00" venue="" venue_id="1808" venue_city="" static_id="2564409" id="3059882">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.04.2019" time="17:00" status="17:00" venue="Friends Arena (Solna)" venue_id="15710" venue_city="Solna" static_id="2564411" id="3059884">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.04.2019" time="17:00" status="17:00" venue="Tunavallen (Eskilstuna)" venue_id="5809" venue_city="Eskilstuna" static_id="2564412" id="3059885">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.04.2019" time="17:00" status="17:00" venue="Olympia (Helsingborg)" venue_id="88769" venue_city="Helsingborg" static_id="2564405" id="3059878">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.04.2019" time="17:00" status="17:00" venue="Guldfågeln Arena (Kalmar)" venue_id="10427" venue_city="Kalmar" static_id="2564408" id="3059881">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.04.2019" time="17:00" status="17:00" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564410" id="3059883">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="6" >
+      <match date="27.04.2019" time="14:00" status="14:00" venue="Studenternas IP (Uppsala)" venue_id="5855" venue_city="Uppsala" static_id="2564420" id="3059893">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.04.2019" time="13:00" status="13:00" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564417" id="3059890">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.04.2019" time="13:00" status="13:00" venue="Bravida Arena (Göteborg)" venue_id="57156" venue_city="Göteborg" static_id="2564419" id="3059892">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.04.2019" time="15:30" status="15:30" venue="Östgötaporten (Norrköping)" venue_id="78115" venue_city="Norrköping" static_id="2564414" id="3059887">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.04.2019" time="17:00" status="17:00" venue="Behrn Arena (Örebro)" venue_id="88766" venue_city="Örebro" static_id="2564413" id="3059886">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.04.2019" time="17:00" status="17:00" venue="NP3 Arena (Sundsvall)" venue_id="91510" venue_city="Sundsvall" static_id="2564415" id="3059888">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.04.2019" time="17:00" status="17:00" venue="Jämtkraft Arena (Östersund)" venue_id="5848" venue_city="Östersund" static_id="2564416" id="3059889">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.04.2019" time="17:00" status="17:00" venue="Gamla Ullevi (Göteborg)" venue_id="90203" venue_city="Göteborg" static_id="2564418" id="3059891">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="7" >
+      <match date="04.05.2019" time="11:30" status="11:30" venue="Friends Arena (Solna)" venue_id="15710" venue_city="Solna" static_id="2564427" id="3059900">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="04.05.2019" time="14:00" status="14:00" venue="Studenternas IP (Uppsala)" venue_id="5855" venue_city="Uppsala" static_id="2564428" id="3059901">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.05.2019" time="13:00" status="13:00" venue="Falcon Alkoholfri Arena (Falkenberg)" venue_id="89634" venue_city="Falkenberg" static_id="2564424" id="3059897">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.05.2019" time="13:00" status="13:00" venue="Guldfågeln Arena (Kalmar)" venue_id="10427" venue_city="Kalmar" static_id="2564425" id="3059898">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.05.2019" time="13:00" status="13:00" venue="Bravida Arena (Göteborg)" venue_id="57156" venue_city="Göteborg" static_id="2564426" id="3059899">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.05.2019" time="15:30" status="15:30" venue="Behrn Arena (Örebro)" venue_id="88766" venue_city="Örebro" static_id="2564423" id="3059896">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="06.05.2019" time="17:00" status="17:00" venue="Olympia (Helsingborg)" venue_id="88769" venue_city="Helsingborg" static_id="2564421" id="3059894">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="06.05.2019" time="17:00" status="17:00" venue="Borås Arena (Borås)" venue_id="88780" venue_city="Borås" static_id="2564422" id="3059895">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="8" >
+      <match date="10.05.2019" time="17:00" status="17:00" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564434" id="3059907">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="11.05.2019" time="11:30" status="11:30" venue="Jämtkraft Arena (Östersund)" venue_id="5848" venue_city="Östersund" static_id="2564431" id="3059904">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="11.05.2019" time="14:00" status="14:00" venue="Guldfågeln Arena (Kalmar)" venue_id="10427" venue_city="Kalmar" static_id="2564432" id="3059905">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="11.05.2019" time="14:00" status="14:00" venue="Tunavallen (Eskilstuna)" venue_id="5809" venue_city="Eskilstuna" static_id="2564436" id="3059909">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="11.05.2019" time="16:00" status="16:00" venue="NP3 Arena (Sundsvall)" venue_id="91510" venue_city="Sundsvall" static_id="2564430" id="3059903">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="12.05.2019" time="13:00" status="13:00" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564435" id="3059908">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="12.05.2019" time="15:30" status="15:30" venue="" venue_id="1808" venue_city="" static_id="2564433" id="3059906">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.05.2019" time="17:00" status="17:00" venue="Östgötaporten (Norrköping)" venue_id="78115" venue_city="Norrköping" static_id="2564429" id="3059902">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="9" >
+      <match date="14.05.2019" time="17:00" status="17:00" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564442" id="3059915">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="15.05.2019" time="17:00" status="17:00" venue="Olympia (Helsingborg)" venue_id="88769" venue_city="Helsingborg" static_id="2564437" id="3059910">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="15.05.2019" time="17:00" status="17:00" venue="Borås Arena (Borås)" venue_id="88780" venue_city="Borås" static_id="2564438" id="3059911">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="15.05.2019" time="17:00" status="17:00" venue="Falcon Alkoholfri Arena (Falkenberg)" venue_id="89634" venue_city="Falkenberg" static_id="2564441" id="3059914">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="15.05.2019" time="17:00" status="17:00" venue="Bravida Arena (Göteborg)" venue_id="57156" venue_city="Göteborg" static_id="2564444" id="3059917">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="15.05.2019" time="17:00" status="17:00" venue="Studenternas IP (Uppsala)" venue_id="5855" venue_city="Uppsala" static_id="2564445" id="3059918">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="16.05.2019" time="17:00" status="17:00" venue="Behrn Arena (Örebro)" venue_id="88766" venue_city="Örebro" static_id="2564439" id="3059912">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="16.05.2019" time="17:00" status="17:00" venue="Gamla Ullevi (Göteborg)" venue_id="90203" venue_city="Göteborg" static_id="2564443" id="3059916">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="10" >
+      <match date="18.05.2019" time="14:00" status="14:00" venue="Tunavallen (Eskilstuna)" venue_id="5809" venue_city="Eskilstuna" static_id="2564453" id="3059926">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.05.2019" time="13:00" status="13:00" venue="" venue_id="1808" venue_city="" static_id="2564448" id="3059921">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.05.2019" time="13:00" status="13:00" venue="Studenternas IP (Uppsala)" venue_id="5855" venue_city="Uppsala" static_id="2564452" id="3059925">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.05.2019" time="15:30" status="15:30" venue="Tele2 Arena (Stockholm)" venue_id="15789" venue_city="Stockholm" static_id="2564449" id="3059922">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.05.2019" time="17:00" status="17:00" venue="Östgötaporten (Norrköping)" venue_id="78115" venue_city="Norrköping" static_id="2564446" id="3059919">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.05.2019" time="17:00" status="17:00" venue="Jämtkraft Arena (Östersund)" venue_id="5848" venue_city="Östersund" static_id="2564447" id="3059920">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.05.2019" time="17:00" status="17:00" venue="Gamla Ullevi (Göteborg)" venue_id="90203" venue_city="Göteborg" static_id="2564450" id="3059923">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.05.2019" time="17:00" status="17:00" venue="Friends Arena (Solna)" venue_id="15710" venue_city="Solna" static_id="2564451" id="3059924">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="11" >
+      <match date="25.05.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564454" id="3059927">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.05.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564455" id="3059928">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.05.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564456" id="3059929">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.05.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564457" id="3059930">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.05.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564458" id="3059931">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.05.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564459" id="3059932">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.05.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564460" id="3059933">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="25.05.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564461" id="3059934">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="12" >
+      <match date="01.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564462" id="3059935">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564463" id="3059936">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564464" id="3059937">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564465" id="3059938">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564466" id="3059939">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564467" id="3059940">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564468" id="3059941">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564469" id="3059942">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="13" >
+      <match date="29.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564470" id="3059943">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564471" id="3059944">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564472" id="3059945">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564473" id="3059946">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564474" id="3059947">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564475" id="3059948">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564476" id="3059949">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="29.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564477" id="3059950">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="14" >
+      <match date="30.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564478" id="3059951">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="30.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564479" id="3059952">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="30.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564480" id="3059953">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="30.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564481" id="3059954">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="30.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564482" id="3059955">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="30.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564483" id="3059956">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="30.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564484" id="3059957">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="30.06.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564485" id="3059958">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="15" >
+      <match date="13.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564486" id="3059959">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564487" id="3059960">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564488" id="3059961">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564489" id="3059962">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564490" id="3059963">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564491" id="3059964">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564492" id="3059965">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="13.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564493" id="3059966">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="16" >
+      <match date="20.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564494" id="3059967">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564495" id="3059968">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564496" id="3059969">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564497" id="3059970">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564498" id="3059971">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564499" id="3059972">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564500" id="3059973">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="20.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564501" id="3059974">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="17" >
+      <match date="27.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564502" id="3059975">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="27.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564503" id="3059976">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="27.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564504" id="3059977">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="27.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564505" id="3059978">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="27.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564506" id="3059979">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="27.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564507" id="3059980">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="27.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564508" id="3059981">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="27.07.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564509" id="3059982">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="18" >
+      <match date="03.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564510" id="3059983">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="03.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564511" id="3059984">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="03.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564512" id="3059985">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="03.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564513" id="3059986">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="03.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564514" id="3059987">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="03.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564515" id="3059988">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="03.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564516" id="3059989">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="03.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564517" id="3059990">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="19" >
+      <match date="10.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564518" id="3059991">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="10.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564519" id="3059992">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="10.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564520" id="3059993">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="10.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564521" id="3059994">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="10.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564522" id="3059995">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="10.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564523" id="3059996">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="10.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564524" id="3059997">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="10.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564525" id="3059998">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="20" >
+      <match date="17.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564526" id="3059999">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="17.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564527" id="3060000">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="17.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564528" id="3060001">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="17.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564529" id="3060002">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="17.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564530" id="3060003">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="17.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564531" id="3060004">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="17.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564532" id="3060005">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="17.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564533" id="3060006">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="21" >
+      <match date="24.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564534" id="3060007">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564535" id="3060008">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564536" id="3060009">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564537" id="3060010">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564538" id="3060011">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564539" id="3060012">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564540" id="3060013">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564541" id="3060014">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="22" >
+      <match date="31.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564542" id="3060015">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564543" id="3060016">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564544" id="3060017">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564545" id="3060018">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564546" id="3060019">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564547" id="3060020">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564548" id="3060021">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="31.08.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564549" id="3060022">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="23" >
+      <match date="14.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564550" id="3060023">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564551" id="3060024">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564552" id="3060025">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564553" id="3060026">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564554" id="3060027">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564555" id="3060028">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564556" id="3060029">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="14.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564557" id="3060030">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="24" >
+      <match date="21.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564558" id="3060031">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564559" id="3060032">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564560" id="3060033">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564561" id="3060034">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564562" id="3060035">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564563" id="3060036">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564564" id="3060037">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="21.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564565" id="3060038">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="25" >
+      <match date="24.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564566" id="3060039">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564567" id="3060040">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564568" id="3060041">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564569" id="3060042">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564570" id="3060043">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564571" id="3060044">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564572" id="3060045">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="24.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564573" id="3060046">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="26" >
+      <match date="28.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564574" id="3060047">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564575" id="3060048">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564576" id="3060049">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564577" id="3060050">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564578" id="3060051">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564579" id="3060052">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564580" id="3060053">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="28.09.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564581" id="3060054">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="27" >
+      <match date="05.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564582" id="3060055">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564583" id="3060056">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564584" id="3060057">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564585" id="3060058">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564586" id="3060059">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564587" id="3060060">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564588" id="3060061">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="05.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564589" id="3060062">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="28" >
+      <match date="19.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564590" id="3060063">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564591" id="3060064">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564592" id="3060065">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564593" id="3060066">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564594" id="3060067">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564595" id="3060068">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564596" id="3060069">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="19.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564597" id="3060070">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="29" >
+      <match date="26.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564598" id="3060071">
+        <localteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <visitorteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="26.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564599" id="3060072">
+        <localteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <visitorteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="26.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564600" id="3060073">
+        <localteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <visitorteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="26.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564602" id="3060075">
+        <localteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <visitorteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="26.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564603" id="3060076">
+        <localteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <visitorteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="26.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564604" id="3060077">
+        <localteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <visitorteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="26.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564605" id="3060078">
+        <localteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <visitorteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="26.10.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564606" id="3060079">
+        <localteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <visitorteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+    <week number="30" >
+      <match date="01.11.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564607" id="3060080">
+        <localteam name="Helsingborg" score="" ft_score="" et_score="" pen_score="" id="16456" />
+        <visitorteam name="Elfsborg" score="" ft_score="" et_score="" pen_score="" id="16430" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.11.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564608" id="3060081">
+        <localteam name="Örebro" score="" ft_score="" et_score="" pen_score="" id="16533" />
+        <visitorteam name="Malmö FF" score="" ft_score="" et_score="" pen_score="" id="16520" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.11.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564609" id="3060082">
+        <localteam name="Falkenberg" score="" ft_score="" et_score="" pen_score="" id="16436" />
+        <visitorteam name="AFC Eskilstuna" score="" ft_score="" et_score="" pen_score="" id="16591" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.11.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564610" id="3060083">
+        <localteam name="Norrköping" score="" ft_score="" et_score="" pen_score="" id="16530" />
+        <visitorteam name="Djurgården" score="" ft_score="" et_score="" pen_score="" id="16428" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.11.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564611" id="3060084">
+        <localteam name="Hammarby" score="" ft_score="" et_score="" pen_score="" id="16453" />
+        <visitorteam name="Häcken" score="" ft_score="" et_score="" pen_score="" id="16451" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.11.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564612" id="3060085">
+        <localteam name="IFK Göteborg" score="" ft_score="" et_score="" pen_score="" id="16469" />
+        <visitorteam name="Östersunds FK" score="" ft_score="" et_score="" pen_score="" id="16537" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.11.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564613" id="3060086">
+        <localteam name="AIK" score="" ft_score="" et_score="" pen_score="" id="16403" />
+        <visitorteam name="GIF Sundsvall" score="" ft_score="" et_score="" pen_score="" id="16448" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+      <match date="01.11.2019" time="TBA" status="TBA" venue="" venue_id="1808" venue_city="" static_id="2564614" id="3060087">
+        <localteam name="Sirius" score="" ft_score="" et_score="" pen_score="" id="16551" />
+        <visitorteam name="Kalmar" score="" ft_score="" et_score="" pen_score="" id="16491" />
+        <halftime score="" />
+        <goals />
+        <lineups />
+        <substitutions />
+        <coaches />
+        <referee name="" id="" />
+      </match>
+    </week>
+  </tournament>
+</results>
+

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<results country="Argentina">
+  <tournament league="Liga A" season="Argentina" id="1170">
+    <match date="10.11.2019" time="00:30" status="After Over Time" id="666221">
+      <localteam name="Regatas" q1="27" q2="12" q3="24" q4="16" ot="10" totalscore="89" id="1674" />
+      <awayteam name="Gimnasia" q1="13" q2="29" q3="25" q4="12" ot="13" totalscore="92" id="1666" />
+    </match>
+    <match date="10.11.2019" time="01:00" status="After Over Time" id="666219">
+      <localteam name="Platense" q1="26" q2="19" q3="17" q4="20" ot="8" totalscore="90" id="13510" />
+      <awayteam name="San Lorenzo" q1="15" q2="24" q3="27" q4="16" ot="13" totalscore="95" id="11113" />
+    </match>
+    <match date="10.11.2019" time="23:30" status="Finished" id="666223">
+      <localteam name="Weber Bahia" q1="21" q2="21" q3="27" q4="30" ot="" totalscore="99" id="8912" />
+      <awayteam name="Hispano Americano" q1="30" q2="31" q3="22" q4="26" ot="" totalscore="109" id="12043" />
+    </match>
+    <match date="11.11.2019" time="00:00" status="Finished" id="666227">
+      <localteam name="Olimpico" q1="13" q2="19" q3="14" q4="25" ot="" totalscore="71" id="1657" />
+      <awayteam name="Libertad" q1="19" q2="7" q3="21" q4="8" ot="" totalscore="55" id="1650" />
+    </match>
+    <match date="11.11.2019" time="00:00" status="Finished" id="666225">
+      <localteam name="Comunicaciones Mercedes" q1="19" q2="30" q3="28" q4="18" ot="" totalscore="95" id="13137" />
+      <awayteam name="Atenas" q1="13" q2="18" q3="19" q4="26" ot="" totalscore="76" id="1658" />
+    </match>
+    <match date="11.11.2019" time="23:00" status="Finished" id="666229">
+      <localteam name="Obras Sanitarias" q1="13" q2="13" q3="24" q4="20" ot="" totalscore="70" id="2026" />
+      <awayteam name="Boca Juniors" q1="20" q2="13" q3="26" q4="20" ot="" totalscore="79" id="1805" />
+    </match>
+    <match date="12.11.2019" time="00:30" status="Finished" id="666231">
+      <localteam name="San Martin" q1="17" q2="25" q3="26" q4="27" ot="" totalscore="95" id="6864" />
+      <awayteam name="Gimnasia" q1="20" q2="20" q3="27" q4="33" ot="" totalscore="100" id="1666" />
+    </match>
+    <match date="13.11.2019" time="00:00" status="Finished" id="666235">
+      <localteam name="Penarol" q1="17" q2="17" q3="19" q4="26" ot="" totalscore="79" id="1669" />
+      <awayteam name="Hispano Americano" q1="17" q2="9" q3="25" q4="25" ot="" totalscore="76" id="12043" />
+    </match>
+    <match date="13.11.2019" time="00:00" status="Finished" id="666233">
+      <localteam name="Argentino" q1="12" q2="11" q3="24" q4="30" ot="" totalscore="77" id="1574" />
+      <awayteam name="Regatas" q1="12" q2="21" q3="14" q4="25" ot="" totalscore="72" id="1674" />
+    </match>
+    <match date="13.11.2019" time="00:30" status="Finished" id="666237">
+      <localteam name="Estudiantes" q1="7" q2="7" q3="20" q4="26" ot="" totalscore="60" id="1175" />
+      <awayteam name="Atenas" q1="21" q2="21" q3="16" q4="19" ot="" totalscore="77" id="1658" />
+    </match>
+    <match date="13.11.2019" time="01:00" status="Finished" id="666239">
+      <localteam name="Quimsa" q1="26" q2="25" q3="21" q4="20" ot="" totalscore="92" id="1569" />
+      <awayteam name="Libertad" q1="15" q2="14" q3="16" q4="21" ot="" totalscore="66" id="1650" />
+    </match>
+    <match date="14.11.2019" time="00:00" status="Finished" id="666241">
+      <localteam name="Comunicaciones Mercedes" q1="12" q2="23" q3="25" q4="19" ot="" totalscore="79" id="13137" />
+      <awayteam name="Instituto de Cordoba" q1="12" q2="17" q3="24" q4="10" ot="" totalscore="63" id="10980" />
+    </match>
+    <match date="14.11.2019" time="01:00" status="After Over Time" id="666243">
+      <localteam name="La Union" q1="14" q2="16" q3="24" q4="24" ot="14" totalscore="92" id="1649" />
+      <awayteam name="Gimnasia" q1="26" q2="13" q3="22" q4="17" ot="16" totalscore="94" id="1666" />
+    </match>
+    <match date="14.11.2019" time="23:00" status="Finished" id="666245">
+      <localteam name="Obras Sanitarias" q1="22" q2="27" q3="20" q4="18" ot="" totalscore="87" id="2026" />
+      <awayteam name="Platense" q1="18" q2="14" q3="23" q4="13" ot="" totalscore="68" id="13510" />
+    </match>
+    <match date="15.11.2019" time="00:00" status="Finished" id="666247">
+      <localteam name="San Lorenzo" q1="28" q2="25" q3="20" q4="27" ot="" totalscore="100" id="11113" />
+      <awayteam name="Regatas" q1="23" q2="19" q3="24" q4="24" ot="" totalscore="90" id="1674" />
+    </match>
+    <match date="15.11.2019" time="00:00" status="Finished" id="666249">
+      <localteam name="Argentino" q1="22" q2="18" q3="25" q4="24" ot="" totalscore="89" id="1574" />
+      <awayteam name="Hispano Americano" q1="26" q2="17" q3="22" q4="23" ot="" totalscore="88" id="12043" />
+    </match>
+    <match date="16.11.2019" time="00:30" status="Finished" id="666255">
+      <localteam name="Estudiantes" q1="22" q2="13" q3="17" q4="30" ot="" totalscore="82" id="1175" />
+      <awayteam name="Instituto de Cordoba" q1="16" q2="17" q3="18" q4="27" ot="" totalscore="78" id="10980" />
+    </match>
+    <match date="16.11.2019" time="00:30" status="Finished" id="666251">
+      <localteam name="Comunicaciones Mercedes" q1="15" q2="21" q3="23" q4="22" ot="" totalscore="81" id="13137" />
+      <awayteam name="Penarol" q1="24" q2="15" q3="14" q4="10" ot="" totalscore="63" id="1669" />
+    </match>
+    <match date="16.11.2019" time="01:00" status="Finished" id="666253">
+      <localteam name="Quimsa" q1="23" q2="17" q3="25" q4="21" ot="" totalscore="86" id="1569" />
+      <awayteam name="Olimpico" q1="21" q2="21" q3="19" q4="22" ot="" totalscore="83" id="1657" />
+    </match>
+    <match date="17.11.2019" time="00:00" status="Finished" id="666257">
+      <localteam name="San Lorenzo" q1="26" q2="14" q3="25" q4="22" ot="" totalscore="87" id="11113" />
+      <awayteam name="Hispano Americano" q1="20" q2="21" q3="24" q4="18" ot="" totalscore="83" id="12043" />
+    </match>
+    <match date="17.11.2019" time="00:30" status="Finished" id="666259">
+      <localteam name="San Martin" q1="24" q2="23" q3="22" q4="20" ot="" totalscore="89" id="6864" />
+      <awayteam name="La Union" q1="29" q2="18" q3="12" q4="17" ot="" totalscore="76" id="1649" />
+    </match>
+    <match date="17.11.2019" time="00:30" status="After Over Time" id="666258">
+      <localteam name="Gimnasia" q1="13" q2="20" q3="29" q4="23" ot="14" totalscore="99" id="1666" />
+      <awayteam name="Boca Juniors" q1="25" q2="16" q3="15" q4="29" ot="2" totalscore="87" id="1805" />
+    </match>
+    <match date="17.11.2019" time="23:00" status="Finished" id="666261">
+      <localteam name="Libertad" q1="15" q2="11" q3="19" q4="17" ot="" totalscore="62" id="1650" />
+      <awayteam name="Instituto de Cordoba" q1="25" q2="15" q3="25" q4="27" ot="" totalscore="92" id="10980" />
+    </match>
+    <match date="18.11.2019" time="00:00" status="Finished" id="666262">
+      <localteam name="Estudiantes" q1="13" q2="18" q3="24" q4="14" ot="" totalscore="69" id="1175" />
+      <awayteam name="Penarol" q1="18" q2="10" q3="17" q4="15" ot="" totalscore="60" id="1669" />
+    </match>
+    <match date="18.11.2019" time="23:00" status="Finished" id="666260">
+      <localteam name="Ferro" q1="19" q2="23" q3="9" q4="16" ot="" totalscore="67" id="12042" />
+      <awayteam name="Obras Sanitarias" q1="26" q2="22" q3="24" q4="23" ot="" totalscore="95" id="2026" />
+    </match>
+    <match date="19.11.2019" time="00:30" status="Finished" id="666264">
+      <localteam name="Regatas" q1="12" q2="20" q3="30" q4="35" ot="" totalscore="97" id="1674" />
+      <awayteam name="La Union" q1="21" q2="14" q3="27" q4="13" ot="" totalscore="75" id="1649" />
+    </match>
+    <match date="19.11.2019" time="00:30" status="Finished" id="666263">
+      <localteam name="Atenas" q1="23" q2="25" q3="18" q4="27" ot="" totalscore="93" id="1658" />
+      <awayteam name="Quimsa" q1="17" q2="19" q3="31" q4="30" ot="" totalscore="97" id="1569" />
+    </match>
+    <match date="19.11.2019" time="23:30" status="Finished" id="666266">
+      <localteam name="Weber Bahia" q1="18" q2="21" q3="16" q4="33" ot="" totalscore="88" id="8912" />
+      <awayteam name="Argentino" q1="17" q2="20" q3="13" q4="13" ot="" totalscore="63" id="1574" />
+    </match>
+    <match date="20.11.2019" time="00:00" status="Finished" id="666265">
+      <localteam name="San Lorenzo" q1="21" q2="23" q3="26" q4="20" ot="" totalscore="90" id="11113" />
+      <awayteam name="Platense" q1="20" q2="20" q3="17" q4="24" ot="" totalscore="81" id="13510" />
+    </match>
+    <match date="20.11.2019" time="00:30" status="Finished" id="666267">
+      <localteam name="Gimnasia" q1="14" q2="24" q3="22" q4="24" ot="" totalscore="84" id="1666" />
+      <awayteam name="Comunicaciones Mercedes" q1="20" q2="10" q3="24" q4="21" ot="" totalscore="75" id="13137" />
+    </match>
+    <match date="21.11.2019" time="00:00" status="Finished" id="666268">
+      <localteam name="Instituto de Cordoba" q1="26" q2="21" q3="28" q4="26" ot="" totalscore="101" id="10980" />
+      <awayteam name="Quimsa" q1="27" q2="24" q3="20" q4="14" ot="" totalscore="85" id="1569" />
+    </match>
+    <match date="22.11.2019" time="00:00" status="After Over Time" id="666272">
+      <localteam name="Regatas" q1="14" q2="12" q3="21" q4="24" ot="11" totalscore="82" id="1674" />
+      <awayteam name="Ferro" q1="18" q2="18" q3="13" q4="22" ot="12" totalscore="83" id="12042" />
+    </match>
+    <match date="22.11.2019" time="00:00" status="Finished" id="666271">
+      <localteam name="Penarol" q1="21" q2="21" q3="21" q4="22" ot="" totalscore="85" id="1669" />
+      <awayteam name="Argentino" q1="13" q2="23" q3="30" q4="16" ot="" totalscore="82" id="1574" />
+    </match>
+    <match date="22.11.2019" time="00:00" status="Finished" id="666270">
+      <localteam name="Hispano Americano" q1="16" q2="15" q3="14" q4="29" ot="" totalscore="74" id="12043" />
+      <awayteam name="Obras Sanitarias" q1="15" q2="19" q3="23" q4="25" ot="" totalscore="82" id="2026" />
+    </match>
+    <match date="22.11.2019" time="00:00" status="Finished" id="666269">
+      <localteam name="Boca Juniors" q1="24" q2="16" q3="15" q4="21" ot="" totalscore="76" id="1805" />
+      <awayteam name="Comunicaciones Mercedes" q1="25" q2="6" q3="28" q4="27" ot="" totalscore="86" id="13137" />
+    </match>
+    <match date="22.11.2019" time="01:00" status="Finished" id="666273">
+      <localteam name="La Union" q1="26" q2="17" q3="24" q4="28" ot="" totalscore="95" id="1649" />
+      <awayteam name="San Martin" q1="14" q2="19" q3="24" q4="24" ot="" totalscore="81" id="6864" />
+    </match>
+    <match date="23.11.2019" time="00:00" status="Finished" id="666274">
+      <localteam name="Estudiantes" q1="19" q2="13" q3="20" q4="15" ot="" totalscore="67" id="1175" />
+      <awayteam name="San Lorenzo" q1="13" q2="15" q3="16" q4="21" ot="" totalscore="65" id="11113" />
+    </match>
+    <match date="23.11.2019" time="00:30" status="Finished" id="666275">
+      <localteam name="Libertad" q1="24" q2="17" q3="16" q4="17" ot="" totalscore="74" id="1650" />
+      <awayteam name="Quimsa" q1="19" q2="19" q3="20" q4="21" ot="" totalscore="79" id="1569" />
+    </match>
+    <match date="24.11.2019" time="00:00" status="Finished" id="666276">
+      <localteam name="Penarol" q1="25" q2="24" q3="17" q4="27" ot="" totalscore="93" id="1669" />
+      <awayteam name="Atenas" q1="25" q2="14" q3="24" q4="29" ot="" totalscore="92" id="1658" />
+    </match>
+    <match date="24.11.2019" time="00:30" status="Finished" id="666277">
+      <localteam name="San Martin" q1="21" q2="20" q3="15" q4="19" ot="" totalscore="75" id="6864" />
+      <awayteam name="Ferro" q1="22" q2="15" q3="18" q4="12" ot="" totalscore="67" id="12042" />
+    </match>
+    <match date="25.11.2019" time="00:00" status="Finished" id="666278">
+      <localteam name="Comunicaciones Mercedes" q1="23" q2="22" q3="21" q4="21" ot="" totalscore="87" id="13137" />
+      <awayteam name="San Lorenzo" q1="23" q2="32" q3="26" q4="18" ot="" totalscore="99" id="11113" />
+    </match>
+    <match date="25.11.2019" time="00:30" status="Finished" id="666279">
+      <localteam name="Gimnasia" q1="23" q2="23" q3="23" q4="31" ot="" totalscore="100" id="1666" />
+      <awayteam name="Weber Bahia" q1="21" q2="20" q3="24" q4="24" ot="" totalscore="89" id="8912" />
+    </match>
+    <match date="25.11.2019" time="23:00" status="Finished" id="666281">
+      <localteam name="Obras Sanitarias" q1="17" q2="28" q3="26" q4="19" ot="" totalscore="90" id="2026" />
+      <awayteam name="Libertad" q1="9" q2="18" q3="11" q4="22" ot="" totalscore="60" id="1650" />
+    </match>
+    <match date="26.11.2019" time="00:00" status="Finished" id="666280">
+      <localteam name="Boca Juniors" q1="25" q2="23" q3="26" q4="20" ot="" totalscore="94" id="1805" />
+      <awayteam name="Atenas" q1="18" q2="14" q3="19" q4="16" ot="" totalscore="67" id="1658" />
+    </match>
+    <match date="26.11.2019" time="00:00" status="Finished" id="666282">
+      <localteam name="Argentino" q1="22" q2="21" q3="28" q4="18" ot="" totalscore="89" id="1574" />
+      <awayteam name="Olimpico" q1="23" q2="20" q3="20" q4="15" ot="" totalscore="78" id="1657" />
+    </match>
+    <match date="26.11.2019" time="01:00" status="Finished" id="666283">
+      <localteam name="La Union" q1="13" q2="10" q3="21" q4="21" ot="" totalscore="65" id="1649" />
+      <awayteam name="Ferro" q1="20" q2="18" q3="20" q4="16" ot="" totalscore="74" id="12042" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666284">
+      <localteam name="Platense" q1="18" q2="19" q3="21" q4="22" ot="" totalscore="80" id="13510" />
+      <awayteam name="Penarol" q1="10" q2="30" q3="20" q4="14" ot="" totalscore="74" id="1669" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666286">
+      <localteam name="Obras Sanitarias" q1="12" q2="21" q3="24" q4="22" ot="" totalscore="79" id="2026" />
+      <awayteam name="Olimpico" q1="22" q2="14" q3="28" q4="21" ot="" totalscore="85" id="1657" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666285">
+      <localteam name="Hispano Americano" q1="22" q2="20" q3="27" q4="18" ot="" totalscore="87" id="12043" />
+      <awayteam name="Libertad" q1="17" q2="15" q3="10" q4="25" ot="" totalscore="67" id="1650" />
+    </match>
+    <match date="28.11.2019" time="01:00" status="Finished" id="666287">
+      <localteam name="La Union" q1="18" q2="17" q3="23" q4="12" ot="" totalscore="70" id="1649" />
+      <awayteam name="Estudiantes" q1="9" q2="20" q3="16" q4="16" ot="" totalscore="61" id="1175" />
+    </match>
+    <match date="28.11.2019" time="23:00" status="Not Started" id="666288">
+      <localteam name="Boca Juniors" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1805" />
+      <awayteam name="Penarol" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1669" />
+    </match>
+    <match date="30.11.2019" time="00:00" status="Not Started" id="666289">
+      <localteam name="Hispano Americano" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12043" />
+      <awayteam name="Comunicaciones Mercedes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13137" />
+    </match>
+    <match date="30.11.2019" time="00:00" status="Not Started" id="666290">
+      <localteam name="Instituto de Cordoba" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10980" />
+      <awayteam name="Argentino" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1574" />
+    </match>
+    <match date="30.11.2019" time="00:30" status="Not Started" id="666291">
+      <localteam name="Regatas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1674" />
+      <awayteam name="Estudiantes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1175" />
+    </match>
+    <match date="30.11.2019" time="23:30" status="Not Started" id="666292">
+      <localteam name="Weber Bahia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8912" />
+      <awayteam name="Platense" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13510" />
+    </match>
+    <match date="01.12.2019" time="23:00" status="Not Started" id="666293">
+      <localteam name="Ferro" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12042" />
+      <awayteam name="Comunicaciones Mercedes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13137" />
+    </match>
+    <match date="02.12.2019" time="00:00" status="Not Started" id="666294">
+      <localteam name="Olimpico" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1657" />
+      <awayteam name="Gimnasia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1666" />
+    </match>
+    <match date="02.12.2019" time="00:30" status="Not Started" id="666295">
+      <localteam name="Atenas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1658" />
+      <awayteam name="Argentino" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1574" />
+    </match>
+    <match date="02.12.2019" time="00:30" status="Not Started" id="666296">
+      <localteam name="San Martin" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6864" />
+      <awayteam name="Estudiantes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1175" />
+    </match>
+    <match date="02.12.2019" time="23:30" status="Not Started" id="666297">
+      <localteam name="Weber Bahia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8912" />
+      <awayteam name="Obras Sanitarias" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2026" />
+    </match>
+    <match date="03.12.2019" time="00:00" status="Not Started" id="666298">
+      <localteam name="Hispano Americano" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12043" />
+      <awayteam name="San Lorenzo" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11113" />
+    </match>
+    <match date="03.12.2019" time="00:00" status="Not Started" id="666299">
+      <localteam name="Penarol" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1669" />
+      <awayteam name="Platense" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13510" />
+    </match>
+    <match date="03.12.2019" time="01:00" status="Not Started" id="666300">
+      <localteam name="La Union" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1649" />
+      <awayteam name="Instituto de Cordoba" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10980" />
+    </match>
+    <match date="04.12.2019" time="00:30" status="Not Started" id="666301">
+      <localteam name="Libertad" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1650" />
+      <awayteam name="Boca Juniors" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1805" />
+    </match>
+    <match date="04.12.2019" time="01:00" status="Not Started" id="666302">
+      <localteam name="Quimsa" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1569" />
+      <awayteam name="Gimnasia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1666" />
+    </match>
+    <match date="05.12.2019" time="00:30" status="Not Started" id="666303">
+      <localteam name="San Martin" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6864" />
+      <awayteam name="Instituto de Cordoba" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10980" />
+    </match>
+    <match date="05.12.2019" time="23:00" status="Not Started" id="666304">
+      <localteam name="San Lorenzo" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11113" />
+      <awayteam name="Obras Sanitarias" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2026" />
+    </match>
+    <match date="06.12.2019" time="00:00" status="Not Started" id="666305">
+      <localteam name="Comunicaciones Mercedes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13137" />
+      <awayteam name="La Union" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1649" />
+    </match>
+    <match date="06.12.2019" time="00:00" status="Not Started" id="666306">
+      <localteam name="Platense" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13510" />
+      <awayteam name="Ferro" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12042" />
+    </match>
+    <match date="07.12.2019" time="00:00" status="Not Started" id="666307">
+      <localteam name="Argentino" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1574" />
+      <awayteam name="Quimsa" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1569" />
+    </match>
+    <match date="07.12.2019" time="00:00" status="Not Started" id="666308">
+      <localteam name="Penarol" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1669" />
+      <awayteam name="Weber Bahia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8912" />
+    </match>
+    <match date="07.12.2019" time="00:30" status="Not Started" id="666309">
+      <localteam name="Regatas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1674" />
+      <awayteam name="Instituto de Cordoba" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10980" />
+    </match>
+    <match date="08.12.2019" time="00:00" status="Not Started" id="666310">
+      <localteam name="Boca Juniors" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1805" />
+      <awayteam name="Hispano Americano" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12043" />
+    </match>
+    <match date="08.12.2019" time="00:30" status="Not Started" id="666311">
+      <localteam name="Estudiantes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1175" />
+      <awayteam name="La Union" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1649" />
+    </match>
+    <match date="08.12.2019" time="23:00" status="Not Started" id="666312">
+      <localteam name="Ferro" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12042" />
+      <awayteam name="San Lorenzo" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11113" />
+    </match>
+    <match date="08.12.2019" time="23:00" status="Not Started" id="666313">
+      <localteam name="Libertad" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1650" />
+      <awayteam name="Olimpico" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1657" />
+    </match>
+    <match date="09.12.2019" time="00:00" status="Not Started" id="666314">
+      <localteam name="Platense" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13510" />
+      <awayteam name="Quimsa" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1569" />
+    </match>
+    <match date="09.12.2019" time="23:30" status="Not Started" id="666315">
+      <localteam name="Weber Bahia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8912" />
+      <awayteam name="Comunicaciones Mercedes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13137" />
+    </match>
+    <match date="10.12.2019" time="00:30" status="Not Started" id="666316">
+      <localteam name="Atenas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1658" />
+      <awayteam name="Hispano Americano" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12043" />
+    </match>
+    <match date="10.12.2019" time="00:30" status="Not Started" id="666317">
+      <localteam name="Gimnasia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1666" />
+      <awayteam name="Obras Sanitarias" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2026" />
+    </match>
+    <match date="11.12.2019" time="00:00" status="Not Started" id="666318">
+      <localteam name="Ferro" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12042" />
+      <awayteam name="Argentino" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1574" />
+    </match>
+    <match date="11.12.2019" time="00:30" status="Not Started" id="666319">
+      <localteam name="San Martin" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6864" />
+      <awayteam name="Regatas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1674" />
+    </match>
+    <match date="12.12.2019" time="00:00" status="Not Started" id="666320">
+      <localteam name="Instituto de Cordoba" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10980" />
+      <awayteam name="Hispano Americano" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12043" />
+    </match>
+    <match date="12.12.2019" time="00:00" status="Not Started" id="666321">
+      <localteam name="Penarol" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1669" />
+      <awayteam name="Comunicaciones Mercedes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13137" />
+    </match>
+    <match date="12.12.2019" time="01:00" status="Not Started" id="666322">
+      <localteam name="La Union" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1649" />
+      <awayteam name="San Lorenzo" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11113" />
+    </match>
+    <match date="12.12.2019" time="01:00" status="Not Started" id="666323">
+      <localteam name="Quimsa" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1569" />
+      <awayteam name="Estudiantes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1175" />
+    </match>
+    <match date="12.12.2019" time="23:00" status="Not Started" id="666324">
+      <localteam name="Obras Sanitarias" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2026" />
+      <awayteam name="Argentino" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1574" />
+    </match>
+    <match date="13.12.2019" time="00:30" status="Not Started" id="666325">
+      <localteam name="Gimnasia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1666" />
+      <awayteam name="Platense" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13510" />
+    </match>
+    <match date="14.12.2019" time="01:00" status="Not Started" id="666326">
+      <localteam name="La Union" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1649" />
+      <awayteam name="Boca Juniors" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1805" />
+    </match>
+    <match date="14.12.2019" time="01:00" status="Not Started" id="666327">
+      <localteam name="Olimpico" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1657" />
+      <awayteam name="Estudiantes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1175" />
+    </match>
+    <match date="14.12.2019" time="23:00" status="Not Started" id="666328">
+      <localteam name="San Lorenzo" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11113" />
+      <awayteam name="Argentino" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1574" />
+    </match>
+    <match date="15.12.2019" time="00:00" status="Not Started" id="666329">
+      <localteam name="Hispano Americano" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12043" />
+      <awayteam name="Regatas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1674" />
+    </match>
+    <match date="15.12.2019" time="00:00" status="Not Started" id="666330">
+      <localteam name="Instituto de Cordoba" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10980" />
+      <awayteam name="Weber Bahia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8912" />
+    </match>
+    <match date="15.12.2019" time="23:00" status="Not Started" id="666331">
+      <localteam name="Libertad" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1650" />
+      <awayteam name="Estudiantes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1175" />
+    </match>
+    <match date="16.12.2019" time="23:00" status="Not Started" id="666332">
+      <localteam name="Boca Juniors" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1805" />
+      <awayteam name="Ferro" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12042" />
+    </match>
+    <match date="17.12.2019" time="00:00" status="Not Started" id="666333">
+      <localteam name="Comunicaciones Mercedes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13137" />
+      <awayteam name="San Martin" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6864" />
+    </match>
+    <match date="17.12.2019" time="00:00" status="Not Started" id="666334">
+      <localteam name="Platense" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13510" />
+      <awayteam name="Regatas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1674" />
+    </match>
+    <match date="17.12.2019" time="00:30" status="Not Started" id="666335">
+      <localteam name="Atenas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1658" />
+      <awayteam name="Weber Bahia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8912" />
+    </match>
+    <match date="18.12.2019" time="01:00" status="Not Started" id="666336">
+      <localteam name="Olimpico" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1657" />
+      <awayteam name="La Union" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1649" />
+    </match>
+    <match date="18.12.2019" time="23:00" status="Not Started" id="666337">
+      <localteam name="Obras Sanitarias" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2026" />
+      <awayteam name="Penarol" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1669" />
+    </match>
+    <match date="19.12.2019" time="00:00" status="Not Started" id="666338">
+      <localteam name="Ferro" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12042" />
+      <awayteam name="Regatas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1674" />
+    </match>
+    <match date="19.12.2019" time="00:30" status="Not Started" id="666339">
+      <localteam name="Estudiantes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1175" />
+      <awayteam name="San Martin" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6864" />
+    </match>
+    <match date="20.12.2019" time="00:00" status="Not Started" id="666340">
+      <localteam name="Argentino" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1574" />
+      <awayteam name="Atenas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1658" />
+    </match>
+    <match date="20.12.2019" time="01:00" status="Not Started" id="666341">
+      <localteam name="Quimsa" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1569" />
+      <awayteam name="La Union" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1649" />
+    </match>
+    <match date="21.12.2019" time="00:00" status="Not Started" id="666342">
+      <localteam name="Comunicaciones Mercedes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13137" />
+      <awayteam name="Olimpico" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1657" />
+    </match>
+    <match date="21.12.2019" time="00:30" status="Not Started" id="666343">
+      <localteam name="Gimnasia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1666" />
+      <awayteam name="Penarol" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1669" />
+    </match>
+    <match date="21.12.2019" time="00:30" status="Not Started" id="666344">
+      <localteam name="Libertad" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1650" />
+      <awayteam name="San Martin" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6864" />
+    </match>
+    <match date="21.12.2019" time="23:30" status="Not Started" id="666345">
+      <localteam name="Weber Bahia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8912" />
+      <awayteam name="Atenas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1658" />
+    </match>
+    <match date="22.12.2019" time="00:00" status="Not Started" id="666346">
+      <localteam name="Boca Juniors" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1805" />
+      <awayteam name="Platense" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13510" />
+    </match>
+    <match date="22.12.2019" time="00:00" status="Not Started" id="666347">
+      <localteam name="Hispano Americano" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12043" />
+      <awayteam name="Ferro" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12042" />
+    </match>
+    <match date="23.12.2019" time="00:00" status="Not Started" id="666348">
+      <localteam name="Estudiantes" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1175" />
+      <awayteam name="Olimpico" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1657" />
+    </match>
+  </tournament>
+</results>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scores sport="basketball">
+  <category name="Argentina: Liga A" id="1170" file_group="argentina">
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666285">
+      <localteam name="Hispano Americano" q1="22" q2="20" q3="27" q4="18" ot="" totalscore="87" id="12043" />
+      <awayteam name="Libertad" q1="17" q2="15" q3="10" q4="25" ot="" totalscore="67" id="1650" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666286">
+      <localteam name="Obras Sanitarias" q1="12" q2="21" q3="24" q4="22" ot="" totalscore="79" id="2026" />
+      <awayteam name="Olimpico" q1="22" q2="14" q3="28" q4="21" ot="" totalscore="85" id="1657" />
+    </match>
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="666287">
+      <localteam name="La Union" q1="18" q2="17" q3="23" q4="12" ot="" totalscore="70" id="1649" />
+      <awayteam name="Estudiantes" q1="9" q2="20" q3="16" q4="16" ot="" totalscore="61" id="1175" />
+    </match>
+    <match date="28.11.2019" time="23:00" timer="" status="Not Started" id="666288">
+      <localteam name="Boca Juniors" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1805" />
+      <awayteam name="Penarol" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1669" />
+    </match>
+  </category>
+  <category name="Asia: Abl" id="1307" file_group="asia">
+    <match date="28.11.2019" time="11:00" timer="" status="Not Started" id="665866">
+      <localteam name="Mono Vampire" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11218" />
+      <awayteam name="Malaysia Dragons" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7728" />
+    </match>
+  </category>
+  <category name="Belarus: Premier League Women" id="3967" file_group="belarus">
+    <match date="28.11.2019" time="14:30" timer="" status="Not Started" id="655918">
+      <localteam name="Olimpia Grodno W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11640" />
+      <awayteam name="Horizont Minsk 2 W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13773" />
+    </match>
+    <match date="28.11.2019" time="15:00" timer="" status="Not Started" id="655919">
+      <localteam name="Victoria Brest W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13774" />
+      <awayteam name="Victoria Grodno W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13772" />
+    </match>
+  </category>
+  <category name="Brazil: Nbb" id="1171" file_group="brazil">
+    <match date="27.11.2019" time="23:00" timer="" status="Finished" id="656844">
+      <localteam name="Pinheiros" q1="21" q2="21" q3="19" q4="22" ot="" totalscore="83" id="1811" />
+      <awayteam name="Cearense" q1="14" q2="19" q3="19" q4="18" ot="" totalscore="70" id="7844" />
+    </match>
+    <match date="28.11.2019" time="23:00" timer="" status="Not Started" id="656845">
+      <localteam name="Paulistano" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1809" />
+      <awayteam name="Unifacisa" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14991" />
+    </match>
+  </category>
+  <category name="Canada: U Sports" id="3613" file_group="canada">
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="663679">
+      <localteam name="Ryerson" q1="15" q2="21" q3="18" q4="19" ot="" totalscore="73" id="10268" />
+      <awayteam name="Toronto" q1="18" q2="20" q3="18" q4="24" ot="" totalscore="80" id="10314" />
+    </match>
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="663680">
+      <localteam name="Western" q1="32" q2="19" q3="25" q4="14" ot="" totalscore="90" id="10269" />
+      <awayteam name="Laurier" q1="9" q2="26" q3="27" q4="18" ot="" totalscore="80" id="10302" />
+    </match>
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="663681">
+      <localteam name="Windsor" q1="29" q2="30" q3="21" q4="18" ot="" totalscore="98" id="8086" />
+      <awayteam name="Guelph" q1="14" q2="23" q3="22" q4="18" ot="" totalscore="77" id="10315" />
+    </match>
+  </category>
+  <category name="Chile: Lnb" id="2633" file_group="chile">
+    <match date="27.11.2019" time="23:00" timer="" status="Finished" id="661793">
+      <localteam name="CD Puerto Varas" q1="21" q2="20" q3="16" q4="24" ot="" totalscore="81" id="11074" />
+      <awayteam name="Deportes Castro" q1="13" q2="23" q3="16" q4="17" ot="" totalscore="69" id="8058" />
+    </match>
+  </category>
+  <category name="China: Cba" id="1571" file_group="china">
+    <match date="28.11.2019" time="11:35" timer="" status="Not Started" id="653231">
+      <localteam name="Beijing" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7535" />
+      <awayteam name="Bayi Rockets" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9394" />
+    </match>
+    <match date="28.11.2019" time="11:35" timer="" status="Not Started" id="653232">
+      <localteam name="Nanjing Tongxi" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13499" />
+      <awayteam name="Shenzhen" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11244" />
+    </match>
+    <match date="28.11.2019" time="11:35" timer="" status="Not Started" id="653233">
+      <localteam name="Shanghai" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7533" />
+      <awayteam name="Guangzhou" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13500" />
+    </match>
+    <match date="28.11.2019" time="11:35" timer="" status="Not Started" id="653234">
+      <localteam name="Zhejiang Chouzhou" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10647" />
+      <awayteam name="Qingdao" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7539" />
+    </match>
+    <match date="28.11.2019" time="11:35" timer="" status="Not Started" id="653235">
+      <localteam name="Zhejiang Guangsha" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8177" />
+      <awayteam name="Shandong" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7540" />
+    </match>
+  </category>
+  <category name="China: Wcba Women" id="2281" file_group="china">
+    <match date="28.11.2019" time="11:30" timer="" status="Not Started" id="669966">
+      <localteam name="Bayi Kilin W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10289" />
+      <awayteam name="Zhejiang Golden Bulls W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14559" />
+    </match>
+    <match date="28.11.2019" time="11:30" timer="" status="Not Started" id="669967">
+      <localteam name="Beijing W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8235" />
+      <awayteam name="Shandong W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9490" />
+    </match>
+    <match date="28.11.2019" time="11:30" timer="" status="Not Started" id="669968">
+      <localteam name="Fujian W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14350" />
+      <awayteam name="Henan W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8230" />
+    </match>
+    <match date="28.11.2019" time="11:30" timer="" status="Not Started" id="669969">
+      <localteam name="Hebei W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14351" />
+      <awayteam name="Sichuan W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10422" />
+    </match>
+    <match date="28.11.2019" time="11:30" timer="" status="Not Started" id="669970">
+      <localteam name="Jiangsu Phoenix W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12292" />
+      <awayteam name="Shanghai W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8239" />
+    </match>
+    <match date="28.11.2019" time="11:30" timer="" status="Not Started" id="669971">
+      <localteam name="Shaanxi Tianze W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13450" />
+      <awayteam name="Inner Mongolia W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="15283" />
+    </match>
+    <match date="28.11.2019" time="11:30" timer="" status="Not Started" id="669972">
+      <localteam name="Shanxi Xing Rui W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8231" />
+      <awayteam name="Tianjin W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14352" />
+    </match>
+    <match date="28.11.2019" time="11:30" timer="" status="Not Started" id="669973">
+      <localteam name="Wuhan W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14353" />
+      <awayteam name="Guangdong W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8228" />
+    </match>
+    <match date="28.11.2019" time="12:00" timer="" status="Not Started" id="669974">
+      <localteam name="Xinjiang W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11220" />
+      <awayteam name="Heilongjiang W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8229" />
+    </match>
+  </category>
+  <category name="Europe: Euroleague" id="1287" file_group="europe">
+    <match date="28.11.2019" time="17:45" timer="" status="Not Started" id="643927">
+      <localteam name="Fenerbahce" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1072" />
+      <awayteam name="Khimki M." q1="" q2="" q3="" q4="" ot="" totalscore="" id="12320" />
+    </match>
+    <match date="28.11.2019" time="18:00" timer="" status="Not Started" id="643928">
+      <localteam name="Crvena zvezda mts" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12408" />
+      <awayteam name="Valencia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1187" />
+    </match>
+    <match date="28.11.2019" time="19:00" timer="" status="Not Started" id="643929">
+      <localteam name="Alba Berlin" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1124" />
+      <awayteam name="Zalgiris Kaunas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1319" />
+    </match>
+    <match date="28.11.2019" time="19:00" timer="" status="Not Started" id="643930">
+      <localteam name="Panathinaikos" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1071" />
+      <awayteam name="Baskonia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12190" />
+    </match>
+    <match date="28.11.2019" time="19:05" timer="" status="Not Started" id="643931">
+      <localteam name="Maccabi Tel Aviv" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1020" />
+      <awayteam name="Lyon-Villeurbanne" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1107" />
+    </match>
+  </category>
+  <category name="Europe: Aba League 2" id="3608" file_group="europe">
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="642872">
+      <localteam name="Siroki Brijeg" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13687" />
+      <awayteam name="Borac" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1732" />
+    </match>
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="642870">
+      <localteam name="KK Dynamic" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12041" />
+      <awayteam name="MZT Skopje" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9656" />
+    </match>
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="642873">
+      <localteam name="Split" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2054" />
+      <awayteam name="Rogaska" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7070" />
+    </match>
+    <match date="28.11.2019" time="18:00" timer="" status="Not Started" id="642871">
+      <localteam name="OKK Novi Pazar" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14062" />
+      <awayteam name="Spars Sarajevo" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10595" />
+    </match>
+  </category>
+  <category name="Europe: Alpe Adria Cup" id="2764" file_group="europe">
+    <match date="28.11.2019" time="18:45" timer="" status="Not Started" id="657508">
+      <localteam name="Graz UBSC" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2030" />
+      <awayteam name="Usti n. Labem" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10622" />
+    </match>
+  </category>
+  <category name="Europe: Euroleague Women" id="1527" file_group="europe">
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="662118">
+      <localteam name="Euroleasing Sopron W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6897" />
+      <awayteam name="Arka Gdynia W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14593" />
+    </match>
+  </category>
+  <category name="Europe: Eurocup Women" id="2237" file_group="europe">
+    <match date="28.11.2019" time="15:00" timer="" status="Not Started" id="662715">
+      <localteam name="Hatay W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10332" />
+      <awayteam name="Ruzomberok W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7926" />
+    </match>
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="662714">
+      <localteam name="Botas W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8071" />
+      <awayteam name="KP Brno W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12163" />
+    </match>
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="662716">
+      <localteam name="MBA Moscow W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10922" />
+      <awayteam name="Besiktas W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8135" />
+    </match>
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="662721">
+      <localteam name="Artego Bydgoszcz W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8104" />
+      <awayteam name="Lulea W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10819" />
+    </match>
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="662717">
+      <localteam name="Gorzow W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7051" />
+      <awayteam name="Elitzur Ramla W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8064" />
+    </match>
+    <match date="28.11.2019" time="17:30" timer="" status="Not Started" id="662722">
+      <localteam name="Cegledi W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6924" />
+      <awayteam name="Namur W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8066" />
+    </match>
+    <match date="28.11.2019" time="18:00" timer="" status="Not Started" id="662718">
+      <localteam name="Keltern W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10848" />
+      <awayteam name="Sint-Katelijne-Waver W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13539" />
+    </match>
+    <match date="28.11.2019" time="18:00" timer="" status="Not Started" id="662719">
+      <localteam name="Umea W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14191" />
+      <awayteam name="Bellona Kayseri W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14287" />
+    </match>
+    <match date="28.11.2019" time="18:30" timer="" status="Not Started" id="662720">
+      <localteam name="Fribourg W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10821" />
+      <awayteam name="Liege W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13533" />
+    </match>
+    <match date="28.11.2019" time="19:30" timer="" status="Not Started" id="662723">
+      <localteam name="Perfumerias Avenida W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12578" />
+      <awayteam name="Olivais W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="15208" />
+    </match>
+  </category>
+  <category name="Europe: Waba League Women" id="3234" file_group="europe">
+    <match date="28.11.2019" time="17:30" timer="" status="Not Started" id="650290">
+      <localteam name="Tresnjevka 2009 W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="10509" />
+      <awayteam name="ZKK Kraljevo W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12133" />
+    </match>
+  </category>
+  <category name="Europe: Wbbl Women" id="3253" file_group="europe">
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="660658">
+      <localteam name="TTT Riga 2 W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12356" />
+      <awayteam name="Daugavpils W" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13263" />
+    </match>
+  </category>
+  <category name="France: Lnb" id="1001" file_group="france">
+    <match date="28.11.2019" time="19:00" timer="" status="Not Started" id="642573">
+      <localteam name="Chalons-Reims" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6471" />
+      <awayteam name="Monaco" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9260" />
+    </match>
+  </category>
+  <category name="Iceland: Premier League" id="2275" file_group="iceland">
+    <match date="28.11.2019" time="19:15" timer="" status="Not Started" id="650408">
+      <localteam name="IR" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8215" />
+      <awayteam name="Grindavik" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8217" />
+    </match>
+    <match date="28.11.2019" time="19:15" timer="" status="Not Started" id="650410">
+      <localteam name="Njardvik" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12439" />
+      <awayteam name="Haukar" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9234" />
+    </match>
+    <match date="28.11.2019" time="19:15" timer="" status="Not Started" id="650412">
+      <localteam name="Tindastoll" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8220" />
+      <awayteam name="Thorl" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8221" />
+    </match>
+    <match date="28.11.2019" time="19:15" timer="" status="Not Started" id="650413">
+      <localteam name="Valur" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9235" />
+      <awayteam name="Thor AK Akureyri" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12245" />
+    </match>
+  </category>
+  <category name="Israel: Super League" id="1034" file_group="israel">
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="651263">
+      <localteam name="Hapoel Eilat" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7822" />
+      <awayteam name="Gilboa Galil" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8723" />
+    </match>
+  </category>
+  <category name="Israel: Liga Leumit" id="4227" file_group="israel">
+    <match date="28.11.2019" time="17:45" timer="" status="Not Started" id="665673">
+      <localteam name="Bnei Herzliya" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8575" />
+      <awayteam name="Ramat Hasharon" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7946" />
+    </match>
+  </category>
+  <category name="Kosovo: Superliga" id="2536" file_group="kosovo">
+    <match date="28.11.2019" time="18:00" timer="" status="Not Started" id="659318">
+      <localteam name="Kalaja" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13795" />
+      <awayteam name="Lipjani" q1="" q2="" q3="" q4="" ot="" totalscore="" id="13991" />
+    </match>
+    <match date="28.11.2019" time="18:00" timer="" status="Not Started" id="659319">
+      <localteam name="Peja" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8925" />
+      <awayteam name="Feronikeli" q1="" q2="" q3="" q4="" ot="" totalscore="" id="15053" />
+    </match>
+  </category>
+  <category name="Lithuania: Lkl" id="1525" file_group="lithuania">
+    <match date="28.11.2019" time="16:30" timer="" status="Not Started" id="651392">
+      <localteam name="Lietkabelis" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7706" />
+      <awayteam name="Rytas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14005" />
+    </match>
+  </category>
+  <category name="Lithuania: Nkl" id="3249" file_group="lithuania">
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="660880">
+      <localteam name="Delikatesas Joniskis" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12323" />
+      <awayteam name="Perlas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1448" />
+    </match>
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="660882">
+      <localteam name="Klaipedos Neptunas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14193" />
+      <awayteam name="Ezerunas" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12322" />
+    </match>
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="660883">
+      <localteam name="Silute" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12331" />
+      <awayteam name="Mazeikiai" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9369" />
+    </match>
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="660884">
+      <localteam name="Suduva-Mantinga" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12548" />
+      <awayteam name="Sakiai Vytis" q1="" q2="" q3="" q4="" ot="" totalscore="" id="12541" />
+    </match>
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="660885">
+      <localteam name="Telsiai" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9368" />
+      <awayteam name="Silales Lusis" q1="" q2="" q3="" q4="" ot="" totalscore="" id="15095" />
+    </match>
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="660886">
+      <localteam name="Zalgiris Kaunas 2" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9370" />
+      <awayteam name="Palanga" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7707" />
+    </match>
+  </category>
+  <category name="Netherlands: Dbl" id="2338" file_group="holland">
+    <match date="28.11.2019" time="18:30" timer="" status="Not Started" id="644637">
+      <localteam name="Den Helder" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7823" />
+      <awayteam name="Rotterdam" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2090" />
+    </match>
+  </category>
+  <category name="North Macedonia: Superleague" id="4084" file_group="north_macedonia">
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="665068">
+      <localteam name="Euro Nickel" q1="" q2="" q3="" q4="" ot="" totalscore="" id="14929" />
+      <awayteam name="MZT Skopje" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9656" />
+    </match>
+  </category>
+  <category name="Norway: Blno" id="1115" file_group="norway">
+    <match date="28.11.2019" time="18:00" timer="" status="Not Started" id="652054">
+      <localteam name="Ammerud" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1611" />
+      <awayteam name="Asker" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1790" />
+    </match>
+  </category>
+  <category name="Poland: Energa Basket Liga" id="3634" file_group="poland">
+    <match date="28.11.2019" time="16:30" timer="" status="Not Started" id="652741">
+      <localteam name="Zielona Gora" q1="" q2="" q3="" q4="" ot="" totalscore="" id="8714" />
+      <awayteam name="Gdynia" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11881" />
+    </match>
+  </category>
+  <category name="South Korea: Wkbl Women" id="1545" file_group="south_korea">
+    <match date="28.11.2019" time="10:00" timer="3" status="3rd Quarter" id="654829">
+      <localteam name="KEB Hanabank W" q1="11" q2="16" q3="7" q4="" ot="" totalscore="34" id="10633" />
+      <awayteam name="Woori Wibee W" q1="17" q2="13" q3="0" q4="" ot="" totalscore="30" id="12291" />
+    </match>
+  </category>
+  <category name="Ukraine: Fbu Superleague" id="2772" file_group="ukraine">
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="655719">
+      <localteam name="Mykolaiv" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1797" />
+      <awayteam name="BK Zaporozhye" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11090" />
+    </match>
+  </category>
+  <category name="Usa: Nba" id="1046" file_group="usa">
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="648926">
+      <localteam name="Boston Celtics" q1="30" q2="27" q3="34" q4="30" ot="" totalscore="121" id="1067" />
+      <awayteam name="Brooklyn Nets" q1="23" q2="40" q3="23" q4="24" ot="" totalscore="110" id="8055" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="648927">
+      <localteam name="Charlotte Hornets" q1="31" q2="24" q3="31" q4="16" ot="" totalscore="102" id="1185" />
+      <awayteam name="Detroit Pistons" q1="32" q2="28" q3="20" q4="21" ot="" totalscore="101" id="1203" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="648928">
+      <localteam name="Cleveland Cavaliers" q1="27" q2="25" q3="21" q4="31" ot="" totalscore="104" id="1183" />
+      <awayteam name="Orlando Magic" q1="27" q2="32" q3="28" q4="29" ot="" totalscore="116" id="1127" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="648929">
+      <localteam name="Indiana Pacers" q1="21" q2="32" q3="36" q4="32" ot="" totalscore="121" id="1219" />
+      <awayteam name="Utah Jazz" q1="20" q2="23" q3="37" q4="22" ot="" totalscore="102" id="1180" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="648930">
+      <localteam name="Philadelphia 76ers" q1="25" q2="22" q3="29" q4="21" ot="" totalscore="97" id="1208" />
+      <awayteam name="Sacramento Kings" q1="18" q2="28" q3="19" q4="26" ot="" totalscore="91" id="1225" />
+    </match>
+    <match date="28.11.2019" time="00:30" timer="" status="Finished" id="648931">
+      <localteam name="Toronto Raptors" q1="21" q2="37" q3="31" q4="37" ot="" totalscore="126" id="1212" />
+      <awayteam name="New York Knicks" q1="29" q2="17" q3="23" q4="29" ot="" totalscore="98" id="1213" />
+    </match>
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="648932">
+      <localteam name="Houston Rockets" q1="27" q2="39" q3="25" q4="26" ot="" totalscore="117" id="1193" />
+      <awayteam name="Miami Heat" q1="23" q2="19" q3="26" q4="40" ot="" totalscore="108" id="1197" />
+    </match>
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="648933">
+      <localteam name="Memphis Grizzlies" q1="31" q2="29" q3="28" q4="31" ot="" totalscore="119" id="1206" />
+      <awayteam name="Los Angeles Clippers" q1="35" q2="29" q3="28" q4="29" ot="" totalscore="121" id="1171" />
+    </match>
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="648934">
+      <localteam name="Milwaukee Bucks" q1="33" q2="27" q3="21" q4="30" ot="" totalscore="111" id="1184" />
+      <awayteam name="Atlanta Hawks" q1="17" q2="42" q3="23" q4="20" ot="" totalscore="102" id="1182" />
+    </match>
+    <match date="28.11.2019" time="01:30" timer="" status="Finished" id="648935">
+      <localteam name="San Antonio Spurs" q1="24" q2="23" q3="31" q4="23" ot="" totalscore="101" id="1190" />
+      <awayteam name="Minnesota Timberwolves" q1="22" q2="35" q3="24" q4="32" ot="" totalscore="113" id="1202" />
+    </match>
+    <match date="28.11.2019" time="02:00" timer="" status="Finished" id="648936">
+      <localteam name="Phoenix Suns" q1="34" q2="35" q3="26" q4="37" ot="" totalscore="132" id="1121" />
+      <awayteam name="Washington Wizards" q1="36" q2="38" q3="34" q4="32" ot="" totalscore="140" id="1218" />
+    </match>
+    <match date="28.11.2019" time="02:30" timer="" status="Finished" id="648937">
+      <localteam name="New Orleans Pelicans" q1="38" q2="26" q3="25" q4="21" ot="" totalscore="110" id="1194" />
+      <awayteam name="Los Angeles Lakers" q1="25" q2="29" q3="25" q4="35" ot="" totalscore="114" id="1066" />
+    </match>
+    <match date="28.11.2019" time="03:00" timer="" status="Finished" id="648938">
+      <localteam name="Portland Trail Blazers" q1="42" q2="21" q3="41" q4="32" ot="" totalscore="136" id="1550" />
+      <awayteam name="Oklahoma City Thunder" q1="26" q2="24" q3="27" q4="42" ot="" totalscore="119" id="1205" />
+    </match>
+    <match date="28.11.2019" time="03:30" timer="" status="Finished" id="648939">
+      <localteam name="Golden State Warriors" q1="25" q2="28" q3="25" q4="26" ot="" totalscore="104" id="1177" />
+      <awayteam name="Chicago Bulls" q1="17" q2="31" q3="25" q4="17" ot="" totalscore="90" id="1186" />
+    </match>
+  </category>
+  <category name="Usa: Nba G League" id="3473" file_group="usa">
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="660399">
+      <localteam name="Capital City Go-Go" q1="30" q2="29" q3="30" q4="29" ot="" totalscore="118" id="14361" />
+      <awayteam name="College Park Skyhawks" q1="33" q2="27" q3="20" q4="30" ot="" totalscore="110" id="15074" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="660400">
+      <localteam name="Grand Rapids Drive" q1="26" q2="38" q3="30" q4="33" ot="" totalscore="127" id="10095" />
+      <awayteam name="Erie BayHawks" q1="24" q2="28" q3="24" q4="28" ot="" totalscore="104" id="8538" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="660401">
+      <localteam name="Greensboro Swarm" q1="24" q2="33" q3="36" q4="38" ot="" totalscore="131" id="12240" />
+      <awayteam name="Maine Red Claws" q1="42" q2="41" q3="36" q4="36" ot="" totalscore="155" id="8539" />
+    </match>
+    <match date="28.11.2019" time="00:30" timer="" status="Finished" id="660402">
+      <localteam name="Sioux Falls Skyforce" q1="22" q2="33" q3="34" q4="15" ot="" totalscore="104" id="8541" />
+      <awayteam name="Texas Legends" q1="33" q2="31" q3="18" q4="24" ot="" totalscore="106" id="8546" />
+    </match>
+  </category>
+  <category name="Usa: Ncaa" id="2691" file_group="usa">
+    <match date="27.11.2019" time="23:00" timer="" status="Finished" id="670479">
+      <localteam name="Bradley" q1="0" q2="38" q3="0" q4="35" ot="" totalscore="73" id="2268" />
+      <awayteam name="Kansas State" q1="0" q2="37" q3="0" q4="23" ot="" totalscore="60" id="1988" />
+    </match>
+    <match date="27.11.2019" time="23:00" timer="" status="Finished" id="670829">
+      <localteam name="Northern Iowa" q1="0" q2="44" q3="0" q4="34" ot="" totalscore="78" id="1896" />
+      <awayteam name="South Carolina" q1="0" q2="37" q3="0" q4="35" ot="" totalscore="72" id="2004" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666721">
+      <localteam name="Delaware" q1="0" q2="39" q3="0" q4="36" ot="" totalscore="75" id="1841" />
+      <awayteam name="Stony Brook" q1="0" q2="20" q3="0" q4="41" ot="" totalscore="61" id="1912" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666722">
+      <localteam name="IPFW" q1="0" q2="38" q3="0" q4="39" ot="" totalscore="77" id="2003" />
+      <awayteam name="Niagara" q1="0" q2="34" q3="0" q4="20" ot="" totalscore="54" id="2523" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666723">
+      <localteam name="Monmouth" q1="0" q2="38" q3="0" q4="37" ot="" totalscore="75" id="2505" />
+      <awayteam name="Norfolk State" q1="0" q2="33" q3="0" q4="38" ot="" totalscore="71" id="1886" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="667026">
+      <localteam name="Robert Morris" q1="0" q2="40" q3="0" q4="62" ot="" totalscore="102" id="1863" />
+      <awayteam name="Geneva" q1="0" q2="29" q3="0" q4="33" ot="" totalscore="62" id="8255" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666724">
+      <localteam name="SMU Mustangs" q1="0" q2="45" q3="0" q4="45" ot="" totalscore="90" id="9628" />
+      <awayteam name="Hartford" q1="0" q2="23" q3="0" q4="35" ot="" totalscore="58" id="2156" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666725">
+      <localteam name="Southern Miss" q1="0" q2="32" q3="0" q4="37" ot="" totalscore="69" id="1926" />
+      <awayteam name="Gonzaga" q1="0" q2="53" q3="0" q4="41" ot="" totalscore="94" id="1986" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666728">
+      <localteam name="Syracuse" q1="0" q2="31" q3="0" q4="41" ot="" totalscore="72" id="1895" />
+      <awayteam name="Oklahoma State" q1="0" q2="43" q3="0" q4="43" ot="" totalscore="86" id="1842" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="667027">
+      <localteam name="Vermont" q1="0" q2="51" q3="0" q4="42" ot="" totalscore="93" id="2203" />
+      <awayteam name="Gallaudet" q1="0" q2="13" q3="0" q4="31" ot="" totalscore="44" id="11611" />
+    </match>
+    <match date="28.11.2019" time="00:00" timer="" status="Finished" id="666726">
+      <localteam name="Youngstown State" q1="0" q2="53" q3="0" q4="40" ot="" totalscore="93" id="1929" />
+      <awayteam name="Westminster College" q1="0" q2="23" q3="0" q4="44" ot="" totalscore="67" id="11686" />
+    </match>
+    <match date="28.11.2019" time="00:30" timer="" status="Finished" id="666727">
+      <localteam name="CS Fullerton" q1="0" q2="38" q3="0" q4="26" ot="" totalscore="64" id="1523" />
+      <awayteam name="Southeast Missouri State" q1="0" q2="31" q3="0" q4="26" ot="" totalscore="57" id="2553" />
+    </match>
+    <match date="28.11.2019" time="00:30" timer="" status="Finished" id="670831">
+      <localteam name="George Mason" q1="0" q2="23" q3="0" q4="45" ot="" totalscore="68" id="1535" />
+      <awayteam name="New Mexico State" q1="0" q2="35" q3="0" q4="29" ot="" totalscore="64" id="1970" />
+    </match>
+    <match date="28.11.2019" time="00:30" timer="" status="After Over Time" id="670833">
+      <localteam name="La Salle" q1="0" q2="36" q3="0" q4="34" ot="11" totalscore="81" id="1917" />
+      <awayteam name="South Alabama" q1="0" q2="25" q3="0" q4="45" ot="6" totalscore="76" id="2372" />
+    </match>
+    <match date="28.11.2019" time="00:30" timer="" status="Finished" id="666729">
+      <localteam name="UALR" q1="0" q2="30" q3="0" q4="37" ot="" totalscore="67" id="9075" />
+      <awayteam name="Alcorn State" q1="0" q2="29" q3="0" q4="21" ot="" totalscore="50" id="1516" />
+    </match>
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="666730">
+      <localteam name="South Dakota St." q1="0" q2="43" q3="0" q4="43" ot="" totalscore="86" id="12511" />
+      <awayteam name="Samford" q1="0" q2="38" q3="0" q4="39" ot="" totalscore="77" id="1930" />
+    </match>
+    <match date="28.11.2019" time="01:00" timer="" status="Finished" id="667028">
+      <localteam name="Valparaiso" q1="0" q2="48" q3="0" q4="50" ot="" totalscore="98" id="2215" />
+      <awayteam name="Trinity (IL)" q1="0" q2="34" q3="0" q4="37" ot="" totalscore="71" id="8204" />
+    </match>
+    <match date="28.11.2019" time="01:30" timer="" status="Finished" id="670481">
+      <localteam name="Northwestern" q1="0" q2="23" q3="0" q4="36" ot="" totalscore="59" id="2001" />
+      <awayteam name="Pittsburgh" q1="0" q2="25" q3="0" q4="47" ot="" totalscore="72" id="1493" />
+    </match>
+    <match date="28.11.2019" time="01:30" timer="" status="Finished" id="670836">
+      <localteam name="West Virginia" q1="0" q2="31" q3="0" q4="44" ot="" totalscore="75" id="2010" />
+      <awayteam name="Wichita State" q1="0" q2="28" q3="0" q4="35" ot="" totalscore="63" id="2269" />
+    </match>
+    <match date="28.11.2019" time="02:00" timer="" status="Finished" id="670837">
+      <localteam name="Chaminade Silverswords" q1="0" q2="37" q3="0" q4="40" ot="" totalscore="77" id="8246" />
+      <awayteam name="Georgia" q1="0" q2="38" q3="0" q4="42" ot="" totalscore="80" id="1295" />
+    </match>
+    <match date="28.11.2019" time="02:00" timer="" status="Finished" id="666731">
+      <localteam name="Idaho State" q1="0" q2="53" q3="0" q4="49" ot="" totalscore="102" id="1530" />
+      <awayteam name="West Coast Baptist" q1="0" q2="18" q3="0" q4="25" ot="" totalscore="43" id="12474" />
+    </match>
+    <match date="28.11.2019" time="02:00" timer="" status="Finished" id="667029">
+      <localteam name="UTEP" q1="0" q2="36" q3="0" q4="55" ot="" totalscore="91" id="2012" />
+      <awayteam name="East Central" q1="0" q2="30" q3="0" q4="41" ot="" totalscore="71" id="11037" />
+    </match>
+    <match date="28.11.2019" time="02:30" timer="" status="Finished" id="666732">
+      <localteam name="Seton Hall" q1="0" q2="34" q3="0" q4="35" ot="" totalscore="69" id="1944" />
+      <awayteam name="Oregon" q1="0" q2="30" q3="0" q4="41" ot="" totalscore="71" id="2018" />
+    </match>
+    <match date="28.11.2019" time="03:00" timer="" status="Finished" id="666733">
+      <localteam name="California Baptist" q1="0" q2="32" q3="0" q4="51" ot="" totalscore="83" id="14323" />
+      <awayteam name="South Dakota Coyotes" q1="0" q2="50" q3="0" q4="34" ot="" totalscore="84" id="9665" />
+    </match>
+    <match date="28.11.2019" time="03:00" timer="" status="Finished" id="666734">
+      <localteam name="San Diego Toreros" q1="0" q2="36" q3="0" q4="43" ot="" totalscore="79" id="11382" />
+      <awayteam name="Hofstra" q1="0" q2="40" q3="0" q4="29" ot="" totalscore="69" id="2433" />
+    </match>
+    <match date="28.11.2019" time="03:00" timer="" status="Finished" id="666735">
+      <localteam name="UC Santa Barbara" q1="0" q2="47" q3="0" q4="34" ot="" totalscore="81" id="2150" />
+      <awayteam name="Portland State" q1="0" q2="35" q3="0" q4="35" ot="" totalscore="70" id="2020" />
+    </match>
+    <match date="28.11.2019" time="04:00" timer="" status="Finished" id="666736">
+      <localteam name="San Jose State" q1="0" q2="24" q3="0" q4="24" ot="" totalscore="48" id="1520" />
+      <awayteam name="Oregon State" q1="0" q2="45" q3="0" q4="38" ot="" totalscore="83" id="2164" />
+    </match>
+    <match date="28.11.2019" time="04:30" timer="" status="Finished" id="670838">
+      <localteam name="Brigham Young" q1="0" q2="35" q3="0" q4="55" ot="" totalscore="90" id="2532" />
+      <awayteam name="Virginia Tech" q1="0" q2="37" q3="0" q4="40" ot="" totalscore="77" id="1509" />
+    </match>
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="666737">
+      <localteam name="Temple" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1943" />
+      <awayteam name="Maryland" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1499" />
+    </match>
+    <match date="28.11.2019" time="17:00" timer="" status="Not Started" id="666738">
+      <localteam name="Elon" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2403" />
+      <awayteam name="UT Arlington" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9520" />
+    </match>
+    <match date="28.11.2019" time="18:00" timer="" status="Not Started" id="666739">
+      <localteam name="Harvard" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1536" />
+      <awayteam name="Texas A&amp;M" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1515" />
+    </match>
+    <match date="28.11.2019" time="19:00" timer="" status="Not Started" id="666740">
+      <localteam name="Cal Poly" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2204" />
+      <awayteam name="Tennessee State" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1506" />
+    </match>
+    <match date="28.11.2019" time="19:00" timer="" status="Not Started" id="666741">
+      <localteam name="Long Beach State" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2194" />
+      <awayteam name="Providence" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2201" />
+    </match>
+    <match date="28.11.2019" time="21:00" timer="" status="Not Started" id="666742">
+      <localteam name="Fairfield" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1537" />
+      <awayteam name="USC" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1865" />
+    </match>
+    <match date="28.11.2019" time="21:00" timer="" status="Not Started" id="666743">
+      <localteam name="Memphis" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1990" />
+      <awayteam name="NC State" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7130" />
+    </match>
+    <match date="28.11.2019" time="21:30" timer="" status="Not Started" id="666744">
+      <localteam name="Charleston" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2442" />
+      <awayteam name="Wake Forest" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1927" />
+    </match>
+    <match date="28.11.2019" time="21:30" timer="" status="Not Started" id="666745">
+      <localteam name="North Florida" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1862" />
+      <awayteam name="LIU Sharks" q1="" q2="" q3="" q4="" ot="" totalscore="" id="15026" />
+    </match>
+    <match date="28.11.2019" time="23:00" timer="" status="Not Started" id="666746">
+      <localteam name="Marquette" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1998" />
+      <awayteam name="Davidson" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2200" />
+    </match>
+  </category>
+  <category name="World: Friendly International" id="1283" file_group="world">
+    <match date="28.11.2019" time="16:00" timer="" status="Not Started" id="670916">
+      <localteam name="Albania" q1="" q2="" q3="" q4="" ot="" totalscore="" id="6862" />
+      <awayteam name="Kosovo" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11972" />
+    </match>
+  </category>
+  <category name="World: Champions League Americas" id="4228" file_group="world">
+    <match date="28.11.2019" time="23:00" timer="" status="Not Started" id="666034">
+      <localteam name="San Lorenzo" q1="" q2="" q3="" q4="" ot="" totalscore="" id="11113" />
+      <awayteam name="Mogi" q1="" q2="" q3="" q4="" ot="" totalscore="" id="7841" />
+    </match>
+  </category>
+</scores>

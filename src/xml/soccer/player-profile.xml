@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<players category="Attacker">
+	<player common_name="W. Rooney" id="193">
+		<name>W. Rooney</name>
+		<firstname>Wayne Mark</firstname>
+		<lastname>Rooney</lastname>
+		<team>DC United</team>
+		<teamid>17310</teamid>
+		<nationality>England</nationality>
+		<birthdate>24/10/1985</birthdate>
+		<age>34</age>
+		<birthcountry>England</birthcountry>
+		<birthplace>Liverpool</birthplace>
+		<position>Attacker</position>
+		<height>176 cm</height>
+		<weight>83 kg</weight>
+		<image>$IMAGE_Code</image>
+		<statistic>
+			<club name="DC United" id="17310" league="MLS" league_id="1440" season="2019" minutes="" appearences="" lineups="" substitute_in="" substitute_out="" substitutes_on_bench="" goals="" yellowcards="" yellowred="" redcards=""  />
+			<club name="DC United" id="17310" league="MLS" league_id="1440" season="2018" minutes="1761" appearences="21" lineups="19" substitute_in="2" substitute_out="4" substitutes_on_bench="2" goals="12" yellowcards="1" yellowred="0" redcards="0"  isCaptain="18" shotsTotal="73" shotsOn="31" goalsConceded="" assists="6" fouldDrawn="11" foulsCommitted="19" tackles="2" blocks="3" crossesTotal="85" crossesAccurate="26" interceptions="3" clearances="12" dispossesed="" saves="" insideBoxSaves="" duelsTotal="150" duelsWon="45" dribbleAttempts="17" dribbleSucc="8" penComm="" penWon="" penScored="3" penMissed="1" penSaved="" passes="696" pAccuracy="79" keyPasses="46" woordworks="6" rating="7.619047"  />
+			<club name="Everton" id="9158" league="Premier League" league_id="1204" season="2017/2018" minutes="2283" appearences="31" lineups="27" substitute_in="4" substitute_out="20" substitutes_on_bench="7" goals="10" yellowcards="5" yellowred="0" redcards="0"  isCaptain="8" shotsTotal="45" shotsOn="17" goalsConceded="" assists="2" fouldDrawn="18" foulsCommitted="35" tackles="4" blocks="2" crossesTotal="62" crossesAccurate="22" interceptions="17" clearances="36" dispossesed="" saves="" insideBoxSaves="" duelsTotal="250" duelsWon="80" dribbleAttempts="23" dribbleSucc="9" penComm="1" penWon="" penScored="3" penMissed="3" penSaved="" passes="903" pAccuracy="76" keyPasses="35" woordworks="1" rating="6.909677"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2016/2017" minutes="1538" appearences="25" lineups="15" substitute_in="10" substitute_out="9" substitutes_on_bench="13" goals="5" yellowcards="8" yellowred="0" redcards="0"  isCaptain="10" shotsTotal="52" shotsOn="19" goalsConceded="" assists="5" fouldDrawn="11" foulsCommitted="23" tackles="" blocks="" crossesTotal="97" crossesAccurate="24" interceptions="17" clearances="10" dispossesed="" saves="" insideBoxSaves="" duelsTotal="187" duelsWon="58" dribbleAttempts="29" dribbleSucc="14" penComm="" penWon="" penScored="1" penMissed="0" penSaved="" passes="656" pAccuracy="82" keyPasses="36" woordworks="1" rating="6.920000"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2015/2016" minutes="2409" appearences="28" lineups="27" substitute_in="1" substitute_out="4" substitutes_on_bench="1" goals="8" yellowcards="4" yellowred="0" redcards="0"  isCaptain="0" shotsTotal="72" shotsOn="25" goalsConceded="" assists="6" fouldDrawn="14" foulsCommitted="28" tackles="" blocks="" crossesTotal="51" crossesAccurate="5" interceptions="9" clearances="15" dispossesed="" saves="" insideBoxSaves="" duelsTotal="262" duelsWon="93" dribbleAttempts="46" dribbleSucc="25" penComm="" penWon="" penScored="1" penMissed="0" penSaved="" passes="951" pAccuracy="81" keyPasses="45" woordworks="" rating="7.239285"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2014/2015" minutes="2877" appearences="33" lineups="33" substitute_in="0" substitute_out="4" substitutes_on_bench="0" goals="12" yellowcards="5" yellowred="0" redcards="1"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2013/2014" minutes="2449" appearences="29" lineups="27" substitute_in="2" substitute_out="4" substitutes_on_bench="2" goals="17" yellowcards="8" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2012/2013" minutes="2017" appearences="27" lineups="22" substitute_in="5" substitute_out="9" substitutes_on_bench="5" goals="12" yellowcards="7" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2011/2012" minutes="2838" appearences="34" lineups="32" substitute_in="2" substitute_out="6" substitutes_on_bench="2" goals="27" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2010/2011" minutes="2228" appearences="28" lineups="25" substitute_in="3" substitute_out="4" substitutes_on_bench="3" goals="11" yellowcards="5" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2009/2010" minutes="2721" appearences="32" lineups="32" substitute_in="0" substitute_out="10" substitutes_on_bench="0" goals="26" yellowcards="6" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2008/2009" minutes="2265" appearences="30" lineups="25" substitute_in="5" substitute_out="5" substitutes_on_bench="5" goals="12" yellowcards="8" yellowred="1" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2007/2008" minutes="2183" appearences="27" lineups="25" substitute_in="2" substitute_out="5" substitutes_on_bench="2" goals="12" yellowcards="8" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2006/2007" minutes="2927" appearences="35" lineups="33" substitute_in="2" substitute_out="6" substitutes_on_bench="2" goals="14" yellowcards="5" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2005/2006" minutes="3075" appearences="36" lineups="34" substitute_in="2" substitute_out="5" substitutes_on_bench="2" goals="16" yellowcards="8" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="Premier League" league_id="1204" season="2004/2005" minutes="2184" appearences="29" lineups="24" substitute_in="5" substitute_out="8" substitutes_on_bench="5" goals="11" yellowcards="7" yellowred="0" redcards="0"  />
+			<club name="Everton" id="9158" league="Premier League" league_id="1204" season="2003/2004" minutes="2380" appearences="32" lineups="26" substitute_in="6" substitute_out="7" substitutes_on_bench="7" goals="8" yellowcards="10" yellowred="0" redcards="0"  />
+			<club name="Everton" id="9158" league="Premier League" league_id="1204" season="2002/2003" minutes="247" appearences="3" lineups="3" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="0" yellowcards="1" yellowred="0" redcards="0"  />
+		</statistic>
+		<statistic_cups>
+			<club name="Everton" id="9158" league="League Cup" league_id="1199" season="2017/2018" minutes="81" appearences="1" lineups="1" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  isCaptain="0" shotsTotal="2" shotsOn="1" goalsConceded="" assists="" fouldDrawn="0" foulsCommitted="0" tackles="" blocks="" crossesTotal="0" crossesAccurate="0" interceptions="0" clearances="0" dispossesed="" saves="" insideBoxSaves="" duelsTotal="9" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" penComm="" penWon="" penScored="0" penMissed="0" penSaved="" passes="29" pAccuracy="85" keyPasses="2" woordworks="" rating="6.700000"  />
+			<club name="Everton" id="9158" league="FA Cup" league_id="1198" season="2017/2018" minutes="52" appearences="1" lineups="1" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="0" yellowcards="1" yellowred="0" redcards="0"  isCaptain="0" shotsTotal="0" shotsOn="0" goalsConceded="" assists="" fouldDrawn="1" foulsCommitted="3" tackles="" blocks="" crossesTotal="1" crossesAccurate="0" interceptions="0" clearances="0" dispossesed="" saves="" insideBoxSaves="" duelsTotal="8" duelsWon="3" dribbleAttempts="1" dribbleSucc="1" penComm="" penWon="" penScored="0" penMissed="0" penSaved="" passes="12" pAccuracy="66" keyPasses="0" woordworks="" rating="6.200000"  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2016/2017" minutes="250" appearences="4" lineups="3" substitute_in="1" substitute_out="1" substitutes_on_bench="2" goals="0" yellowcards="1" yellowred="0" redcards="0"  isCaptain="1" shotsTotal="3" shotsOn="0" goalsConceded="" assists="" fouldDrawn="0" foulsCommitted="1" tackles="" blocks="" crossesTotal="2" crossesAccurate="0" interceptions="0" clearances="1" dispossesed="" saves="" insideBoxSaves="" duelsTotal="7" duelsWon="3" dribbleAttempts="2" dribbleSucc="2" penComm="" penWon="" penScored="0" penMissed="0" penSaved="" passes="26" pAccuracy="83" keyPasses="2" woordworks="" rating="6.500000"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2016/2017" minutes="180" appearences="2" lineups="2" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="1" yellowcards="0" yellowred="0" redcards="0"  isCaptain="2" shotsTotal="6" shotsOn="4" goalsConceded="" assists="1" fouldDrawn="1" foulsCommitted="2" tackles="" blocks="" crossesTotal="9" crossesAccurate="3" interceptions="1" clearances="2" dispossesed="" saves="" insideBoxSaves="" duelsTotal="17" duelsWon="5" dribbleAttempts="4" dribbleSucc="3" penComm="" penWon="" penScored="0" penMissed="0" penSaved="" passes="64" pAccuracy="83" keyPasses="8" woordworks="" rating="7.750000"  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2015/2016" minutes="155" appearences="2" lineups="1" substitute_in="1" substitute_out="1" substitutes_on_bench="1" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2015/2016" minutes="390" appearences="5" lineups="4" substitute_in="1" substitute_out="0" substitutes_on_bench="1" goals="2" yellowcards="2" yellowred="0" redcards="0"  isCaptain="1" shotsTotal="4" shotsOn="0" goalsConceded="" assists="" fouldDrawn="1" foulsCommitted="3" tackles="" blocks="" crossesTotal="2" crossesAccurate="2" interceptions="1" clearances="0" dispossesed="" saves="" insideBoxSaves="" duelsTotal="14" duelsWon="7" dribbleAttempts="6" dribbleSucc="5" penComm="" penWon="" penScored="0" penMissed="0" penSaved="" passes="88" pAccuracy="88" keyPasses="2" woordworks="" rating="7.800000"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2014/2015" minutes="360" appearences="4" lineups="4" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2013/2014" minutes="102" appearences="2" lineups="1" substitute_in="1" substitute_out="0" substitutes_on_bench="1" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2012/2013" minutes="76" appearences="1" lineups="1" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2012/2013" minutes="270" appearences="3" lineups="3" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="3" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2011/2012" minutes="90" appearences="1" lineups="1" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2010/2011" minutes="134" appearences="2" lineups="1" substitute_in="1" substitute_out="0" substitutes_on_bench="2" goals="1" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2009/2010" minutes="228" appearences="3" lineups="2" substitute_in="1" substitute_out="0" substitutes_on_bench="0" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2009/2010" minutes="90" appearences="1" lineups="1" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2008/2009" minutes="27" appearences="1" lineups="0" substitute_in="1" substitute_out="" substitutes_on_bench="" goals="0" yellowcards="" yellowred="" redcards=""  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2008/2009" minutes="91" appearences="2" lineups="1" substitute_in="1" substitute_out="1" substitutes_on_bench="0" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2007/2008" minutes="" appearences="0" lineups="" substitute_in="" substitute_out="" substitutes_on_bench="" goals="0" yellowcards="" yellowred="" redcards=""  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2007/2008" minutes="271" appearences="4" lineups="3" substitute_in="1" substitute_out="1" substitutes_on_bench="" goals="2" yellowcards="2" yellowred="" redcards=""  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2006/2007" minutes="90" appearences="1" lineups="1" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="0" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2006/2007" minutes="524" appearences="7" lineups="5" substitute_in="2" substitute_out="" substitutes_on_bench="" goals="5" yellowcards="2" yellowred="" redcards=""  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2005/2006" minutes="314" appearences="5" lineups="4" substitute_in="1" substitute_out="0" substitutes_on_bench="1" goals="2" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2005/2006" minutes="212" appearences="3" lineups="2" substitute_in="1" substitute_out="0" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FA Cup" league_id="1198" season="2004/2005" minutes="558" appearences="6" lineups="6" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="3" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="League Cup" league_id="1199" season="2004/2005" minutes="121" appearences="2" lineups="1" substitute_in="1" substitute_out="0" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+		</statistic_cups>
+		<statistic_cups_intl>
+			<club name="Everton" id="9158" league="UEFA Europa League" league_id="1007" season="2017/2018" minutes="602" appearences="7" lineups="7" substitute_in="0" substitute_out="2" substitutes_on_bench="0" goals="1" yellowcards="0" yellowred="0" redcards="0"  isCaptain="1" shotsTotal="8" shotsOn="3" goalsConceded="" assists="" fouldDrawn="3" foulsCommitted="1" tackles="" blocks="" crossesTotal="11" crossesAccurate="2" interceptions="3" clearances="5" dispossesed="" saves="" insideBoxSaves="" duelsTotal="29" duelsWon="10" dribbleAttempts="0" dribbleSucc="0" penComm="" penWon="" penScored="0" penMissed="0" penSaved="" passes="112" pAccuracy="74" keyPasses="3" woordworks="" rating="6.900000"  />
+			<club name="Manchester United" id="9260" league="UEFA Europa League" league_id="1007" season="2016/2017" minutes="359" appearences="7" lineups="4" substitute_in="3" substitute_out="2" substitutes_on_bench="5" goals="2" yellowcards="0" yellowred="0" redcards="0"  isCaptain="2" shotsTotal="7" shotsOn="4" goalsConceded="" assists="3" fouldDrawn="3" foulsCommitted="5" tackles="" blocks="" crossesTotal="19" crossesAccurate="4" interceptions="3" clearances="2" dispossesed="" saves="" insideBoxSaves="" duelsTotal="44" duelsWon="13" dribbleAttempts="4" dribbleSucc="2" penComm="" penWon="" penScored="0" penMissed="0" penSaved="" passes="146" pAccuracy="73" keyPasses="9" woordworks="" rating="7.000000"  />
+			<club name="Manchester United" id="9260" league="Club Friendlies" league_id="1036" season="2016" minutes="121" appearences="2" lineups="2" substitute_in="0" substitute_out="2" substitutes_on_bench="0" goals="2" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Europa League" league_id="1007" season="2015/2016" minutes="0" appearences="0" lineups="0" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2015/2016" minutes="534" appearences="6" lineups="6" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="4" yellowcards="0" yellowred="0" redcards="0"  isCaptain="0" shotsTotal="8" shotsOn="3" goalsConceded="" assists="" fouldDrawn="2" foulsCommitted="3" tackles="" blocks="" crossesTotal="9" crossesAccurate="2" interceptions="0" clearances="2" dispossesed="" saves="" insideBoxSaves="" duelsTotal="23" duelsWon="7" dribbleAttempts="5" dribbleSucc="2" penComm="" penWon="" penScored="0" penMissed="0" penSaved="" passes="116" pAccuracy="83" keyPasses="4" woordworks="" rating="6.775000"  />
+			<club name="Manchester United" id="9260" league="Club Friendlies" league_id="1036" season="2014" minutes="136" appearences="2" lineups="2" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2013/2014" minutes="767" appearences="9" lineups="9" substitute_in="0" substitute_out="3" substitutes_on_bench="0" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2012/2013" minutes="461" appearences="6" lineups="5" substitute_in="1" substitute_out="1" substitutes_on_bench="1" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2011/2012" minutes="360" appearences="4" lineups="4" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="2" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Europa League" league_id="1007" season="2011/2012" minutes="270" appearences="3" lineups="3" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="3" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2010/2011" minutes="803" appearences="9" lineups="9" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="4" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2009/2010" minutes="486" appearences="7" lineups="6" substitute_in="1" substitute_out="3" substitutes_on_bench="1" goals="5" yellowcards="2" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Super Cup" league_id="1603" season="2008/2009" minutes="90" appearences="1" lineups="1" substitute_in="0" substitute_out="0" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2008/2009" minutes="954" appearences="13" lineups="11" substitute_in="2" substitute_out="3" substitutes_on_bench="2" goals="4" yellowcards="2" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="FIFA Club World Cup" league_id="1041" season="2008 Japan" minutes="106" appearences="2" lineups="1" substitute_in="1" substitute_out="" substitutes_on_bench="" goals="3" yellowcards="1" yellowred="" redcards=""  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2007/2008" minutes="865" appearences="11" lineups="10" substitute_in="1" substitute_out="6" substitutes_on_bench="1" goals="4" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2006/2007" minutes="1062" appearences="12" lineups="12" substitute_in="0" substitute_out="3" substitutes_on_bench="0" goals="4" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="Manchester United" id="9260" league="UEFA Champions League" league_id="1005" season="2005/2006" minutes="426" appearences="5" lineups="5" substitute_in="0" substitute_out="0" substitutes_on_bench="1" goals="1" yellowcards="2" yellowred="1" redcards="0"  />
+		</statistic_cups_intl>
+		<statistic_intl>
+			<club name="England" id="8981" league="WC Qualification Europe" league_id="1051" season="2018" minutes="287" appearences="4" lineups="3" substitute_in="1" substitute_out="0" substitutes_on_bench="1" goals="0" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2018" minutes="32" appearences="1" lineups="0" substitute_in="1" substitute_out="0" substitutes_on_bench="1" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="European Championship" league_id="1531" season="2016" minutes="288" appearences="4" lineups="3" substitute_in="1" substitute_out="2" substitutes_on_bench="1" goals="1" yellowcards="0" yellowred="0" redcards="0"  isCaptain="0" shotsTotal="11" shotsOn="4" goalsConceded="" assists="" fouldDrawn="2" foulsCommitted="2" tackles="" blocks="" crossesTotal="25" crossesAccurate="7" interceptions="3" clearances="2" dispossesed="" saves="" insideBoxSaves="" duelsTotal="30" duelsWon="12" dribbleAttempts="12" dribbleSucc="8" penComm="" penWon="" penScored="1" penMissed="0" penSaved="" passes="199" pAccuracy="86" keyPasses="10" woordworks="1" rating="7.325000"  />
+			<club name="England" id="8981" league="EC Qualification" league_id="1531" season="2016" minutes="670" appearences="8" lineups="8" substitute_in="0" substitute_out="3" substitutes_on_bench="0" goals="7" yellowcards="0" yellowred="0" redcards="0"  isCaptain="0" shotsTotal="11" shotsOn="4" goalsConceded="" assists="" fouldDrawn="2" foulsCommitted="2" tackles="" blocks="" crossesTotal="25" crossesAccurate="7" interceptions="3" clearances="2" dispossesed="" saves="" insideBoxSaves="" duelsTotal="30" duelsWon="12" dribbleAttempts="12" dribbleSucc="8" penComm="" penWon="" penScored="1" penMissed="0" penSaved="" passes="199" pAccuracy="86" keyPasses="10" woordworks="1" rating="7.325000"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2016" minutes="122" appearences="2" lineups="1" substitute_in="1" substitute_out="1" substitutes_on_bench="1" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2015" minutes="271" appearences="4" lineups="3" substitute_in="1" substitute_out="1" substitutes_on_bench="1" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="WC Qualification Europe" league_id="1051" season="2014" minutes="472" appearences="6" lineups="6" substitute_in="0" substitute_out="3" substitutes_on_bench="0" goals="7" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="World Cup" league_id="1056" season="2014" minutes="194" appearences="3" lineups="2" substitute_in="1" substitute_out="0" substitutes_on_bench="1" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2014" minutes="397" appearences="6" lineups="6" substitute_in="0" substitute_out="5" substitutes_on_bench="0" goals="4" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2013" minutes="499" appearences="6" lineups="6" substitute_in="0" substitute_out="2" substitutes_on_bench="0" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="EC Qualification" league_id="1531" season="2012" minutes="582" appearences="7" lineups="7" substitute_in="0" substitute_out="3" substitutes_on_bench="0" goals="3" yellowcards="2" yellowred="0" redcards="1"  />
+			<club name="England" id="8981" league="European Championship" league_id="1531" season="2012" minutes="207" appearences="2" lineups="2" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2012" minutes="37" appearences="1" lineups="0" substitute_in="1" substitute_out="0" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2011" minutes="46" appearences="1" lineups="1" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="World Cup" league_id="1056" season="2010" minutes="342" appearences="4" lineups="4" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="WC Qualification Europe" league_id="1051" season="2010" minutes="760" appearences="9" lineups="9" substitute_in="0" substitute_out="3" substitutes_on_bench="0" goals="9" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2010" minutes="332" appearences="4" lineups="4" substitute_in="0" substitute_out="2" substitutes_on_bench="0" goals="0" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2009" minutes="319" appearences="4" lineups="4" substitute_in="0" substitute_out="2" substitutes_on_bench="0" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="EC Qualification" league_id="1531" season="2008" minutes="496" appearences="6" lineups="6" substitute_in="0" substitute_out="2" substitutes_on_bench="0" goals="2" yellowcards="3" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2008" minutes="280" appearences="4" lineups="4" substitute_in="0" substitute_out="4" substitutes_on_bench="0" goals="0" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="WC Qualification Europe" league_id="1051" season="2006" minutes="601" appearences="7" lineups="7" substitute_in="0" substitute_out="4" substitutes_on_bench="0" goals="0" yellowcards="2" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="World Cup" league_id="1056" season="2006" minutes="252" appearences="4" lineups="3" substitute_in="1" substitute_out="1" substitutes_on_bench="2" goals="0" yellowcards="0" yellowred="0" redcards="1"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2006" minutes="154" appearences="2" lineups="2" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2005" minutes="241" appearences="3" lineups="3" substitute_in="0" substitute_out="1" substitutes_on_bench="0" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="European Championship" league_id="1531" season="2004" minutes="257" appearences="4" lineups="4" substitute_in="0" substitute_out="4" substitutes_on_bench="0" goals="4" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="EC Qualification" league_id="1531" season="2004" minutes="368" appearences="6" lineups="5" substitute_in="1" substitute_out="5" substitutes_on_bench="1" goals="2" yellowcards="0" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2004" minutes="295" appearences="5" lineups="5" substitute_in="0" substitute_out="5" substitutes_on_bench="0" goals="2" yellowcards="1" yellowred="0" redcards="0"  />
+			<club name="England" id="8981" league="Friendlies" league_id="1535" season="2003" minutes="154" appearences="3" lineups="1" substitute_in="2" substitute_out="1" substitutes_on_bench="0" goals="1" yellowcards="0" yellowred="0" redcards="0"  />
+		</statistic_intl>
+		<trophies>
+			<trophy country="England" league="Premier League" status="Winner" count="5" seasons="2012/2013, 2010/2011, 2008/2009, 2007/2008, 2006/2007" />
+			<trophy country="England" league="Premier League" status="2nd Place" count="3" seasons="2011/2012, 2009/2010, 2005/2006" />
+			<trophy country="England" league="FA Cup" status="Winner" count="1" seasons="2015/2016" />
+			<trophy country="England" league="FA Cup" status="2nd Place" count="2" seasons="2006/2007, 2004/2005" />
+			<trophy country="England" league="League Cup" status="Winner" count="4" seasons="2016/2017, 2009/2010, 2008/2009, 2005/2006" />
+			<trophy country="England" league="Community Shield" status="Winner" count="6" seasons="2016/2017, 2013/2014, 2011/2012, 2010/2011, 2008/2009, 2007/2008" />
+			<trophy country="England" league="Community Shield" status="2nd Place" count="2" seasons="2009/2010, 2004/2005" />
+			<trophy country="Europe" league="UEFA Champions League" status="Winner" count="1" seasons="2007/2008" />
+			<trophy country="Europe" league="UEFA Champions League" status="2nd Place" count="2" seasons="2010/2011, 2008/2009" />
+			<trophy country="Europe" league="UEFA Europa League" status="Winner" count="1" seasons="2016/2017" />
+			<trophy country="Europe" league="UEFA Super Cup" status="2nd Place" count="1" seasons="2008/2009" />
+			<trophy country="World" league="FIFA Club World Cup" status="Winner" count="1" seasons="2008 Japan" />
+			<trophy country="World" league="Audi Cup" status="2nd Place" count="1" seasons="2009" />
+			<trophy country="World" league="International Champions Cup" status="Winner" count="1" seasons="2014" />
+		</trophies>
+		<transfers>
+			<transfer date="28.06.18" from="Everton" from_id="9158" to="DC United" to_id="17310" type="N/A" />
+			<transfer date="09.07.17" from="Man Utd" from_id="9260" to="Everton" to_id="9158" type="Free" />
+			<transfer date="01.08.04" from="Everton" from_id="9158" to="Man Utd" to_id="9260" type="37M &amp;euro;" />
+		</transfers>
+		<sidelined>
+			<item type="Knee Injury" date_start="03.05.18" date_end="14.05.18" />
+			<item type="Illness" date_start="20.12.17" date_end="29.12.17" />
+			<item type="Eye Injury" date_start="24.09.17" date_end="30.09.17" />
+			<item type="Ankle/Foot Injury" date_start="02.04.17" date_end="14.04.17" />
+			<item type="Knee Injury" date_start="12.03.17" date_end="31.03.17" />
+			<item type="Calf Muscle Strain" date_start="14.02.17" date_end="25.02.17" />
+			<item type="Illness" date_start="04.02.17" date_end="10.02.17" />
+			<item type="Thigh Muscle Strain" date_start="25.12.16" date_end="06.01.17" />
+			<item type="Suspended" date_start="01.12.16" date_end="05.12.16" />
+			<item type="Knee Injury" date_start="14.11.16" date_end="18.11.16" />
+			<item type="Thigh Muscle Strain" date_start="23.10.16" date_end="28.10.16" />
+			<item type="Knee Injury" date_start="14.02.16" date_end="12.04.16" />
+			<item type="Ankle/Foot Injury" date_start="29.11.15" date_end="18.12.15" />
+			<item type="Illness" date_start="19.11.15" date_end="23.11.15" />
+			<item type="Hamstring" date_start="11.09.15" date_end="17.09.15" />
+			<item type="Knock" date_start="10.05.15" date_end="22.05.15" />
+			<item type="Knee Injury" date_start="30.11.14" date_end="06.12.14" />
+			<item type="Suspended" date_start="28.09.14" date_end="27.10.14" />
+			<item type="Hamstring" date_start="05.05.14" date_end="25.05.14" />
+			<item type="Illness" date_start="01.05.14" date_end="05.05.14" />
+			<item type="Ankle/Foot Injury" date_start="10.04.14" date_end="20.04.14" />
+			<item type="Toe Injury" date_start="04.04.14" date_end="08.04.14" />
+			<item type="Groin Strain" date_start="03.01.14" date_end="26.01.14" />
+			<item type="Groin Strain" date_start="27.12.13" date_end="31.12.13" />
+			<item type="Suspended" date_start="05.12.13" date_end="08.12.13" />
+			<item type="Head Injury" date_start="31.08.13" date_end="13.09.13" />
+			<item type="Groin/Pelvis Injury" date_start="27.03.13" date_end="07.04.13" />
+			<item type="Illness" date_start="16.02.13" date_end="22.02.13" />
+			<item type="Knee Injury" date_start="25.12.12" date_end="15.01.13" />
+			<item type="Tonsillitis" date_start="11.11.12" date_end="23.11.12" />
+			<item type="Gashed Leg" date_start="26.08.12" date_end="25.09.12" />
+			<item type="Suspended" date_start="11.06.12" date_end="16.06.12" />
+			<item type="Illness" date_start="18.02.12" date_end="23.02.12" />
+			<item type="Hamstring" date_start="20.09.11" date_end="29.09.11" />
+			<item type="Ankle/Foot Injury" date_start="01.01.11" date_end="12.01.11" />
+			<item type="Ankle/Foot Injury" date_start="22.10.10" date_end="18.11.10" />
+			<item type="Sprained Ankle" date_start="27.09.10" date_end="10.10.10" />
+			<item type="Virus" date_start="22.08.10" date_end="27.08.10" />
+			<item type="Hamstring" date_start="17.08.10" date_end="24.08.10" />
+			<item type="Groin Strain" date_start="10.05.10" date_end="22.05.10" />
+			<item type="Groin Strain" date_start="24.04.10" date_end="01.05.10" />
+			<item type="Sprained Ankle" date_start="09.04.10" date_end="16.04.10" />
+			<item type="Sprained Ankle" date_start="31.03.10" date_end="06.04.10" />
+			<item type="Knee Injury" date_start="22.03.10" date_end="29.03.10" />
+			<item type="Knee Injury" date_start="04.03.10" date_end="09.03.10" />
+		</sidelined>
+		<overall_clubs>
+			<stats appearences="130" lineups="108" substitute_in="22" isCaptain="43" shotsTotal="291" shotsOn="111" goalsConceded="" assists="23" fouldDrawn="67" foulsCommitted="125" tackles="6" blocks="5" crossesTotal="373" crossesAccurate="97" interceptions="57" clearances="87" dispossesed="" saves="" insideBoxSaves="" duelsTotal="1030" duelsWon="339" dribbleAttempts="149" dribbleSucc="79"  penComm="1" penWon="" penScored="9" penMissed="4" penSaved="" passes="3998" pAccuracy="79" keyPasses="202" woordworks="9" minutesPlayed="9754" rating="7.117829" />
+		</overall_clubs>
+	</player>
+</players>
+

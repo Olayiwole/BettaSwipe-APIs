@@ -1,0 +1,937 @@
+<commentaries sport="soccer" updated="01.02.2019 09:29:15">
+	<tournament name="England - Premier League" id="1204">
+		<match status="Full-time" timer="" date="01.12.2018" formatted_date="01.12.2018" time="15:00" static_id="2378484" id="2231033">
+			<localteam name="Crystal Palace" goals="2" id="9127" />
+			<visitorteam name="Burnley" goals="0" id="9072" />
+			<matchinfo>
+				<stadium name="Selhurst Park, London" />
+				<attendance name="25098" />
+				<time name="15:00" />
+				<referee name="Lee Probert, England" />
+			</matchinfo>
+			<summary>
+				<localteam>
+					<goals>
+						<player name="Andros Townsend" minute="77" owngoal="False" penalty="False" id="75627" assist_name="Cheikhou Kouyaté" assist_id="53112" />
+						<player name="James McArthur" minute="16" owngoal="False" penalty="False" id="46511" assist_name="Andros Townsend" assist_id="75627" />
+					</goals>
+					<yellowcards>
+						<player name="Max Meyer" minute="84" id="213643" comment="Foul" />
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</localteam>
+				<visitorteam>
+					<goals>
+					</goals>
+					<yellowcards>
+						<player name="Ben Mee" minute="42" id="97357" comment="Foul" />
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</visitorteam>
+			</summary>
+			<stats>
+				<localteam>
+					<shots total="29" ongoal="9" offgoal="11" blocked="9" insidebox="17" outsidebox="12" />
+					<fouls total="9" />
+					<corners total="10" />
+					<offsides total="1" />
+					<possestiontime total="58%" />
+					<yellowcards total="1" />
+					<redcards total="0" />
+					<saves total="0" />
+					<passes total="518" accurate="415" pct="80" />
+				</localteam>
+				<visitorteam>
+					<shots total="4" ongoal="0" offgoal="2" blocked="2" insidebox="4" outsidebox="0" />
+					<fouls total="10" />
+					<corners total="2" />
+					<offsides total="2" />
+					<possestiontime total="42%" />
+					<yellowcards total="1" />
+					<redcards total="0" />
+					<saves total="7" />
+					<passes total="357" accurate="268" pct="75" />
+				</visitorteam>
+			</stats>
+			<teams>
+				<localteam formation="4-4-2">
+					<player number="13" name="Wayne Hennessey" pos="G" formation_pos="1" id="15380" />
+					<player number="29" name="Aaron Wan-Bissaka" pos="D" formation_pos="2" id="470717" />
+					<player number="5" name="James Tomkins" pos="D" formation_pos="3" id="23292" />
+					<player number="12" name="Mamadou Sakho" pos="D" formation_pos="4" id="13118" />
+					<player number="3" name="Patrick van Aanholt" pos="D" formation_pos="5" id="88136" />
+					<player number="18" name="James McArthur" pos="M" formation_pos="6" id="46511" />
+					<player number="4" name="Luka Milivojević" pos="M" formation_pos="7" id="90657" />
+					<player number="8" name="Cheikhou Kouyaté" pos="M" formation_pos="8" id="53112" />
+					<player number="7" name="Max Meyer" pos="M" formation_pos="9" id="213643" />
+					<player number="10" name="Andros Townsend" pos="F" formation_pos="10" id="75627" />
+					<player number="11" name="Wilfried Zaha" pos="F" formation_pos="11" id="123878" />
+				</localteam>
+				<visitorteam formation="4-4-1-1">
+					<player number="20" name="Joe Hart" pos="G" formation_pos="1" id="2842" />
+					<player number="2" name="Matthew Lowton" pos="D" formation_pos="2" id="85440" />
+					<player number="28" name="Kevin Long" pos="D" formation_pos="3" id="78599" />
+					<player number="6" name="Ben Mee" pos="D" formation_pos="4" id="97357" />
+					<player number="3" name="Charlie Taylor" pos="D" formation_pos="5" id="201149" />
+					<player number="25" name="Aaron Lennon" pos="M" formation_pos="6" id="190" />
+					<player number="16" name="Steven Defour" pos="M" formation_pos="7" id="13523" />
+					<player number="4" name="Jack Cork" pos="M" formation_pos="8" id="20801" />
+					<player number="7" name="Jóhann Guðmundsson" pos="M" formation_pos="9" id="32136" />
+					<player number="13" name="Jeff Hendrick" pos="F" formation_pos="10" id="158140" />
+					<player number="11" name="Chris Wood" pos="F" formation_pos="11" id="76918" />
+				</visitorteam>
+			</teams>
+			<substitutes>
+				<localteam>
+					<player number="31" name="Vicente Guaita" pos="G" id="62971" />
+					<player number="2" name="Joel Ward" pos="D" id="66070" />
+					<player number="34" name="Martin Kelly" pos="D" id="61076" />
+					<player number="15" name="Jeffrey Schlupp" pos="M" id="180530" />
+					<player number="42" name="Jason Puncheon" pos="M" id="46474" />
+					<player number="9" name="Alexander Sørloth" pos="F" id="218038" />
+					<player number="14" name="Jordan Ayew" pos="F" id="95810" />
+				</localteam>
+				<visitorteam>
+					<player number="1" name="Tom Heaton" pos="G" id="2908" />
+					<player number="26" name="Phil Bardsley" pos="D" id="4844" />
+					<player number="5" name="James Tarkowski" pos="D" id="170333" />
+					<player number="12" name="Robbie Brady" pos="M" id="134040" />
+					<player number="18" name="Ashley Westwood" pos="M" id="67549" />
+					<player number="10" name="Ashley Barnes" pos="F" id="36301" />
+					<player number="9" name="Sam Vokes" pos="F" id="47068" />
+				</visitorteam>
+			</substitutes>
+			<substitutions>
+				<localteam>
+					<substitution off="Max Meyer" on="Jason Puncheon" minute="90" on_id="46474" off_id="213643" injury="False" />
+					<substitution off="Andros Townsend" on="Alexander Sørloth" minute="88" on_id="218038" off_id="75627" injury="False" />
+					<substitution off="James McArthur" on="Jeffrey Schlupp" minute="78" on_id="180530" off_id="46511" injury="False" />
+				</localteam>
+				<visitorteam>
+					<substitution off="Chris Wood" on="Ashley Barnes" minute="80" on_id="36301" off_id="76918" injury="False" />
+					<substitution off="Steven Defour" on="Sam Vokes" minute="60" on_id="47068" off_id="13523" injury="False" />
+					<substitution off="Aaron Lennon" on="Robbie Brady" minute="46" on_id="134040" off_id="190" injury="False" />
+				</visitorteam>
+			</substitutions>
+			<commentaries />
+			<coaches>
+			</coaches>
+			<player_stats>
+				<localteam>
+					<player num="13" name="Wayne Hennessey" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="0" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="0" savesInsideBox="" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="16" passes_acc="64%" keyPasses="0" minutes_played="90'" rating="7.0" id="15380" />
+					<player num="29" name="Aaron Wan-Bissaka" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="2" acc_crosses="0" interceptions="3" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="2" dribbleAttempts="1" dribbleSucc="1" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="30" passes_acc="73%" keyPasses="0" minutes_played="90'" rating="6.8" id="470717" />
+					<player num="5" name="James Tomkins" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="6" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="4" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="27" passes_acc="77%" keyPasses="0" minutes_played="90'" rating="6.9" id="23292" />
+					<player num="12" name="Mamadou Sakho" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="6" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="47" passes_acc="92%" keyPasses="0" minutes_played="90'" rating="7.2" id="13118" />
+					<player num="3" name="Patrick van Aanholt" pos="D" isCaptain="False" isSubst="False" shots_total="5" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="1" total_crosses="0" acc_crosses="0" interceptions="1" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="2" dribbleAttempts="2" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="58" passes_acc="87%" keyPasses="4" minutes_played="90'" rating="8.2" id="88136" />
+					<player num="18" name="James McArthur" pos="M" isCaptain="False" isSubst="False" shots_total="5" shots_on_goal="2" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="3" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="14" duelsWon="8" dribbleAttempts="2" dribbleSucc="2" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="30" passes_acc="66%" keyPasses="3" minutes_played="78'" rating="8.4" id="46511" />
+					<player num="4" name="Luka Milivojević" pos="M" isCaptain="True" isSubst="False" shots_total="4" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="3" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="48" passes_acc="85%" keyPasses="1" minutes_played="90'" rating="6.7" id="90657" />
+					<player num="8" name="Cheikhou Kouyaté" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="1" goals="" goals_conceded="" assists="1" offsides="" fouls_drawn="2" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="14" duelsWon="7" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="43" passes_acc="82%" keyPasses="2" minutes_played="90'" rating="7.2" id="53112" />
+					<player num="7" name="Max Meyer" pos="M" isCaptain="False" isSubst="False" shots_total="4" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="1" blocks="0" total_crosses="7" acc_crosses="2" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="4" dribbleAttempts="2" dribbleSucc="2" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="46" passes_acc="83%" keyPasses="5" minutes_played="89'" rating="7.8" id="213643" />
+					<player num="10" name="Andros Townsend" pos="F" isCaptain="False" isSubst="False" shots_total="3" shots_on_goal="1" goals="1" goals_conceded="" assists="1" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="0" total_crosses="5" acc_crosses="1" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="6" dribbleAttempts="4" dribbleSucc="4" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="36" passes_acc="81%" keyPasses="6" minutes_played="88'" rating="8.7" id="75627" />
+					<player num="11" name="Wilfried Zaha" pos="F" isCaptain="False" isSubst="False" shots_total="6" shots_on_goal="3" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="4" fouls_commited="2" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="20" duelsWon="9" dribbleAttempts="5" dribbleSucc="2" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="1" passes="30" passes_acc="69%" keyPasses="1" minutes_played="90'" rating="7.4" id="123878" />
+					<player num="15" name="Jeffrey Schlupp" pos="M" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="1" passes_acc="100%" keyPasses="1" minutes_played="12'" rating="6.5" id="180530" />
+					<player num="42" name="Jason Puncheon" pos="M" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="1" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="0" passes_acc="0%" keyPasses="0" minutes_played="1'" rating="–" id="46474" />
+					<player num="9" name="Alexander Sørloth" pos="F" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="2" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="3" passes_acc="75%" keyPasses="0" minutes_played="2'" rating="–" id="218038" />
+				</localteam>
+				<visitorteam>
+					<player num="20" name="Joe Hart" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="2" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="3" dispossesed="" saves="7" savesInsideBox="5" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="17" passes_acc="53%" keyPasses="0" minutes_played="90'" rating="7.5" id="2842" />
+					<player num="2" name="Matthew Lowton" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="1" blocks="0" total_crosses="6" acc_crosses="0" interceptions="2" clearances="6" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="4" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="28" passes_acc="87%" keyPasses="0" minutes_played="90'" rating="6.7" id="85440" />
+					<player num="28" name="Kevin Long" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="3" blocks="1" total_crosses="0" acc_crosses="0" interceptions="2" clearances="7" dispossesed="" saves="" savesInsideBox="" duelsTotal="17" duelsWon="11" dribbleAttempts="0" dribbleSucc="0" dribbledPast="3" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="36" passes_acc="85%" keyPasses="0" minutes_played="90'" rating="6.9" id="78599" />
+					<player num="6" name="Ben Mee" pos="D" isCaptain="True" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="" blocks="1" total_crosses="1" acc_crosses="1" interceptions="1" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="30" passes_acc="69%" keyPasses="0" minutes_played="90'" rating="6.6" id="97357" />
+					<player num="3" name="Charlie Taylor" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="4" fouls_commited="1" tackles="1" blocks="4" total_crosses="4" acc_crosses="0" interceptions="1" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="14" duelsWon="8" dribbleAttempts="2" dribbleSucc="1" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="22" passes_acc="73%" keyPasses="0" minutes_played="90'" rating="7.0" id="201149" />
+					<player num="25" name="Aaron Lennon" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="1" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="18" passes_acc="94%" keyPasses="0" minutes_played="45'" rating="6.6" id="190" />
+					<player num="16" name="Steven Defour" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="2" acc_crosses="0" interceptions="4" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="3" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="26" passes_acc="74%" keyPasses="0" minutes_played="60'" rating="6.3" id="13523" />
+					<player num="4" name="Jack Cork" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="" blocks="1" total_crosses="0" acc_crosses="0" interceptions="1" clearances="4" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="2" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="21" passes_acc="77%" keyPasses="0" minutes_played="90'" rating="6.7" id="20801" />
+					<player num="7" name="Jóhann Guðmundsson" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="5" acc_crosses="2" interceptions="2" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="6" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="16" passes_acc="64%" keyPasses="1" minutes_played="90'" rating="7.0" id="32136" />
+					<player num="13" name="Jeff Hendrick" pos="F" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="2" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="12" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="3" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="31" passes_acc="91%" keyPasses="1" minutes_played="90'" rating="6.6" id="158140" />
+					<player num="11" name="Chris Wood" pos="F" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="6" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="10" passes_acc="50%" keyPasses="0" minutes_played="80'" rating="6.6" id="76918" />
+					<player num="12" name="Robbie Brady" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="1" total_crosses="4" acc_crosses="2" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="4" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="9" passes_acc="75%" keyPasses="1" minutes_played="45'" rating="6.8" id="134040" />
+					<player num="10" name="Ashley Barnes" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="2" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="3" passes_acc="100%" keyPasses="0" minutes_played="10'" rating="6.5" id="36301" />
+					<player num="9" name="Sam Vokes" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="5" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="1" passes_acc="33%" keyPasses="1" minutes_played="30'" rating="6.7" id="47068" />
+				</visitorteam>
+			</player_stats>
+		</match>
+		<match status="Full-time" timer="" date="01.12.2018" formatted_date="01.12.2018" time="15:00" static_id="2378485" id="2231034">
+			<localteam name="Huddersfield Town" goals="1" id="9220" />
+			<visitorteam name="Brighton &amp; Hove Albion" goals="2" id="9065" />
+			<matchinfo>
+				<stadium name="John Smith's Stadium, Huddersfield" />
+				<attendance name="22973" />
+				<time name="15:00" />
+				<referee name="Michael Oliver, England" />
+			</matchinfo>
+			<summary>
+				<localteam>
+					<goals>
+						<player name="Zanka" minute="1" owngoal="False" penalty="False" id="26254" assist_name="" assist_id="" />
+					</goals>
+					<yellowcards>
+					</yellowcards>
+					<redcards>
+						<player name="Steve Mounié" minute="32" id="249283" comment="Foul" />
+					</redcards>
+				</localteam>
+				<visitorteam>
+					<goals>
+						<player name="Florin Andone" minute="69" owngoal="False" penalty="False" id="171261" assist_name="Solly March" assist_id="280521" />
+						<player name="Shane Duffy" minute="45" owngoal="False" penalty="False" id="90884" assist_name="Solly March" assist_id="280521" />
+					</goals>
+					<yellowcards>
+						<player name="Leon Balogun" minute="82" id="39466" comment="Foul" />
+						<player name="Bruno Saltor" minute="39" id="17881" comment="Foul" />
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</visitorteam>
+			</summary>
+			<stats>
+				<localteam>
+					<shots total="7" ongoal="2" offgoal="3" blocked="2" insidebox="5" outsidebox="2" />
+					<fouls total="10" />
+					<corners total="2" />
+					<offsides total="1" />
+					<possestiontime total="32%" />
+					<yellowcards total="0" />
+					<redcards total="1" />
+					<saves total="4" />
+					<passes total="265" accurate="182" pct="69" />
+				</localteam>
+				<visitorteam>
+					<shots total="14" ongoal="6" offgoal="3" blocked="5" insidebox="7" outsidebox="7" />
+					<fouls total="12" />
+					<corners total="6" />
+					<offsides total="4" />
+					<possestiontime total="68%" />
+					<yellowcards total="2" />
+					<redcards total="0" />
+					<saves total="1" />
+					<passes total="568" accurate="478" pct="84" />
+				</visitorteam>
+			</stats>
+			<teams>
+				<localteam formation="3-5-1-1">
+					<player number="1" name="Jonas Lössl" pos="G" formation_pos="1" id="39888" />
+					<player number="25" name="Zanka" pos="D" formation_pos="2" id="26254" />
+					<player number="26" name="Christopher Schindler" pos="D" formation_pos="3" id="109609" />
+					<player number="5" name="Terence Kongolo" pos="D" formation_pos="4" id="161296" />
+					<player number="33" name="Florent Hadergjonaj" pos="D" formation_pos="5" id="314267" />
+					<player number="10" name="Aaron Mooy" pos="M" formation_pos="6" id="97581" />
+					<player number="6" name="Jonathan Hogg" pos="M" formation_pos="7" id="89064" />
+					<player number="8" name="Philip Billing" pos="M" formation_pos="8" id="335778" />
+					<player number="37" name="Erik Durm" pos="D" formation_pos="9" id="167009" />
+					<player number="21" name="Alex Pritchard" pos="M" formation_pos="10" id="208879" />
+					<player number="24" name="Steve Mounié" pos="F" formation_pos="11" id="249283" />
+				</localteam>
+				<visitorteam formation="4-3-3">
+					<player number="1" name="Mathew Ryan" pos="G" formation_pos="1" id="131659" />
+					<player number="2" name="Bruno Saltor" pos="D" formation_pos="2" id="17881" />
+					<player number="4" name="Shane Duffy" pos="D" formation_pos="3" id="90884" />
+					<player number="5" name="Lewis Dunk" pos="D" formation_pos="4" id="129104" />
+					<player number="30" name="Bernardo" pos="D" formation_pos="5" id="328528" />
+					<player number="13" name="Pascal Groß" pos="F" formation_pos="6" id="78198" />
+					<player number="24" name="Davy Pröpper" pos="M" formation_pos="7" id="86220" />
+					<player number="8" name="Yves Bissouma" pos="M" formation_pos="8" id="432255" />
+					<player number="20" name="Solly March" pos="M" formation_pos="9" id="280521" />
+					<player number="10" name="Florin Andone" pos="F" formation_pos="10" id="171261" />
+					<player number="19" name="José Izquierdo" pos="M" formation_pos="11" id="114881" />
+				</visitorteam>
+			</teams>
+			<substitutes>
+				<localteam>
+					<player number="12" name="Ben Hamer" pos="G" id="50408" />
+					<player number="2" name="Tommy Smith" pos="D" id="217695" />
+					<player number="14" name="Ramadan Sobhi" pos="M" id="346587" />
+					<player number="18" name="Isaac Mbenza" pos="M" id="312019" />
+					<player number="19" name="Danny Williams" pos="M" id="54486" />
+					<player number="9" name="Elias Kachunga" pos="M" id="126639" />
+					<player number="20" name="Laurent Depoitre" pos="F" id="92514" />
+				</localteam>
+				<visitorteam>
+					<player number="23" name="Jason Steele" pos="G" id="23295" />
+					<player number="14" name="Leon Balogun" pos="D" id="39466" />
+					<player number="3" name="Gaëtan Bong" pos="D" id="13719" />
+					<player number="11" name="Anthony Knockaert" pos="M" id="138666" />
+					<player number="7" name="Beram Kayal" pos="M" id="60290" />
+					<player number="17" name="Glenn Murray" pos="F" id="50816" />
+					<player number="9" name="Jürgen Locadia" pos="F" id="158589" />
+				</visitorteam>
+			</substitutes>
+			<substitutions>
+				<localteam>
+					<substitution off="Jonathan Hogg" on="Danny Williams" minute="77" on_id="54486" off_id="89064" injury="False" />
+					<substitution off="Aaron Mooy" on="Tommy Smith" minute="63" on_id="217695" off_id="97581" injury="False" />
+					<substitution off="Alex Pritchard" on="Laurent Depoitre" minute="49" on_id="92514" off_id="208879" injury="False" />
+				</localteam>
+				<visitorteam>
+					<substitution off="Yves Bissouma" on="Beram Kayal" minute="90" on_id="60290" off_id="432255" injury="False" />
+					<substitution off="Florin Andone" on="Glenn Murray" minute="79" on_id="50816" off_id="171261" injury="False" />
+					<substitution off="Bruno Saltor" on="Leon Balogun" minute="78" on_id="39466" off_id="17881" injury="False" />
+				</visitorteam>
+			</substitutions>
+			<commentaries />
+			<coaches>
+			</coaches>
+			<player_stats>
+				<localteam>
+					<player num="1" name="Jonas Lössl" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="2" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="4" savesInsideBox="3" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="12" passes_acc="35%" keyPasses="0" minutes_played="90'" rating="6.6" id="39888" />
+					<player num="25" name="Zanka" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="1" total_crosses="0" acc_crosses="0" interceptions="1" clearances="6" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="4" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="16" passes_acc="76%" keyPasses="0" minutes_played="90'" rating="7.4" id="26254" />
+					<player num="26" name="Christopher Schindler" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="1" total_crosses="0" acc_crosses="0" interceptions="5" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="12" passes_acc="80%" keyPasses="0" minutes_played="90'" rating="6.6" id="109609" />
+					<player num="5" name="Terence Kongolo" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="1" blocks="0" total_crosses="1" acc_crosses="0" interceptions="2" clearances="4" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="7" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="18" passes_acc="64%" keyPasses="0" minutes_played="90'" rating="6.6" id="161296" />
+					<player num="33" name="Florent Hadergjonaj" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="3" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="2" dribbleAttempts="1" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="22" passes_acc="84%" keyPasses="0" minutes_played="90'" rating="6.2" id="314267" />
+					<player num="10" name="Aaron Mooy" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="1" blocks="0" total_crosses="3" acc_crosses="1" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="16" passes_acc="84%" keyPasses="1" minutes_played="63'" rating="7.1" id="97581" />
+					<player num="6" name="Jonathan Hogg" pos="M" isCaptain="True" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="3" tackles="1" blocks="2" total_crosses="0" acc_crosses="0" interceptions="2" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="30" passes_acc="83%" keyPasses="0" minutes_played="77'" rating="6.5" id="89064" />
+					<player num="8" name="Philip Billing" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="1" tackles="1" blocks="1" total_crosses="4" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="18" duelsWon="7" dribbleAttempts="5" dribbleSucc="1" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="13" passes_acc="61%" keyPasses="2" minutes_played="90'" rating="6.0" id="335778" />
+					<player num="37" name="Erik Durm" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="3" fouls_commited="1" tackles="1" blocks="0" total_crosses="1" acc_crosses="0" interceptions="1" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="7" dribbleAttempts="1" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="9" passes_acc="50%" keyPasses="0" minutes_played="90'" rating="6.2" id="167009" />
+					<player num="21" name="Alex Pritchard" pos="M" isCaptain="False" isSubst="False" shots_total="3" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="3" dribbleAttempts="1" dribbleSucc="0" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="17" passes_acc="73%" keyPasses="0" minutes_played="49'" rating="6.4" id="208879" />
+					<player num="24" name="Steve Mounié" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="1" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="4" passes_acc="66%" keyPasses="0" minutes_played="32'" rating="5.4" id="249283" />
+					<player num="2" name="Tommy Smith" pos="D" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="1" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="5" passes_acc="83%" keyPasses="0" minutes_played="27'" rating="6.4" id="217695" />
+					<player num="19" name="Danny Williams" pos="M" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="1" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="6" passes_acc="100%" keyPasses="0" minutes_played="13'" rating="6.5" id="54486" />
+					<player num="20" name="Laurent Depoitre" pos="F" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="14" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="2" passes_acc="33%" keyPasses="0" minutes_played="41'" rating="6.3" id="92514" />
+				</localteam>
+				<visitorteam>
+					<player num="1" name="Mathew Ryan" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="1" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="1" savesInsideBox="" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="15" passes_acc="62%" keyPasses="0" minutes_played="90'" rating="6.5" id="131659" />
+					<player num="2" name="Bruno Saltor" pos="D" isCaptain="True" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="3" acc_crosses="1" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="40" passes_acc="87%" keyPasses="1" minutes_played="78'" rating="5.9" id="17881" />
+					<player num="4" name="Shane Duffy" pos="D" isCaptain="False" isSubst="False" shots_total="3" shots_on_goal="2" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="1" total_crosses="0" acc_crosses="0" interceptions="1" clearances="14" dispossesed="" saves="" savesInsideBox="" duelsTotal="17" duelsWon="13" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="59" passes_acc="92%" keyPasses="0" minutes_played="90'" rating="8.3" id="90884" />
+					<player num="5" name="Lewis Dunk" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="" blocks="1" total_crosses="1" acc_crosses="0" interceptions="0" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="7" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="78" passes_acc="90%" keyPasses="0" minutes_played="90'" rating="7.2" id="129104" />
+					<player num="30" name="Bernardo" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="2" blocks="0" total_crosses="2" acc_crosses="0" interceptions="4" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="6" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="44" passes_acc="84%" keyPasses="0" minutes_played="90'" rating="7.0" id="328528" />
+					<player num="13" name="Pascal Groß" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="0" total_crosses="6" acc_crosses="2" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="8" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="60" passes_acc="75%" keyPasses="4" minutes_played="90'" rating="7.6" id="78198" />
+					<player num="24" name="Davy Pröpper" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="3" tackles="2" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="5" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="73" passes_acc="91%" keyPasses="0" minutes_played="90'" rating="7.1" id="86220" />
+					<player num="8" name="Yves Bissouma" pos="M" isCaptain="False" isSubst="False" shots_total="5" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="3" fouls_commited="1" tackles="3" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="14" duelsWon="11" dribbleAttempts="3" dribbleSucc="2" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="42" passes_acc="84%" keyPasses="2" minutes_played="89'" rating="7.7" id="432255" />
+					<player num="20" name="Solly March" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="2" offsides="" fouls_drawn="1" fouls_commited="2" tackles="" blocks="0" total_crosses="5" acc_crosses="3" interceptions="1" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="5" dribbleAttempts="6" dribbleSucc="3" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="33" passes_acc="89%" keyPasses="2" minutes_played="90'" rating="7.8" id="280521" />
+					<player num="10" name="Florin Andone" pos="F" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="3" dribbleAttempts="1" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="6" passes_acc="75%" keyPasses="0" minutes_played="79'" rating="7.0" id="171261" />
+					<player num="19" name="José Izquierdo" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="0" dribbleAttempts="1" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="18" passes_acc="81%" keyPasses="2" minutes_played="90'" rating="6.3" id="114881" />
+					<player num="14" name="Leon Balogun" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="3" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="6" passes_acc="66%" keyPasses="0" minutes_played="12'" rating="7.0" id="39466" />
+					<player num="7" name="Beram Kayal" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="1" passes_acc="100%" keyPasses="0" minutes_played="1'" rating="–" id="60290" />
+					<player num="17" name="Glenn Murray" pos="F" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="1" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="3" passes_acc="33%" keyPasses="0" minutes_played="11'" rating="6.6" id="50816" />
+				</visitorteam>
+			</player_stats>
+		</match>
+		<match status="Full-time" timer="" date="01.12.2018" formatted_date="01.12.2018" time="15:00" static_id="2378486" id="2231035">
+			<localteam name="Leicester City" goals="2" id="9240" />
+			<visitorteam name="Watford" goals="0" id="9423" />
+			<matchinfo>
+				<stadium name="King Power Stadium, Leicester" />
+				<attendance name="31353" />
+				<time name="15:00" />
+				<referee name="Graham Scott, England" />
+			</matchinfo>
+			<summary>
+				<localteam>
+					<goals>
+						<player name="James Maddison" minute="23" owngoal="False" penalty="False" id="317810" assist_name="Marc Albrighton" assist_id="73931" />
+						<player name="Jamie Vardy" minute="12" owngoal="False" penalty="True" id="159732" assist_name="" assist_id="" />
+					</goals>
+					<yellowcards>
+						<player name="James Maddison" minute="90" id="317810" comment="Time wasting" />
+						<player name="Marc Albrighton" minute="62" id="73931" comment="" />
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</localteam>
+				<visitorteam>
+					<goals>
+					</goals>
+					<yellowcards>
+						<player name="Isaac Success" minute="85" id="319116" comment="Foul" />
+					</yellowcards>
+					<redcards>
+						<player name="Étienne Capoue" minute="90" id="39171" comment="Foul" />
+					</redcards>
+				</visitorteam>
+			</summary>
+			<stats>
+				<localteam>
+					<shots total="7" ongoal="3" offgoal="3" blocked="1" insidebox="4" outsidebox="3" />
+					<fouls total="7" />
+					<corners total="4" />
+					<offsides total="1" />
+					<possestiontime total="37%" />
+					<yellowcards total="2" />
+					<redcards total="0" />
+					<saves total="0" />
+					<passes total="303" accurate="208" pct="69" />
+				</localteam>
+				<visitorteam>
+					<shots total="8" ongoal="0" offgoal="6" blocked="2" insidebox="5" outsidebox="3" />
+					<fouls total="6" />
+					<corners total="8" />
+					<offsides total="1" />
+					<possestiontime total="63%" />
+					<yellowcards total="1" />
+					<redcards total="1" />
+					<saves total="1" />
+					<passes total="496" accurate="406" pct="82" />
+				</visitorteam>
+			</stats>
+			<teams>
+				<localteam formation="4-2-3-1">
+					<player number="1" name="Kasper Schmeichel" pos="G" formation_pos="1" id="2841" />
+					<player number="14" name="Ricardo Pereira" pos="D" formation_pos="2" id="229723" />
+					<player number="5" name="Wes Morgan" pos="D" formation_pos="3" id="47493" />
+					<player number="6" name="Jonny Evans" pos="D" formation_pos="4" id="20687" />
+					<player number="3" name="Ben Chilwell" pos="D" formation_pos="5" id="383419" />
+					<player number="24" name="Nampalys Mendy" pos="M" formation_pos="6" id="140912" />
+					<player number="25" name="Wilfred Ndidi" pos="M" formation_pos="7" id="298168" />
+					<player number="11" name="Marc Albrighton" pos="M" formation_pos="8" id="73931" />
+					<player number="10" name="James Maddison" pos="M" formation_pos="9" id="317810" />
+					<player number="7" name="Demarai Gray" pos="M" formation_pos="10" id="317144" />
+					<player number="9" name="Jamie Vardy" pos="F" formation_pos="11" id="159732" />
+				</localteam>
+				<visitorteam formation="4-2-2-2">
+					<player number="26" name="Ben Foster" pos="G" formation_pos="1" id="2528" />
+					<player number="21" name="Kiko Femenia" pos="D" formation_pos="2" id="58948" />
+					<player number="6" name="Adrian Mariappa" pos="D" formation_pos="3" id="2546" />
+					<player number="15" name="Craig Cathcart" pos="D" formation_pos="4" id="53407" />
+					<player number="25" name="José Holebas" pos="D" formation_pos="5" id="16897" />
+					<player number="16" name="Abdoulaye Doucouré" pos="M" formation_pos="6" id="163602" />
+					<player number="29" name="Étienne Capoue" pos="M" formation_pos="7" id="39171" />
+					<player number="19" name="Will Hughes" pos="M" formation_pos="8" id="216855" />
+					<player number="37" name="Roberto Pereyra" pos="M" formation_pos="9" id="78933" />
+					<player number="7" name="Gerard Deulofeu" pos="F" formation_pos="10" id="160268" />
+					<player number="10" name="Isaac Success" pos="F" formation_pos="11" id="319116" />
+				</visitorteam>
+			</teams>
+			<substitutes>
+				<localteam>
+					<player number="12" name="Danny Ward" pos="G" id="195647" />
+					<player number="4" name="Çağlar Söyüncü" pos="D" id="362461" />
+					<player number="28" name="Christian Fuchs" pos="D" id="11180" />
+					<player number="21" name="Vicente Iborra" pos="M" id="21190" />
+					<player number="27" name="Fousseni Diabaté" pos="F" id="311892" />
+					<player number="20" name="Shinji Okazaki" pos="F" id="5724" />
+					<player number="8" name="Kelechi Iheanacho" pos="F" id="319119" />
+				</localteam>
+				<visitorteam>
+					<player number="1" name="Heurelho Gomes" pos="G" id="2386" />
+					<player number="27" name="Christian Kabasele" pos="D" id="53627" />
+					<player number="11" name="Adam Masina" pos="D" id="263958" />
+					<player number="14" name="Nathaniel Chalobah" pos="M" id="155131" />
+					<player number="12" name="Ken Sema" pos="M" id="286735" />
+					<player number="9" name="Troy Deeney" pos="F" id="51197" />
+					<player number="18" name="Andre Gray" pos="F" id="83681" />
+				</visitorteam>
+			</substitutes>
+			<substitutions>
+				<localteam>
+					<substitution off="Jonny Evans" on="Vicente Iborra" minute="84" on_id="21190" off_id="20687" injury="False" />
+					<substitution off="Jamie Vardy" on="Kelechi Iheanacho" minute="72" on_id="319119" off_id="159732" injury="False" />
+					<substitution off="Demarai Gray" on="Çağlar Söyüncü" minute="69" on_id="362461" off_id="317144" injury="False" />
+				</localteam>
+				<visitorteam>
+					<substitution off="Will Hughes" on="Nathaniel Chalobah" minute="76" on_id="155131" off_id="216855" injury="False" />
+					<substitution off="Gerard Deulofeu" on="Andre Gray" minute="55" on_id="83681" off_id="160268" injury="False" />
+					<substitution off="Roberto Pereyra" on="Troy Deeney" minute="55" on_id="51197" off_id="78933" injury="False" />
+				</visitorteam>
+			</substitutions>
+			<commentaries />
+			<coaches>
+			</coaches>
+			<player_stats>
+				<localteam>
+					<player num="1" name="Kasper Schmeichel" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="0" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="4" dispossesed="" saves="0" savesInsideBox="" duelsTotal="3" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="14" passes_acc="51%" keyPasses="0" minutes_played="90'" rating="7.1" id="2841" />
+					<player num="14" name="Ricardo Pereira" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="2" blocks="1" total_crosses="3" acc_crosses="1" interceptions="3" clearances="15" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="10" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="16" passes_acc="69%" keyPasses="1" minutes_played="90'" rating="8.2" id="229723" />
+					<player num="5" name="Wes Morgan" pos="D" isCaptain="True" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="3" clearances="7" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="7" passes_acc="70%" keyPasses="0" minutes_played="90'" rating="7.2" id="47493" />
+					<player num="6" name="Jonny Evans" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="1" blocks="1" total_crosses="0" acc_crosses="0" interceptions="1" clearances="9" dispossesed="" saves="" savesInsideBox="" duelsTotal="8" duelsWon="7" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="20" passes_acc="80%" keyPasses="0" minutes_played="84'" rating="7.3" id="20687" />
+					<player num="3" name="Ben Chilwell" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="4" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="1" dribbleAttempts="1" dribbleSucc="0" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="24" passes_acc="63%" keyPasses="1" minutes_played="90'" rating="6.4" id="383419" />
+					<player num="24" name="Nampalys Mendy" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="5" dribbleAttempts="3" dribbleSucc="3" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="34" passes_acc="87%" keyPasses="0" minutes_played="90'" rating="7.1" id="140912" />
+					<player num="25" name="Wilfred Ndidi" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="5" blocks="0" total_crosses="1" acc_crosses="0" interceptions="3" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="16" duelsWon="12" dribbleAttempts="1" dribbleSucc="1" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="22" passes_acc="56%" keyPasses="0" minutes_played="90'" rating="7.4" id="298168" />
+					<player num="11" name="Marc Albrighton" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="1" offsides="" fouls_drawn="1" fouls_commited="1" tackles="5" blocks="0" total_crosses="1" acc_crosses="0" interceptions="3" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="7" dribbleAttempts="1" dribbleSucc="0" dribbledPast="2" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="22" passes_acc="56%" keyPasses="1" minutes_played="90'" rating="7.2" id="73931" />
+					<player num="10" name="James Maddison" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="2" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="0" total_crosses="3" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="6" dribbleAttempts="5" dribbleSucc="3" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="26" passes_acc="83%" keyPasses="1" minutes_played="90'" rating="7.6" id="317810" />
+					<player num="7" name="Demarai Gray" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="1" acc_crosses="0" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="5" dribbleAttempts="3" dribbleSucc="2" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="1" passes="8" passes_acc="66%" keyPasses="0" minutes_played="69'" rating="6.8" id="317144" />
+					<player num="9" name="Jamie Vardy" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="2" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="14" duelsWon="7" dribbleAttempts="3" dribbleSucc="2" dribbledPast="" yellowcards="0" redcards="0" pen_score="1" pen_miss="0" pen_save="" pen_committed="" pen_won="1" hit_woodwork="" passes="6" passes_acc="85%" keyPasses="0" minutes_played="72'" rating="7.3" id="159732" />
+					<player num="4" name="Çağlar Söyüncü" pos="D" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="3" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="2" passes_acc="66%" keyPasses="0" minutes_played="21'" rating="6.7" id="362461" />
+					<player num="21" name="Vicente Iborra" pos="M" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="2" passes_acc="66%" keyPasses="0" minutes_played="6'" rating="6.5" id="21190" />
+					<player num="8" name="Kelechi Iheanacho" pos="F" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="2" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="5" passes_acc="71%" keyPasses="0" minutes_played="18'" rating="6.6" id="319119" />
+				</localteam>
+				<visitorteam>
+					<player num="26" name="Ben Foster" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="2" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="1" savesInsideBox="" duelsTotal="1" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="13" passes_acc="68%" keyPasses="0" minutes_played="90'" rating="5.5" id="2528" />
+					<player num="21" name="Kiko Femenia" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="0" total_crosses="3" acc_crosses="2" interceptions="1" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="4" dribbleAttempts="1" dribbleSucc="1" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="44" passes_acc="95%" keyPasses="1" minutes_played="90'" rating="6.2" id="58948" />
+					<player num="6" name="Adrian Mariappa" pos="D" isCaptain="True" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="2" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="6" dribbleAttempts="0" dribbleSucc="0" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="34" passes_acc="75%" keyPasses="0" minutes_played="90'" rating="6.4" id="2546" />
+					<player num="15" name="Craig Cathcart" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="2" blocks="1" total_crosses="0" acc_crosses="0" interceptions="1" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="8" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="39" passes_acc="92%" keyPasses="0" minutes_played="90'" rating="6.7" id="53407" />
+					<player num="25" name="José Holebas" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="15" acc_crosses="3" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="2" dribbleAttempts="3" dribbleSucc="2" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="27" passes_acc="75%" keyPasses="1" minutes_played="90'" rating="6.8" id="16897" />
+					<player num="16" name="Abdoulaye Doucouré" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="58" passes_acc="87%" keyPasses="0" minutes_played="90'" rating="6.2" id="163602" />
+					<player num="29" name="Étienne Capoue" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="6" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="7" dribbleAttempts="2" dribbleSucc="2" dribbledPast="1" yellowcards="0" redcards="1" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="74" passes_acc="87%" keyPasses="0" minutes_played="89'" rating="6.8" id="39171" />
+					<player num="19" name="Will Hughes" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="2" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="28" passes_acc="68%" keyPasses="0" minutes_played="76'" rating="6.0" id="216855" />
+					<player num="37" name="Roberto Pereyra" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="0" dribbleAttempts="1" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="23" passes_acc="85%" keyPasses="1" minutes_played="55'" rating="5.9" id="78933" />
+					<player num="7" name="Gerard Deulofeu" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="2" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="27" passes_acc="90%" keyPasses="2" minutes_played="55'" rating="7.1" id="160268" />
+					<player num="10" name="Isaac Success" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="2" tackles="1" blocks="0" total_crosses="3" acc_crosses="0" interceptions="1" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="20" duelsWon="6" dribbleAttempts="3" dribbleSucc="1" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="23" passes_acc="67%" keyPasses="1" minutes_played="90'" rating="6.3" id="319116" />
+					<player num="14" name="Nathaniel Chalobah" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="1" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="6" passes_acc="54%" keyPasses="0" minutes_played="14'" rating="6.4" id="155131" />
+					<player num="9" name="Troy Deeney" pos="F" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="3" passes_acc="75%" keyPasses="0" minutes_played="35'" rating="6.5" id="51197" />
+					<player num="18" name="Andre Gray" pos="F" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="1" dribbleAttempts="1" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="7" passes_acc="70%" keyPasses="0" minutes_played="35'" rating="6.1" id="83681" />
+				</visitorteam>
+			</player_stats>
+		</match>
+		<match status="Full-time" timer="" date="01.12.2018" formatted_date="01.12.2018" time="15:00" static_id="2378488" id="2231037">
+			<localteam name="Manchester City" goals="3" id="9259" />
+			<visitorteam name="Bournemouth" goals="1" id="9053" />
+			<matchinfo>
+				<stadium name="Etihad Stadium, Manchester" />
+				<attendance name="54409" />
+				<time name="15:00" />
+				<referee name="Stuart Attwell, England" />
+			</matchinfo>
+			<summary>
+				<localteam>
+					<goals>
+						<player name="İlkay Gündoğan" minute="79" owngoal="False" penalty="False" id="69050" assist_name="Leroy Sané" assist_id="278537" />
+						<player name="Raheem Sterling" minute="57" owngoal="False" penalty="False" id="160414" assist_name="" assist_id="" />
+						<player name="Bernardo Silva" minute="16" owngoal="False" penalty="False" id="298753" assist_name="" assist_id="" />
+					</goals>
+					<yellowcards>
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</localteam>
+				<visitorteam>
+					<goals>
+						<player name="Callum Wilson" minute="44" owngoal="False" penalty="False" id="89009" assist_name="Simon Francis" assist_id="51102" />
+					</goals>
+					<yellowcards>
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</visitorteam>
+			</summary>
+			<stats>
+				<localteam>
+					<shots total="16" ongoal="6" offgoal="5" blocked="5" insidebox="12" outsidebox="4" />
+					<fouls total="9" />
+					<corners total="8" />
+					<offsides total="2" />
+					<possestiontime total="73%" />
+					<yellowcards total="" />
+					<redcards total="0" />
+					<saves total="0" />
+					<passes total="786" accurate="712" pct="91" />
+				</localteam>
+				<visitorteam>
+					<shots total="4" ongoal="1" offgoal="2" blocked="1" insidebox="3" outsidebox="1" />
+					<fouls total="3" />
+					<corners total="4" />
+					<offsides total="3" />
+					<possestiontime total="27%" />
+					<yellowcards total="" />
+					<redcards total="0" />
+					<saves total="3" />
+					<passes total="286" accurate="210" pct="73" />
+				</visitorteam>
+			</stats>
+			<teams>
+				<localteam formation="4-3-3">
+					<player number="31" name="Ederson" pos="G" formation_pos="1" id="206804" />
+					<player number="3" name="Danilo" pos="D" formation_pos="2" id="75848" />
+					<player number="30" name="Nicolás Otamendi" pos="D" formation_pos="3" id="66411" />
+					<player number="14" name="Aymeric Laporte" pos="D" formation_pos="4" id="182904" />
+					<player number="35" name="Oleksandr Zinchenko" pos="D" formation_pos="5" id="275836" />
+					<player number="20" name="Bernardo Silva" pos="M" formation_pos="6" id="298753" />
+					<player number="25" name="Fernandinho" pos="M" formation_pos="7" id="19655" />
+					<player number="8" name="İlkay Gündoğan" pos="M" formation_pos="8" id="69050" />
+					<player number="7" name="Raheem Sterling" pos="F" formation_pos="9" id="160414" />
+					<player number="33" name="Gabriel Jesus" pos="F" formation_pos="10" id="364017" />
+					<player number="19" name="Leroy Sané" pos="F" formation_pos="11" id="278537" />
+				</localteam>
+				<visitorteam formation="5-4-1">
+					<player number="27" name="Asmir Begović" pos="G" formation_pos="1" id="30599" />
+					<player number="2" name="Simon Francis" pos="D" formation_pos="2" id="51102" />
+					<player number="3" name="Steve Cook" pos="D" formation_pos="3" id="139545" />
+					<player number="5" name="Nathan Aké" pos="D" formation_pos="4" id="182930" />
+					<player number="26" name="Tyrone Mings" pos="D" formation_pos="5" id="274052" />
+					<player number="11" name="Charlie Daniels" pos="D" formation_pos="6" id="60225" />
+					<player number="17" name="Joshua King" pos="F" formation_pos="7" id="93432" />
+					<player number="16" name="Lewis Cook" pos="M" formation_pos="8" id="335184" />
+					<player number="6" name="Andrew Surman" pos="M" formation_pos="9" id="15494" />
+					<player number="24" name="Ryan Fraser" pos="M" formation_pos="10" id="159839" />
+					<player number="13" name="Callum Wilson" pos="F" formation_pos="11" id="89009" />
+				</visitorteam>
+			</teams>
+			<substitutes>
+				<localteam>
+					<player number="49" name="Arijanet Murić" pos="G" id="453110" />
+					<player number="18" name="Fabian Delph" pos="D" id="53097" />
+					<player number="2" name="Kyle Walker" pos="D" id="68532" />
+					<player number="4" name="Vincent Kompany" pos="D" id="1998" />
+					<player number="21" name="David Silva" pos="M" id="3026" />
+					<player number="47" name="Phil Foden" pos="M" id="453102" />
+					<player number="26" name="Riyad Mahrez" pos="M" id="156662" />
+				</localteam>
+				<visitorteam>
+					<player number="1" name="Artur Boruc" pos="G" id="724" />
+					<player number="21" name="Diego Rico" pos="D" id="238788" />
+					<player number="25" name="Jack Simpson" pos="D" id="433522" />
+					<player number="20" name="David Brooks" pos="M" id="376315" />
+					<player number="19" name="Junior Stanislas" pos="M" id="68668" />
+					<player number="18" name="Jermain Defoe" pos="F" id="2950" />
+					<player number="9" name="Lys Mousset" pos="F" id="278717" />
+				</visitorteam>
+			</substitutes>
+			<substitutions>
+				<localteam>
+					<substitution off="Bernardo Silva" on="Riyad Mahrez" minute="87" on_id="156662" off_id="298753" injury="False" />
+					<substitution off="Gabriel Jesus" on="David Silva" minute="77" on_id="3026" off_id="364017" injury="False" />
+					<substitution off="Oleksandr Zinchenko" on="Fabian Delph" minute="54" on_id="53097" off_id="275836" injury="True" />
+				</localteam>
+				<visitorteam>
+					<substitution off="Callum Wilson" on="Lys Mousset" minute="85" on_id="278717" off_id="89009" injury="False" />
+					<substitution off="Joshua King" on="Junior Stanislas" minute="85" on_id="68668" off_id="93432" injury="False" />
+					<substitution off="Ryan Fraser" on="David Brooks" minute="72" on_id="376315" off_id="159839" injury="False" />
+				</visitorteam>
+			</substitutions>
+			<commentaries />
+			<coaches>
+			</coaches>
+			<player_stats>
+				<localteam>
+					<player num="31" name="Ederson" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="1" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="3" dispossesed="" saves="0" savesInsideBox="" duelsTotal="2" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="22" passes_acc="95%" keyPasses="0" minutes_played="90'" rating="6.4" id="206804" />
+					<player num="3" name="Danilo" pos="D" isCaptain="False" isSubst="False" shots_total="3" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="3" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="4" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="77" passes_acc="88%" keyPasses="0" minutes_played="90'" rating="7.2" id="75848" />
+					<player num="30" name="Nicolás Otamendi" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="1" total_crosses="0" acc_crosses="0" interceptions="3" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="108" passes_acc="93%" keyPasses="1" minutes_played="90'" rating="7.0" id="66411" />
+					<player num="14" name="Aymeric Laporte" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="104" passes_acc="90%" keyPasses="1" minutes_played="90'" rating="6.9" id="182904" />
+					<player num="35" name="Oleksandr Zinchenko" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="2" blocks="0" total_crosses="1" acc_crosses="1" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="5" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="52" passes_acc="92%" keyPasses="1" minutes_played="54'" rating="6.9" id="275836" />
+					<player num="20" name="Bernardo Silva" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="5" acc_crosses="1" interceptions="1" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="0" dribbleAttempts="1" dribbleSucc="0" dribbledPast="3" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="57" passes_acc="91%" keyPasses="2" minutes_played="87'" rating="7.0" id="298753" />
+					<player num="25" name="Fernandinho" pos="M" isCaptain="True" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="4" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="4" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="81" passes_acc="93%" keyPasses="0" minutes_played="90'" rating="6.9" id="19655" />
+					<player num="8" name="İlkay Gündoğan" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="2" tackles="3" blocks="0" total_crosses="5" acc_crosses="3" interceptions="0" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="8" dribbleAttempts="2" dribbleSucc="2" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="73" passes_acc="89%" keyPasses="2" minutes_played="90'" rating="8.3" id="69050" />
+					<player num="7" name="Raheem Sterling" pos="F" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="4" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="6" dribbleAttempts="7" dribbleSucc="5" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="1" passes="27" passes_acc="84%" keyPasses="2" minutes_played="90'" rating="7.7" id="160414" />
+					<player num="33" name="Gabriel Jesus" pos="F" isCaptain="False" isSubst="False" shots_total="4" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="6" dribbleAttempts="2" dribbleSucc="2" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="20" passes_acc="74%" keyPasses="0" minutes_played="77'" rating="6.9" id="364017" />
+					<player num="19" name="Leroy Sané" pos="F" isCaptain="False" isSubst="False" shots_total="3" shots_on_goal="1" goals="" goals_conceded="" assists="1" offsides="" fouls_drawn="0" fouls_commited="0" tackles="2" blocks="0" total_crosses="2" acc_crosses="0" interceptions="1" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="6" dribbleAttempts="3" dribbleSucc="3" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="36" passes_acc="85%" keyPasses="3" minutes_played="90'" rating="8.1" id="278537" />
+					<player num="18" name="Fabian Delph" pos="D" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="2" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="31" passes_acc="96%" keyPasses="0" minutes_played="36'" rating="6.7" id="53097" />
+					<player num="21" name="David Silva" pos="M" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="1" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="21" passes_acc="95%" keyPasses="1" minutes_played="13'" rating="7.0" id="3026" />
+					<player num="26" name="Riyad Mahrez" pos="M" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="1" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="3" passes_acc="100%" keyPasses="0" minutes_played="3'" rating="–" id="156662" />
+				</localteam>
+				<visitorteam>
+					<player num="27" name="Asmir Begović" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="3" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="2" dispossesed="" saves="3" savesInsideBox="3" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="9" passes_acc="40%" keyPasses="0" minutes_played="90'" rating="6.1" id="30599" />
+					<player num="2" name="Simon Francis" pos="D" isCaptain="True" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="1" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="4" acc_crosses="1" interceptions="0" clearances="8" dispossesed="" saves="" savesInsideBox="" duelsTotal="19" duelsWon="10" dribbleAttempts="1" dribbleSucc="0" dribbledPast="3" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="18" passes_acc="60%" keyPasses="1" minutes_played="90'" rating="6.1" id="51102" />
+					<player num="3" name="Steve Cook" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="3" clearances="6" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="5" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="22" passes_acc="81%" keyPasses="0" minutes_played="90'" rating="6.8" id="139545" />
+					<player num="5" name="Nathan Aké" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="7" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="19" passes_acc="86%" keyPasses="0" minutes_played="90'" rating="6.3" id="182930" />
+					<player num="26" name="Tyrone Mings" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="3" blocks="2" total_crosses="0" acc_crosses="0" interceptions="4" clearances="6" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="5" dribbleAttempts="1" dribbleSucc="1" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="24" passes_acc="77%" keyPasses="0" minutes_played="90'" rating="6.9" id="274052" />
+					<player num="11" name="Charlie Daniels" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="1" total_crosses="0" acc_crosses="0" interceptions="2" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="7" dribbleAttempts="2" dribbleSucc="2" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="33" passes_acc="76%" keyPasses="0" minutes_played="90'" rating="6.5" id="60225" />
+					<player num="17" name="Joshua King" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="2" tackles="" blocks="0" total_crosses="3" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="17" duelsWon="8" dribbleAttempts="5" dribbleSucc="3" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="11" passes_acc="64%" keyPasses="1" minutes_played="85'" rating="6.4" id="93432" />
+					<player num="16" name="Lewis Cook" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="1" total_crosses="0" acc_crosses="0" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="1" dribbleAttempts="1" dribbleSucc="1" dribbledPast="3" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="19" passes_acc="79%" keyPasses="0" minutes_played="90'" rating="6.2" id="335184" />
+					<player num="6" name="Andrew Surman" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="1" total_crosses="0" acc_crosses="0" interceptions="0" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="23" passes_acc="76%" keyPasses="0" minutes_played="90'" rating="6.6" id="15494" />
+					<player num="24" name="Ryan Fraser" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="17" passes_acc="68%" keyPasses="2" minutes_played="72'" rating="6.6" id="159839" />
+					<player num="13" name="Callum Wilson" pos="F" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="5" passes_acc="100%" keyPasses="0" minutes_played="85'" rating="6.9" id="89009" />
+					<player num="20" name="David Brooks" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="0" dribbleAttempts="2" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="5" passes_acc="100%" keyPasses="0" minutes_played="18'" rating="6.0" id="376315" />
+					<player num="19" name="Junior Stanislas" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="2" dribbleAttempts="2" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="3" passes_acc="100%" keyPasses="0" minutes_played="5'" rating="6.6" id="68668" />
+					<player num="9" name="Lys Mousset" pos="F" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="2" passes_acc="100%" keyPasses="0" minutes_played="5'" rating="6.5" id="278717" />
+				</visitorteam>
+			</player_stats>
+		</match>
+		<match status="Full-time" timer="" date="01.12.2018" formatted_date="01.12.2018" time="15:00" static_id="2378489" id="2231038">
+			<localteam name="Newcastle United" goals="0" id="9287" />
+			<visitorteam name="West Ham United" goals="3" id="9427" />
+			<matchinfo>
+				<stadium name="St James' Park, Newcastle upon Tyne" />
+				<attendance name="51853" />
+				<time name="15:00" />
+				<referee name="Paul Tierney, England" />
+			</matchinfo>
+			<summary>
+				<localteam>
+					<goals>
+					</goals>
+					<yellowcards>
+						<player name="DeAndre Yedlin" minute="89" id="281962" comment="Foul" />
+						<player name="Fabian Schär" minute="79" id="109708" comment="" />
+						<player name="Matt Ritchie" minute="41" id="65142" comment="Persistent fouling" />
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</localteam>
+				<visitorteam>
+					<goals>
+						<player name="Felipe Anderson" minute="90" owngoal="False" penalty="False" id="157530" assist_name="Jack Wilshere" assist_id="61075" />
+						<player name="Javier Hernández" minute="63" owngoal="False" penalty="False" id="53937" assist_name="Marko Arnautović" assist_id="21018" />
+						<player name="Javier Hernández" minute="11" owngoal="False" penalty="False" id="53937" assist_name="Robert Snodgrass" assist_id="38569" />
+					</goals>
+					<yellowcards>
+						<player name="Pablo Zabaleta" minute="43" id="3259" comment="Foul" />
+						<player name="Mark Noble" minute="32" id="5320" comment="Time wasting" />
+						<player name="Robert Snodgrass" minute="21" id="38569" comment="Foul" />
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</visitorteam>
+			</summary>
+			<stats>
+				<localteam>
+					<shots total="16" ongoal="4" offgoal="7" blocked="5" insidebox="7" outsidebox="9" />
+					<fouls total="10" />
+					<corners total="7" />
+					<offsides total="3" />
+					<possestiontime total="58%" />
+					<yellowcards total="3" />
+					<redcards total="0" />
+					<saves total="1" />
+					<passes total="492" accurate="405" pct="82" />
+				</localteam>
+				<visitorteam>
+					<shots total="7" ongoal="4" offgoal="3" blocked="0" insidebox="7" outsidebox="0" />
+					<fouls total="10" />
+					<corners total="3" />
+					<offsides total="3" />
+					<possestiontime total="42%" />
+					<yellowcards total="3" />
+					<redcards total="0" />
+					<saves total="4" />
+					<passes total="358" accurate="250" pct="70" />
+				</visitorteam>
+			</stats>
+			<teams>
+				<localteam formation="4-4-1-1">
+					<player number="12" name="Martin Dúbravka" pos="G" formation_pos="1" id="35439" />
+					<player number="22" name="DeAndre Yedlin" pos="D" formation_pos="2" id="281962" />
+					<player number="5" name="Fabian Schär" pos="D" formation_pos="3" id="109708" />
+					<player number="18" name="Federico Fernández" pos="D" formation_pos="4" id="61374" />
+					<player number="19" name="Javier Manquillo" pos="D" formation_pos="5" id="221516" />
+					<player number="11" name="Matt Ritchie" pos="M" formation_pos="6" id="65142" />
+					<player number="10" name="Mohamed Diamé" pos="M" formation_pos="7" id="58677" />
+					<player number="4" name="Sung-Yueng Ki" pos="M" formation_pos="8" id="26915" />
+					<player number="15" name="Kenedy" pos="M" formation_pos="9" id="287912" />
+					<player number="17" name="Ayoze Pérez" pos="F" formation_pos="10" id="262852" />
+					<player number="9" name="Salomón Rondón" pos="F" formation_pos="11" id="58710" />
+				</localteam>
+				<visitorteam formation="4-4-2">
+					<player number="1" name="Łukasz Fabiański" pos="G" formation_pos="1" id="725" />
+					<player number="5" name="Pablo Zabaleta" pos="M" formation_pos="2" id="3259" />
+					<player number="4" name="Fabián Balbuena" pos="D" formation_pos="3" id="225552" />
+					<player number="23" name="Issa Diop" pos="D" formation_pos="4" id="320103" />
+					<player number="3" name="Aaron Cresswell" pos="D" formation_pos="5" id="51175" />
+					<player number="11" name="Robert Snodgrass" pos="M" formation_pos="6" id="38569" />
+					<player number="16" name="Mark Noble" pos="M" formation_pos="7" id="5320" />
+					<player number="41" name="Declan Rice" pos="M" formation_pos="8" id="408158" />
+					<player number="8" name="Felipe Anderson" pos="M" formation_pos="9" id="157530" />
+					<player number="17" name="Javier Hernández" pos="F" formation_pos="10" id="53937" />
+					<player number="7" name="Marko Arnautović" pos="F" formation_pos="11" id="21018" />
+				</visitorteam>
+			</teams>
+			<substitutes>
+				<localteam>
+					<player number="41" name="Freddie Woodman" pos="G" id="274762" />
+					<player number="6" name="Jamaal Lascelles" pos="D" id="192421" />
+					<player number="2" name="Ciaran Clark" pos="D" id="89489" />
+					<player number="36" name="Sean Longstaff" pos="M" id="454449" />
+					<player number="30" name="Christian Atsu" pos="M" id="190602" />
+					<player number="8" name="Jonjo Shelvey" pos="M" id="51243" />
+					<player number="21" name="Joselu" pos="F" id="78568" />
+				</localteam>
+				<visitorteam>
+					<player number="13" name="Adrián" pos="G" id="60036" />
+					<player number="21" name="Angelo Ogbonna" pos="D" id="9770" />
+					<player number="26" name="Arthur Masuaku" pos="D" id="202582" />
+					<player number="14" name="Pedro Obiang" pos="M" id="138045" />
+					<player number="19" name="Jack Wilshere" pos="M" id="61075" />
+					<player number="27" name="Lucas Pérez" pos="F" id="115127" />
+					<player number="9" name="Andy Carroll" pos="F" id="5310" />
+				</visitorteam>
+			</substitutes>
+			<substitutions>
+				<localteam>
+					<substitution off="Ayoze Pérez" on="Joselu" minute="78" on_id="78568" off_id="262852" injury="False" />
+					<substitution off="Kenedy" on="Jonjo Shelvey" minute="70" on_id="51243" off_id="287912" injury="False" />
+					<substitution off="Matt Ritchie" on="Christian Atsu" minute="54" on_id="190602" off_id="65142" injury="False" />
+				</localteam>
+				<visitorteam>
+					<substitution off="Mark Noble" on="Jack Wilshere" minute="85" on_id="61075" off_id="5320" injury="False" />
+					<substitution off="Marko Arnautović" on="Pedro Obiang" minute="71" on_id="138045" off_id="21018" injury="False" />
+					<substitution off="Aaron Cresswell" on="Arthur Masuaku" minute="56" on_id="202582" off_id="51175" injury="True" />
+				</visitorteam>
+			</substitutions>
+			<commentaries />
+			<coaches>
+			</coaches>
+			<player_stats>
+				<localteam>
+					<player num="12" name="Martin Dúbravka" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="3" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="1" savesInsideBox="1" duelsTotal="1" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="20" passes_acc="66%" keyPasses="0" minutes_played="90'" rating="5.6" id="35439" />
+					<player num="22" name="DeAndre Yedlin" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="9" acc_crosses="2" interceptions="0" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="30" passes_acc="85%" keyPasses="2" minutes_played="90'" rating="6.8" id="281962" />
+					<player num="5" name="Fabian Schär" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="2" blocks="0" total_crosses="0" acc_crosses="0" interceptions="5" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="6" dribbleAttempts="5" dribbleSucc="3" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="47" passes_acc="73%" keyPasses="0" minutes_played="90'" rating="6.4" id="109708" />
+					<player num="18" name="Federico Fernández" pos="D" isCaptain="True" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="53" passes_acc="85%" keyPasses="0" minutes_played="90'" rating="6.2" id="61374" />
+					<player num="19" name="Javier Manquillo" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="0" tackles="" blocks="0" total_crosses="5" acc_crosses="0" interceptions="3" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="4" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="44" passes_acc="78%" keyPasses="1" minutes_played="90'" rating="6.5" id="221516" />
+					<player num="11" name="Matt Ritchie" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="3" tackles="" blocks="0" total_crosses="10" acc_crosses="3" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="17" passes_acc="89%" keyPasses="3" minutes_played="54'" rating="6.9" id="65142" />
+					<player num="10" name="Mohamed Diamé" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="2" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="3" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="43" passes_acc="87%" keyPasses="0" minutes_played="90'" rating="6.2" id="58677" />
+					<player num="4" name="Sung-Yueng Ki" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="1" tackles="1" blocks="0" total_crosses="3" acc_crosses="0" interceptions="2" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="5" dribbleAttempts="1" dribbleSucc="1" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="66" passes_acc="89%" keyPasses="1" minutes_played="90'" rating="7.0" id="26915" />
+					<player num="15" name="Kenedy" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="1" blocks="0" total_crosses="2" acc_crosses="1" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="3" dribbleAttempts="2" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="21" passes_acc="87%" keyPasses="2" minutes_played="70'" rating="6.3" id="287912" />
+					<player num="17" name="Ayoze Pérez" pos="F" isCaptain="False" isSubst="False" shots_total="4" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="4" dribbleAttempts="2" dribbleSucc="1" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="22" passes_acc="95%" keyPasses="4" minutes_played="78'" rating="6.9" id="262852" />
+					<player num="9" name="Salomón Rondón" pos="F" isCaptain="False" isSubst="False" shots_total="7" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="3" fouls_commited="0" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="24" duelsWon="10" dribbleAttempts="3" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="15" passes_acc="68%" keyPasses="0" minutes_played="90'" rating="6.6" id="58710" />
+					<player num="30" name="Christian Atsu" pos="M" isCaptain="False" isSubst="True" shots_total="2" shots_on_goal="2" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="2" duelsWon="0" dribbleAttempts="1" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="7" passes_acc="87%" keyPasses="1" minutes_played="36'" rating="6.7" id="190602" />
+					<player num="8" name="Jonjo Shelvey" pos="M" isCaptain="False" isSubst="True" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="2" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="16" passes_acc="80%" keyPasses="0" minutes_played="20'" rating="6.8" id="51243" />
+					<player num="21" name="Joselu" pos="F" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="1" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="4" passes_acc="66%" keyPasses="0" minutes_played="12'" rating="6.4" id="78568" />
+				</localteam>
+				<visitorteam>
+					<player num="1" name="Łukasz Fabiański" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="0" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="4" dispossesed="" saves="4" savesInsideBox="1" duelsTotal="1" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="13" passes_acc="41%" keyPasses="0" minutes_played="90'" rating="7.8" id="725" />
+					<player num="5" name="Pablo Zabaleta" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="1" blocks="1" total_crosses="1" acc_crosses="0" interceptions="1" clearances="6" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="7" dribbleAttempts="3" dribbleSucc="2" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="23" passes_acc="71%" keyPasses="0" minutes_played="90'" rating="7.0" id="3259" />
+					<player num="4" name="Fabián Balbuena" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="4" blocks="0" total_crosses="0" acc_crosses="0" interceptions="3" clearances="12" dispossesed="" saves="" savesInsideBox="" duelsTotal="16" duelsWon="9" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="16" passes_acc="64%" keyPasses="0" minutes_played="90'" rating="7.5" id="225552" />
+					<player num="23" name="Issa Diop" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="5" blocks="1" total_crosses="0" acc_crosses="0" interceptions="0" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="12" duelsWon="10" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="18" passes_acc="78%" keyPasses="0" minutes_played="90'" rating="7.8" id="320103" />
+					<player num="3" name="Aaron Cresswell" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="3" fouls_commited="0" tackles="2" blocks="1" total_crosses="2" acc_crosses="0" interceptions="0" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="6" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="18" passes_acc="85%" keyPasses="0" minutes_played="56'" rating="7.2" id="51175" />
+					<player num="11" name="Robert Snodgrass" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="1" offsides="" fouls_drawn="2" fouls_commited="2" tackles="1" blocks="0" total_crosses="7" acc_crosses="2" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="17" duelsWon="11" dribbleAttempts="2" dribbleSucc="1" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="28" passes_acc="66%" keyPasses="2" minutes_played="90'" rating="7.3" id="38569" />
+					<player num="16" name="Mark Noble" pos="M" isCaptain="True" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="4" dribbleAttempts="1" dribbleSucc="0" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="36" passes_acc="81%" keyPasses="0" minutes_played="85'" rating="6.6" id="5320" />
+					<player num="41" name="Declan Rice" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="2" blocks="1" total_crosses="0" acc_crosses="0" interceptions="2" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="8" dribbleAttempts="1" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="24" passes_acc="77%" keyPasses="0" minutes_played="90'" rating="7.1" id="408158" />
+					<player num="8" name="Felipe Anderson" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="2" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="0" total_crosses="1" acc_crosses="0" interceptions="2" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="11" duelsWon="4" dribbleAttempts="2" dribbleSucc="1" dribbledPast="4" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="31" passes_acc="88%" keyPasses="2" minutes_played="90'" rating="7.7" id="157530" />
+					<player num="17" name="Javier Hernández" pos="F" isCaptain="False" isSubst="False" shots_total="4" shots_on_goal="2" goals="2" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="6" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="17" passes_acc="65%" keyPasses="0" minutes_played="90'" rating="8.0" id="53937" />
+					<player num="7" name="Marko Arnautović" pos="F" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="1" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="1" total_crosses="1" acc_crosses="1" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="3" dribbleAttempts="3" dribbleSucc="3" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="12" passes_acc="48%" keyPasses="3" minutes_played="71'" rating="7.8" id="21018" />
+					<player num="26" name="Arthur Masuaku" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="3" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="6" passes_acc="60%" keyPasses="0" minutes_played="34'" rating="6.4" id="202582" />
+					<player num="14" name="Pedro Obiang" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="2" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="6" passes_acc="54%" keyPasses="0" minutes_played="19'" rating="6.4" id="138045" />
+					<player num="19" name="Jack Wilshere" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="1" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="2" duelsWon="1" dribbleAttempts="2" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="2" passes_acc="100%" keyPasses="1" minutes_played="5'" rating="7.0" id="61075" />
+				</visitorteam>
+			</player_stats>
+		</match>
+		<match status="Full-time" timer="" date="01.12.2018" formatted_date="01.12.2018" time="17:30" static_id="2378490" id="2231039">
+			<localteam name="Southampton" goals="2" id="9363" />
+			<visitorteam name="Manchester United" goals="2" id="9260" />
+			<matchinfo>
+				<stadium name="St. Mary's Stadium, Southampton" />
+				<attendance name="30187" />
+				<time name="17:30" />
+				<referee name="Kevin Friend, England" />
+			</matchinfo>
+			<summary>
+				<localteam>
+					<goals>
+						<player name="Cédric Soares" minute="20" owngoal="False" penalty="False" id="134612" assist_name="" assist_id="" />
+						<player name="Stuart Armstrong" minute="13" owngoal="False" penalty="False" id="134248" assist_name="Michael Obafemi" assist_id="453438" />
+					</goals>
+					<yellowcards>
+						<player name="Stuart Armstrong" minute="90" id="134248" comment="Foul" />
+						<player name="Jannik Vestergaard" minute="59" id="143213" comment="Foul" />
+						<player name="Mario Lemina" minute="54" id="163668" comment="Foul" />
+						<player name="Pierre-Emile Højbjerg" minute="35" id="182609" comment="Foul" />
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</localteam>
+				<visitorteam>
+					<goals>
+						<player name="Ander Herrera" minute="39" owngoal="False" penalty="False" id="72451" assist_name="Marcus Rashford" assist_id="420221" />
+						<player name="Romelu Lukaku" minute="33" owngoal="False" penalty="False" id="79495" assist_name="Marcus Rashford" assist_id="420221" />
+					</goals>
+					<yellowcards>
+						<player name="Ashley Young" minute="90" id="2553" comment="Foul" />
+						<player name="Paul Pogba" minute="53" id="177208" comment="Foul" />
+						<player name="Marouane Fellaini" minute="35" id="13519" comment="Foul" />
+						<player name="Marcus Rashford" minute="18" id="420221" comment="Foul" />
+					</yellowcards>
+					<redcards>
+					</redcards>
+				</visitorteam>
+			</summary>
+			<stats>
+				<localteam>
+					<shots total="16" ongoal="6" offgoal="6" blocked="4" insidebox="5" outsidebox="11" />
+					<fouls total="12" />
+					<corners total="3" />
+					<offsides total="0" />
+					<possestiontime total="40%" />
+					<yellowcards total="4" />
+					<redcards total="0" />
+					<saves total="3" />
+					<passes total="358" accurate="278" pct="78" />
+				</localteam>
+				<visitorteam>
+					<shots total="11" ongoal="5" offgoal="4" blocked="2" insidebox="7" outsidebox="4" />
+					<fouls total="13" />
+					<corners total="5" />
+					<offsides total="2" />
+					<possestiontime total="60%" />
+					<yellowcards total="4" />
+					<redcards total="0" />
+					<saves total="4" />
+					<passes total="520" accurate="436" pct="84" />
+				</visitorteam>
+			</stats>
+			<teams>
+				<localteam formation="3-4-1-2">
+					<player number="1" name="Alex McCarthy" pos="G" formation_pos="1" id="69110" />
+					<player number="5" name="Jack Stephens" pos="D" formation_pos="2" id="154121" />
+					<player number="3" name="Maya Yoshida" pos="D" formation_pos="3" id="5803" />
+					<player number="4" name="Jannik Vestergaard" pos="D" formation_pos="4" id="143213" />
+					<player number="43" name="Yan Valery" pos="M" formation_pos="5" id="426524" />
+					<player number="23" name="Pierre-Emile Højbjerg" pos="M" formation_pos="6" id="182609" />
+					<player number="18" name="Mario Lemina" pos="M" formation_pos="7" id="163668" />
+					<player number="2" name="Cédric Soares" pos="D" formation_pos="8" id="134612" />
+					<player number="17" name="Stuart Armstrong" pos="M" formation_pos="9" id="134248" />
+					<player number="22" name="Nathan Redmond" pos="M" formation_pos="10" id="148697" />
+					<player number="61" name="Michael Obafemi" pos="F" formation_pos="11" id="453438" />
+				</localteam>
+				<visitorteam formation="5-3-2">
+					<player number="1" name="David De Gea" pos="G" formation_pos="1" id="61954" />
+					<player number="18" name="Ashley Young" pos="D" formation_pos="2" id="2553" />
+					<player number="39" name="Scott McTominay" pos="M" formation_pos="3" id="420214" />
+					<player number="4" name="Phil Jones" pos="D" formation_pos="4" id="97299" />
+					<player number="31" name="Nemanja Matić" pos="M" formation_pos="5" id="35472" />
+					<player number="23" name="Luke Shaw" pos="D" formation_pos="6" id="209805" />
+					<player number="21" name="Ander Herrera" pos="M" formation_pos="7" id="72451" />
+					<player number="27" name="Marouane Fellaini" pos="M" formation_pos="8" id="13519" />
+					<player number="6" name="Paul Pogba" pos="M" formation_pos="9" id="177208" />
+					<player number="9" name="Romelu Lukaku" pos="F" formation_pos="10" id="79495" />
+					<player number="10" name="Marcus Rashford" pos="F" formation_pos="11" id="420221" />
+				</visitorteam>
+			</teams>
+			<substitutes>
+				<localteam>
+					<player number="28" name="Angus Gunn" pos="G" id="217678" />
+					<player number="6" name="Wesley Hoedt" pos="D" id="300856" />
+					<player number="16" name="James Ward-Prowse" pos="M" id="200872" />
+					<player number="8" name="Steven Davis" pos="M" id="2803" />
+					<player number="14" name="Oriol Romeu" pos="M" id="97045" />
+					<player number="20" name="Manolo Gabbiadini" pos="F" id="122010" />
+					<player number="10" name="Charlie Austin" pos="F" id="99940" />
+				</localteam>
+				<visitorteam>
+					<player number="22" name="Sergio Romero" pos="G" id="17311" />
+					<player number="20" name="Diogo Dalot" pos="D" id="400243" />
+					<player number="16" name="Marcos Rojo" pos="D" id="68939" />
+					<player number="8" name="Juan Mata" pos="M" id="19106" />
+					<player number="17" name="Fred" pos="M" id="195289" />
+					<player number="14" name="Jesse Lingard" pos="M" id="220119" />
+					<player number="11" name="Anthony Martial" pos="F" id="215647" />
+				</visitorteam>
+			</substitutes>
+			<substitutions>
+				<localteam>
+					<substitution off="Mario Lemina" on="Steven Davis" minute="90" on_id="2803" off_id="163668" injury="False" />
+					<substitution off="Michael Obafemi" on="Manolo Gabbiadini" minute="64" on_id="122010" off_id="453438" injury="False" />
+				</localteam>
+				<visitorteam>
+					<substitution off="Romelu Lukaku" on="Jesse Lingard" minute="86" on_id="220119" off_id="79495" injury="False" />
+					<substitution off="Marcus Rashford" on="Anthony Martial" minute="77" on_id="215647" off_id="420221" injury="False" />
+					<substitution off="Luke Shaw" on="Diogo Dalot" minute="72" on_id="400243" off_id="209805" injury="True" />
+				</visitorteam>
+			</substitutions>
+			<commentaries />
+			<coaches>
+			</coaches>
+			<player_stats>
+				<localteam>
+					<player num="1" name="Alex McCarthy" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="2" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="3" savesInsideBox="2" duelsTotal="2" duelsWon="2" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="7" passes_acc="29%" keyPasses="0" minutes_played="90'" rating="6.1" id="69110" />
+					<player num="5" name="Jack Stephens" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="2" blocks="0" total_crosses="1" acc_crosses="0" interceptions="3" clearances="4" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="27" passes_acc="77%" keyPasses="1" minutes_played="90'" rating="6.5" id="154121" />
+					<player num="3" name="Maya Yoshida" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="4" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="24" passes_acc="82%" keyPasses="0" minutes_played="90'" rating="6.4" id="5803" />
+					<player num="4" name="Jannik Vestergaard" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="2" tackles="" blocks="1" total_crosses="0" acc_crosses="0" interceptions="4" clearances="5" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="4" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="24" passes_acc="80%" keyPasses="0" minutes_played="90'" rating="6.6" id="143213" />
+					<player num="43" name="Yan Valery" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="2" tackles="2" blocks="0" total_crosses="2" acc_crosses="0" interceptions="1" clearances="4" dispossesed="" saves="" savesInsideBox="" duelsTotal="20" duelsWon="5" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="14" passes_acc="63%" keyPasses="0" minutes_played="90'" rating="6.1" id="426524" />
+					<player num="23" name="Pierre-Emile Højbjerg" pos="M" isCaptain="True" isSubst="False" shots_total="3" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="3" tackles="2" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="15" duelsWon="6" dribbleAttempts="1" dribbleSucc="0" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="61" passes_acc="91%" keyPasses="1" minutes_played="90'" rating="6.7" id="182609" />
+					<player num="18" name="Mario Lemina" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="4" fouls_commited="1" tackles="4" blocks="1" total_crosses="1" acc_crosses="1" interceptions="3" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="20" duelsWon="12" dribbleAttempts="4" dribbleSucc="3" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="37" passes_acc="97%" keyPasses="1" minutes_played="89'" rating="7.2" id="163668" />
+					<player num="2" name="Cédric Soares" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="" blocks="0" total_crosses="3" acc_crosses="1" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="3" dribbleAttempts="3" dribbleSucc="1" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="20" passes_acc="90%" keyPasses="0" minutes_played="90'" rating="6.6" id="134612" />
+					<player num="17" name="Stuart Armstrong" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="1" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="2" blocks="0" total_crosses="2" acc_crosses="0" interceptions="1" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="8" dribbleAttempts="2" dribbleSucc="2" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="34" passes_acc="77%" keyPasses="1" minutes_played="90'" rating="7.9" id="134248" />
+					<player num="22" name="Nathan Redmond" pos="M" isCaptain="False" isSubst="False" shots_total="4" shots_on_goal="2" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="1" tackles="1" blocks="0" total_crosses="3" acc_crosses="2" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="14" duelsWon="5" dribbleAttempts="7" dribbleSucc="3" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="20" passes_acc="57%" keyPasses="3" minutes_played="90'" rating="7.2" id="148697" />
+					<player num="61" name="Michael Obafemi" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="1" offsides="" fouls_drawn="1" fouls_commited="1" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="7" duelsWon="1" dribbleAttempts="1" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="5" passes_acc="71%" keyPasses="1" minutes_played="64'" rating="6.5" id="453438" />
+					<player num="8" name="Steven Davis" pos="M" isCaptain="False" isSubst="True" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="1" passes_acc="100%" keyPasses="0" minutes_played="1'" rating="–" id="2803" />
+					<player num="20" name="Manolo Gabbiadini" pos="F" isCaptain="False" isSubst="True" shots_total="3" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="1" dribbleAttempts="2" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="4" passes_acc="100%" keyPasses="0" minutes_played="26'" rating="6.5" id="122010" />
+				</localteam>
+				<visitorteam>
+					<player num="1" name="David De Gea" pos="G" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="2" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="4" savesInsideBox="1" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="0" pen_committed="" pen_won="" hit_woodwork="" passes="15" passes_acc="88%" keyPasses="0" minutes_played="90'" rating="6.4" id="61954" />
+					<player num="18" name="Ashley Young" pos="D" isCaptain="True" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="1" tackles="" blocks="0" total_crosses="11" acc_crosses="4" interceptions="3" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="5" duelsWon="4" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="36" passes_acc="75%" keyPasses="2" minutes_played="90'" rating="7.0" id="2553" />
+					<player num="39" name="Scott McTominay" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="1" tackles="2" blocks="1" total_crosses="0" acc_crosses="0" interceptions="0" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="5" dribbleAttempts="1" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="56" passes_acc="87%" keyPasses="0" minutes_played="90'" rating="6.7" id="420214" />
+					<player num="4" name="Phil Jones" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="1" blocks="2" total_crosses="0" acc_crosses="0" interceptions="1" clearances="4" dispossesed="" saves="" savesInsideBox="" duelsTotal="3" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="47" passes_acc="95%" keyPasses="0" minutes_played="90'" rating="7.0" id="97299" />
+					<player num="31" name="Nemanja Matić" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="2" blocks="0" total_crosses="0" acc_crosses="0" interceptions="3" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="10" duelsWon="7" dribbleAttempts="1" dribbleSucc="1" dribbledPast="2" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="67" passes_acc="89%" keyPasses="1" minutes_played="90'" rating="6.7" id="35472" />
+					<player num="23" name="Luke Shaw" pos="D" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="3" acc_crosses="0" interceptions="0" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="8" duelsWon="5" dribbleAttempts="2" dribbleSucc="1" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="24" passes_acc="64%" keyPasses="1" minutes_played="72'" rating="6.4" id="209805" />
+					<player num="21" name="Ander Herrera" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="2" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="2" blocks="1" total_crosses="0" acc_crosses="0" interceptions="2" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="13" duelsWon="8" dribbleAttempts="0" dribbleSucc="0" dribbledPast="3" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="56" passes_acc="93%" keyPasses="1" minutes_played="90'" rating="7.8" id="72451" />
+					<player num="27" name="Marouane Fellaini" pos="M" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="2" fouls_commited="2" tackles="2" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="2" dispossesed="" saves="" savesInsideBox="" duelsTotal="17" duelsWon="9" dribbleAttempts="1" dribbleSucc="0" dribbledPast="2" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="42" passes_acc="85%" keyPasses="0" minutes_played="90'" rating="6.4" id="13519" />
+					<player num="6" name="Paul Pogba" pos="M" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="1" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="4" fouls_commited="4" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="1" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="30" duelsWon="15" dribbleAttempts="6" dribbleSucc="5" dribbledPast="1" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="43" passes_acc="84%" keyPasses="0" minutes_played="90'" rating="6.2" id="177208" />
+					<player num="9" name="Romelu Lukaku" pos="F" isCaptain="False" isSubst="False" shots_total="2" shots_on_goal="2" goals="1" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="2" blocks="0" total_crosses="4" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="9" duelsWon="5" dribbleAttempts="0" dribbleSucc="0" dribbledPast="1" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="15" passes_acc="65%" keyPasses="1" minutes_played="86'" rating="7.4" id="79495" />
+					<player num="10" name="Marcus Rashford" pos="F" isCaptain="False" isSubst="False" shots_total="1" shots_on_goal="0" goals="" goals_conceded="" assists="2" offsides="" fouls_drawn="1" fouls_commited="2" tackles="" blocks="0" total_crosses="5" acc_crosses="1" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="12" duelsWon="7" dribbleAttempts="4" dribbleSucc="3" dribbledPast="" yellowcards="1" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="24" passes_acc="75%" keyPasses="4" minutes_played="77'" rating="8.1" id="420221" />
+					<player num="20" name="Diogo Dalot" pos="D" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="1" tackles="1" blocks="0" total_crosses="1" acc_crosses="0" interceptions="0" clearances="1" dispossesed="" saves="" savesInsideBox="" duelsTotal="2" duelsWon="1" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="5" passes_acc="71%" keyPasses="0" minutes_played="18'" rating="6.6" id="400243" />
+					<player num="14" name="Jesse Lingard" pos="M" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="0" fouls_commited="0" tackles="" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="0" duelsWon="0" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="3" passes_acc="100%" keyPasses="0" minutes_played="4'" rating="6.5" id="220119" />
+					<player num="11" name="Anthony Martial" pos="F" isCaptain="False" isSubst="False" shots_total="0" shots_on_goal="0" goals="" goals_conceded="" assists="" offsides="" fouls_drawn="1" fouls_commited="0" tackles="1" blocks="0" total_crosses="0" acc_crosses="0" interceptions="0" clearances="0" dispossesed="" saves="" savesInsideBox="" duelsTotal="4" duelsWon="3" dribbleAttempts="0" dribbleSucc="0" dribbledPast="" yellowcards="0" redcards="0" pen_score="0" pen_miss="0" pen_save="" pen_committed="" pen_won="" hit_woodwork="" passes="3" passes_acc="60%" keyPasses="0" minutes_played="13'" rating="6.6" id="215647" />
+				</visitorteam>
+			</player_stats>
+		</match>
+	</tournament>
+</commentaries>

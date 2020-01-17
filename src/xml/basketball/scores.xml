@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scores sport="basketball">
+  <category name="Argentina: Liga A" id="1170" file_group="argentina">
+    <match date="27.11.2019" time="00:00" status="Finished" id="666284">
+      <localteam name="Platense" q1="18" q2="19" q3="21" q4="22" ot="" totalscore="80" id="13510" />
+      <awayteam name="Penarol" q1="10" q2="30" q3="20" q4="14" ot="" totalscore="74" id="1669" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666285">
+      <localteam name="Hispano Americano" q1="22" q2="20" q3="27" q4="18" ot="" totalscore="87" id="12043" />
+      <awayteam name="Libertad" q1="17" q2="15" q3="10" q4="25" ot="" totalscore="67" id="1650" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666286">
+      <localteam name="Obras Sanitarias" q1="12" q2="21" q3="24" q4="22" ot="" totalscore="79" id="2026" />
+      <awayteam name="Olimpico" q1="22" q2="14" q3="28" q4="21" ot="" totalscore="85" id="1657" />
+    </match>
+  </category>
+  <category name="Asia: Abl" id="1307" file_group="asia">
+    <match date="27.11.2019" time="12:00" status="Finished" id="665862">
+      <localteam name="Eastern Long Lions" q1="20" q2="26" q3="17" q4="16" ot="" totalscore="79" id="12504" />
+      <awayteam name="Macau Black Bears" q1="28" q2="18" q3="21" q4="26" ot="" totalscore="93" id="14452" />
+    </match>
+    <match date="27.11.2019" time="12:00" status="After Over Time" id="665864">
+      <localteam name="Wolf Warriors" q1="20" q2="25" q3="29" q4="22" ot="14" totalscore="110" id="14451" />
+      <awayteam name="Alab Pilipinas" q1="30" q2="23" q3="12" q4="31" ot="18" totalscore="114" id="12505" />
+    </match>
+  </category>
+  <category name="Brazil: Nbb" id="1171" file_group="brazil">
+    <match date="26.11.2019" time="23:00" status="Finished" id="656842">
+      <localteam name="Corinthians Paulista" q1="18" q2="26" q3="28" q4="19" ot="" totalscore="91" id="13911" />
+      <awayteam name="Unifacisa" q1="18" q2="24" q3="20" q4="13" ot="" totalscore="75" id="14991" />
+    </match>
+    <match date="26.11.2019" time="23:00" status="Finished" id="656843">
+      <localteam name="Rio Claro" q1="18" q2="14" q3="16" q4="26" ot="" totalscore="74" id="10065" />
+      <awayteam name="Bauru" q1="29" q2="26" q3="17" q4="20" ot="" totalscore="92" id="8178" />
+    </match>
+    <match date="27.11.2019" time="23:00" status="Finished" id="656844">
+      <localteam name="Pinheiros" q1="21" q2="21" q3="19" q4="22" ot="" totalscore="83" id="1811" />
+      <awayteam name="Cearense" q1="14" q2="19" q3="19" q4="18" ot="" totalscore="70" id="7844" />
+    </match>
+  </category>
+  <category name="Chile: Lnb" id="2633" file_group="chile">
+    <match date="27.11.2019" time="23:00" status="Finished" id="661793">
+      <localteam name="CD Puerto Varas" q1="21" q2="20" q3="16" q4="24" ot="" totalscore="81" id="11074" />
+      <awayteam name="Deportes Castro" q1="13" q2="23" q3="16" q4="17" ot="" totalscore="69" id="8058" />
+    </match>
+  </category>
+  <category name="China: Cba" id="1571" file_group="china">
+    <match date="27.11.2019" time="11:35" status="After Over Time" id="653228">
+      <localteam name="Fujian" q1="23" q2="35" q3="27" q4="31" ot="10" totalscore="126" id="7547" />
+      <awayteam name="Jiangsu Dragons" q1="27" q2="29" q3="37" q4="23" ot="11" totalscore="127" id="10648" />
+    </match>
+    <match date="27.11.2019" time="11:35" status="Finished" id="653229">
+      <localteam name="Shanxi Zhongyu" q1="19" q2="27" q3="26" q4="38" ot="" totalscore="110" id="12062" />
+      <awayteam name="Liaoning" q1="20" q2="26" q3="24" q4="36" ot="" totalscore="106" id="7543" />
+    </match>
+    <match date="27.11.2019" time="11:35" status="Finished" id="653230">
+      <localteam name="Sichuan" q1="15" q2="30" q3="20" q4="33" ot="" totalscore="98" id="9393" />
+      <awayteam name="Jilin" q1="36" q2="22" q3="32" q4="27" ot="" totalscore="117" id="7538" />
+    </match>
+  </category>
+  <category name="Croatia: Premijer Liga" id="3983" file_group="croatia">
+    <match date="27.11.2019" time="17:00" status="Finished" id="640142">
+      <localteam name="Cibona" q1="25" q2="23" q3="12" q4="22" ot="" totalscore="82" id="1078" />
+      <awayteam name="Zabok" q1="16" q2="19" q3="27" q4="25" ot="" totalscore="87" id="1655" />
+    </match>
+  </category>
+  <category name="Croatia: Croatian Cup" id="2310" file_group="croatia">
+    <match date="27.11.2019" time="16:00" status="Finished" id="670483">
+      <localteam name="Bosco" q1="19" q2="25" q3="24" q4="18" ot="" totalscore="86" id="13438" />
+      <awayteam name="Cedevita Junior" q1="15" q2="18" q3="27" q4="28" ot="" totalscore="88" id="15287" />
+    </match>
+    <match date="27.11.2019" time="16:00" status="Finished" id="670485">
+      <localteam name="Kvarner" q1="21" q2="19" q3="22" q4="17" ot="" totalscore="79" id="1660" />
+      <awayteam name="Jazine" q1="20" q2="28" q3="24" q4="28" ot="" totalscore="100" id="11656" />
+    </match>
+    <match date="27.11.2019" time="16:00" status="Finished" id="670487">
+      <localteam name="Rudes" q1="8" q2="27" q3="18" q4="24" ot="" totalscore="77" id="13439" />
+      <awayteam name="Omis" q1="22" q2="20" q3="30" q4="29" ot="" totalscore="101" id="15288" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="670489">
+      <localteam name="Kastela" q1="17" q2="19" q3="24" q4="28" ot="" totalscore="88" id="8031" />
+      <awayteam name="Sesvete" q1="10" q2="13" q3="19" q4="16" ot="" totalscore="58" id="13442" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="670491">
+      <localteam name="Pula" q1="27" q2="23" q3="31" q4="20" ot="" totalscore="101" id="13441" />
+      <awayteam name="KK Zaprude" q1="17" q2="16" q3="22" q4="15" ot="" totalscore="70" id="14563" />
+    </match>
+    <match date="27.11.2019" time="18:00" status="Finished" id="670493">
+      <localteam name="Zupanja" q1="14" q2="17" q3="18" q4="17" ot="" totalscore="66" id="14573" />
+      <awayteam name="KK Samobor" q1="22" q2="20" q3="16" q4="13" ot="" totalscore="71" id="15289" />
+    </match>
+    <match date="27.11.2019" time="20:00" status="Finished" id="670495">
+      <localteam name="Diadora Zadar" q1="22" q2="20" q3="33" q4="18" ot="" totalscore="93" id="14561" />
+      <awayteam name="AKK Universitas" q1="18" q2="17" q3="20" q4="22" ot="" totalscore="77" id="13433" />
+    </match>
+  </category>
+  <category name="Czech Republic: Nbl" id="1011" file_group="czech_republic">
+    <match date="27.11.2019" time="18:00" status="Finished" id="641352">
+      <localteam name="Hradec Kralove" q1="18" q2="20" q3="27" q4="15" ot="" totalscore="80" id="7221" />
+      <awayteam name="Nymburk" q1="31" q2="28" q3="26" q4="32" ot="" totalscore="117" id="1255" />
+    </match>
+  </category>
+  <category name="Denmark: Dameligaen Women - First Stage" id="2533" file_group="denmark">
+    <match date="27.11.2019" time="17:30" status="After Over Time" id="640935">
+      <localteam name="Horsholm W" q1="14" q2="22" q3="18" q4="12" ot="10" totalscore="76" id="6465" />
+      <awayteam name="Vaerlose W" q1="10" q2="20" q3="18" q4="18" ot="9" totalscore="75" id="6463" />
+    </match>
+  </category>
+  <category name="Europe: Latvia-Estonian League" id="4008" file_group="europe">
+    <match date="27.11.2019" time="17:00" status="Finished" id="657585">
+      <localteam name="Valga" q1="11" q2="26" q3="10" q4="18" ot="" totalscore="65" id="2072" />
+      <awayteam name="Jurmala" q1="26" q2="27" q3="17" q4="17" ot="" totalscore="87" id="7153" />
+    </match>
+    <match date="27.11.2019" time="17:30" status="Finished" id="657586">
+      <localteam name="BK Liepaja" q1="26" q2="14" q3="20" q4="16" ot="" totalscore="76" id="14091" />
+      <awayteam name="VEF Riga" q1="25" q2="15" q3="19" q4="22" ot="" totalscore="81" id="1316" />
+    </match>
+  </category>
+  <category name="Europe: Fiba Europe Cup - First Stage" id="3246" file_group="europe">
+    <match date="27.11.2019" time="14:00" status="Finished" id="664802">
+      <localteam name="Bahcesehir Kol." q1="24" q2="24" q3="12" q4="20" ot="" totalscore="80" id="13898" />
+      <awayteam name="CSU Sibiu" q1="24" q2="15" q3="14" q4="18" ot="" totalscore="71" id="12512" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="664809">
+      <localteam name="BC Dnipro" q1="12" q2="19" q3="14" q4="16" ot="" totalscore="61" id="2116" />
+      <awayteam name="Lukoil Levski" q1="24" q2="27" q3="9" q4="23" ot="" totalscore="83" id="13834" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="After Over Time" id="664806">
+      <localteam name="Tsmoki Minsk" q1="14" q2="21" q3="18" q4="24" ot="7" totalscore="84" id="8859" />
+      <awayteam name="Kyiv Basket" q1="11" q2="17" q3="23" q4="26" ot="15" totalscore="92" id="14019" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="664807">
+      <localteam name="Apoel BC" q1="16" q2="19" q3="18" q4="15" ot="" totalscore="68" id="2055" />
+      <awayteam name="Bayreuth" q1="22" q2="17" q3="28" q4="16" ot="" totalscore="83" id="1483" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="664813">
+      <localteam name="Bakken Bears" q1="28" q2="21" q3="15" q4="13" ot="" totalscore="77" id="1680" />
+      <awayteam name="Legia" q1="16" q2="12" q3="27" q4="19" ot="" totalscore="74" id="9922" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="664808">
+      <localteam name="Balkan" q1="17" q2="26" q3="25" q4="22" ot="" totalscore="90" id="1017" />
+      <awayteam name="Sodertalje" q1="22" q2="25" q3="14" q4="28" ot="" totalscore="89" id="1770" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="664803">
+      <localteam name="Cluj Napoca" q1="21" q2="29" q3="30" q4="17" ot="" totalscore="97" id="9938" />
+      <awayteam name="Enisey" q1="20" q2="25" q3="24" q4="14" ot="" totalscore="83" id="1188" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="664810">
+      <localteam name="CSM Oradea" q1="28" q2="12" q3="12" q4="15" ot="" totalscore="67" id="6929" />
+      <awayteam name="Fribourg Olympic" q1="18" q2="19" q3="22" q4="28" ot="" totalscore="87" id="6943" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="664811">
+      <localteam name="Inter Bratislava" q1="24" q2="22" q3="26" q4="19" ot="" totalscore="91" id="1738" />
+      <awayteam name="Benfica" q1="20" q2="24" q3="25" q4="26" ot="" totalscore="95" id="10544" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="664804">
+      <localteam name="Kataja" q1="25" q2="24" q3="21" q4="25" ot="" totalscore="95" id="11646" />
+      <awayteam name="Kormend" q1="26" q2="14" q3="34" q4="17" ot="" totalscore="91" id="7019" />
+    </match>
+    <match date="27.11.2019" time="17:30" status="Finished" id="664816">
+      <localteam name="Donar Groningen" q1="23" q2="14" q3="19" q4="8" ot="" totalscore="64" id="11962" />
+      <awayteam name="Spirou Charleroi" q1="18" q2="11" q3="20" q4="29" ot="" totalscore="78" id="1368" />
+    </match>
+    <match date="27.11.2019" time="17:30" status="Finished" id="664805">
+      <localteam name="Pinar Karsiyaka" q1="26" q2="23" q3="23" q4="21" ot="" totalscore="93" id="1122" />
+      <awayteam name="Basic-Fit Brussels" q1="19" q2="18" q3="23" q4="30" ot="" totalscore="90" id="14056" />
+    </match>
+    <match date="27.11.2019" time="18:00" status="Finished" id="664814">
+      <localteam name="Kapfenberg Bulls" q1="26" q2="24" q3="23" q4="13" ot="" totalscore="86" id="2029" />
+      <awayteam name="Keravnos" q1="25" q2="13" q3="22" q4="16" ot="" totalscore="76" id="1414" />
+    </match>
+    <match date="27.11.2019" time="18:00" status="Finished" id="664815">
+      <localteam name="Z-Mobile Prishtina" q1="16" q2="16" q3="20" q4="20" ot="" totalscore="72" id="14534" />
+      <awayteam name="Ventspils" q1="29" q2="31" q3="31" q4="31" ot="" totalscore="122" id="1431" />
+    </match>
+    <match date="27.11.2019" time="18:30" status="Finished" id="664817">
+      <localteam name="Zwolle" q1="24" q2="22" q3="22" q4="20" ot="" totalscore="88" id="1720" />
+      <awayteam name="Nes Ziona" q1="26" q2="22" q3="23" q4="23" ot="" totalscore="94" id="9361" />
+    </match>
+    <match date="27.11.2019" time="19:00" status="After Over Time" id="664812">
+      <localteam name="Leiden" q1="23" q2="20" q3="21" q4="22" ot="19" totalscore="105" id="1440" />
+      <awayteam name="Pecsi VSK" q1="22" q2="26" q3="16" q4="22" ot="14" totalscore="100" id="7022" />
+    </match>
+  </category>
+  <category name="Europe: Aba League 2" id="3608" file_group="europe">
+    <match date="27.11.2019" time="17:00" status="Finished" id="644358">
+      <localteam name="Lovcen Cetinje" q1="34" q2="26" q3="24" q4="13" ot="" totalscore="97" id="8046" />
+      <awayteam name="Sloboda" q1="17" q2="21" q3="13" q4="23" ot="" totalscore="74" id="1617" />
+    </match>
+  </category>
+  <category name="Europe: Alpe Adria Cup" id="2764" file_group="europe">
+    <match date="27.11.2019" time="19:00" status="Awarded" id="657507">
+      <localteam name="Brno" q1="" q2="" q3="" q4="" ot="" totalscore="20" id="1460" />
+      <awayteam name="Polzela" q1="" q2="" q3="" q4="" ot="" totalscore="0" id="2105" />
+    </match>
+  </category>
+  <category name="Europe: Euroleague Women" id="1527" file_group="europe">
+    <match date="27.11.2019" time="16:30" status="Finished" id="662111">
+      <localteam name="Fenerbahce W" q1="16" q2="20" q3="14" q4="8" ot="" totalscore="58" id="7104" />
+      <awayteam name="Schio W" q1="9" q2="11" q3="7" q4="16" ot="" totalscore="43" id="7063" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="662114">
+      <localteam name="TTT Riga W" q1="23" q2="20" q3="23" q4="23" ot="" totalscore="89" id="7948" />
+      <awayteam name="Ekaterinburg W" q1="26" q2="16" q3="28" q4="11" ot="" totalscore="81" id="7011" />
+    </match>
+    <match date="27.11.2019" time="18:00" status="Finished" id="662115">
+      <localteam name="USK Prague W" q1="23" q2="26" q3="14" q4="24" ot="" totalscore="87" id="6890" />
+      <awayteam name="Nadezhda W" q1="11" q2="21" q3="20" q4="11" ot="" totalscore="63" id="7008" />
+    </match>
+    <match date="27.11.2019" time="18:30" status="Finished" id="662113">
+      <localteam name="Venezia W" q1="22" q2="20" q3="12" q4="4" ot="" totalscore="58" id="7661" />
+      <awayteam name="Braine W" q1="20" q2="19" q3="13" q4="23" ot="" totalscore="75" id="13536" />
+    </match>
+    <match date="27.11.2019" time="19:00" status="Finished" id="662116">
+      <localteam name="Bourges W" q1="23" q2="27" q3="25" q4="17" ot="" totalscore="92" id="7041" />
+      <awayteam name="Cukurova W" q1="13" q2="26" q3="11" q4="12" ot="" totalscore="62" id="14584" />
+    </match>
+    <match date="27.11.2019" time="19:00" status="Finished" id="662112">
+      <localteam name="Lattes Montpellier W" q1="18" q2="18" q3="20" q4="24" ot="" totalscore="80" id="7042" />
+      <awayteam name="Lyon W" q1="16" q2="11" q3="26" q4="20" ot="" totalscore="73" id="7120" />
+    </match>
+    <match date="27.11.2019" time="19:15" status="Finished" id="662117">
+      <localteam name="Uni Girona W" q1="15" q2="29" q3="14" q4="21" ot="" totalscore="79" id="7069" />
+      <awayteam name="Dynamo Kursk W" q1="12" q2="24" q3="12" q4="13" ot="" totalscore="61" id="7029" />
+    </match>
+  </category>
+  <category name="Europe: Eurocup Women" id="2237" file_group="europe">
+    <match date="27.11.2019" time="12:30" status="Finished" id="662704">
+      <localteam name="Enisey Krasnoyarsk W" q1="20" q2="14" q3="15" q4="19" ot="" totalscore="68" id="9221" />
+      <awayteam name="Tsmoki Minsk W" q1="12" q2="21" q3="13" q4="24" ot="" totalscore="70" id="8868" />
+    </match>
+    <match date="27.11.2019" time="15:00" status="Finished" id="662705">
+      <localteam name="Spartak Moscow W" q1="25" q2="43" q3="22" q4="25" ot="" totalscore="115" id="6995" />
+      <awayteam name="Prishtina W" q1="12" q2="12" q3="8" q4="10" ot="" totalscore="42" id="15129" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="662706">
+      <localteam name="Galatasaray W" q1="23" q2="14" q3="15" q4="18" ot="" totalscore="70" id="7061" />
+      <awayteam name="Sepsi S. W" q1="30" q2="13" q3="18" q4="17" ot="" totalscore="78" id="8864" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="662708">
+      <localteam name="Atomeromu Szekszard W" q1="19" q2="22" q3="31" q4="13" ot="" totalscore="85" id="6922" />
+      <awayteam name="Herner W" q1="16" q2="7" q3="22" q4="16" ot="" totalscore="61" id="8413" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="662709">
+      <localteam name="UNI Gyor W" q1="21" q2="18" q3="10" q4="11" ot="" totalscore="60" id="10519" />
+      <awayteam name="Gernika Bizkaia W" q1="25" q2="25" q3="8" q4="16" ot="" totalscore="74" id="9818" />
+    </match>
+    <match date="27.11.2019" time="17:30" status="Finished" id="662710">
+      <localteam name="Miskolc W" q1="16" q2="22" q3="16" q4="19" ot="" totalscore="73" id="9706" />
+      <awayteam name="Cadi La Seu W" q1="12" q2="19" q3="18" q4="20" ot="" totalscore="69" id="11869" />
+    </match>
+    <match date="27.11.2019" time="17:30" status="Finished" id="662707">
+      <localteam name="Olympiacos W" q1="20" q2="19" q3="10" q4="26" ot="" totalscore="75" id="13957" />
+      <awayteam name="Valencia W" q1="14" q2="22" q3="26" q4="16" ot="" totalscore="78" id="14229" />
+    </match>
+    <match date="27.11.2019" time="18:00" status="Finished" id="662711">
+      <localteam name="Polkowice W" q1="11" q2="20" q3="21" q4="23" ot="" totalscore="75" id="7049" />
+      <awayteam name="Ormanspor W" q1="21" q2="13" q3="8" q4="13" ot="" totalscore="55" id="9848" />
+    </match>
+    <match date="27.11.2019" time="19:00" status="Finished" id="662712">
+      <localteam name="Flammes Carolo W" q1="19" q2="13" q3="26" q4="23" ot="" totalscore="81" id="11637" />
+      <awayteam name="La Roche W" q1="29" q2="18" q3="19" q4="18" ot="" totalscore="84" id="13070" />
+    </match>
+    <match date="27.11.2019" time="19:00" status="Finished" id="662713">
+      <localteam name="Landes W" q1="22" q2="20" q3="23" q4="18" ot="" totalscore="83" id="7123" />
+      <awayteam name="PEAC-Pecs W" q1="4" q2="10" q3="8" q4="26" ot="" totalscore="48" id="8563" />
+    </match>
+  </category>
+  <category name="Europe: Cewl Women" id="2634" file_group="europe">
+    <match date="27.11.2019" time="16:30" status="Finished" id="662450">
+      <localteam name="Ostrava W" q1="19" q2="16" q3="16" q4="12" ot="" totalscore="63" id="8564" />
+      <awayteam name="Marburg W" q1="25" q2="19" q3="25" q4="21" ot="" totalscore="90" id="8418" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="662454">
+      <localteam name="Zabiny Brno W" q1="19" q2="20" q3="24" q4="20" ot="" totalscore="83" id="10935" />
+      <awayteam name="Charleroi W" q1="11" q2="12" q3="5" q4="11" ot="" totalscore="39" id="13535" />
+    </match>
+    <match date="27.11.2019" time="18:00" status="Finished" id="662452">
+      <localteam name="Slovanka W" q1="21" q2="10" q3="13" q4="12" ot="" totalscore="56" id="6891" />
+      <awayteam name="Chomutov W" q1="18" q2="18" q3="25" q4="10" ot="" totalscore="71" id="13426" />
+    </match>
+  </category>
+  <category name="Europe: Waba League Women" id="3234" file_group="europe">
+    <match date="27.11.2019" time="16:00" status="Finished" id="650289">
+      <localteam name="Orlovi W" q1="23" q2="26" q3="17" q4="20" ot="" totalscore="86" id="14799" />
+      <awayteam name="Banovici W" q1="35" q2="19" q3="14" q4="23" ot="" totalscore="91" id="14157" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="650288">
+      <localteam name="Montana 2003 W" q1="18" q2="21" q3="13" q4="13" ot="" totalscore="65" id="12134" />
+      <awayteam name="Beroe W" q1="13" q2="16" q3="10" q4="17" ot="" totalscore="56" id="12132" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="650287">
+      <localteam name="Cinkarna Celje W" q1="22" q2="26" q3="22" q4="19" ot="" totalscore="89" id="13691" />
+      <awayteam name="Partizan W" q1="8" q2="13" q3="20" q4="7" ot="" totalscore="48" id="14798" />
+    </match>
+  </category>
+  <category name="Europe: Wbbl Women" id="3253" file_group="europe">
+    <match date="27.11.2019" time="17:00" status="Finished" id="660657">
+      <localteam name="Jelgava W" q1="8" q2="9" q3="9" q4="20" ot="" totalscore="46" id="14174" />
+      <awayteam name="Jurmala W" q1="20" q2="18" q3="12" q4="14" ot="" totalscore="64" id="15093" />
+    </match>
+  </category>
+  <category name="Finland: Korisliiga" id="1155" file_group="finland">
+    <match date="27.11.2019" time="16:30" status="Finished" id="650100">
+      <localteam name="UU-Korihait Uusikaupunki" q1="20" q2="18" q3="26" q4="24" ot="" totalscore="88" id="2077" />
+      <awayteam name="Kouvot Kouvola" q1="15" q2="22" q3="21" q4="17" ot="" totalscore="75" id="2076" />
+    </match>
+  </category>
+  <category name="Finland: Korisliiga Women" id="3305" file_group="finland">
+    <match date="27.11.2019" time="16:30" status="Finished" id="658327">
+      <localteam name="Espoo Team W" q1="15" q2="27" q3="22" q4="20" ot="" totalscore="84" id="12526" />
+      <awayteam name="Torpan Pojat Helsinki W" q1="20" q2="14" q3="18" q4="26" ot="" totalscore="78" id="14048" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="658328">
+      <localteam name="HyPo W" q1="19" q2="21" q3="12" q4="19" ot="" totalscore="71" id="12534" />
+      <awayteam name="PeKa W" q1="13" q2="20" q3="34" q4="26" ot="" totalscore="93" id="12532" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="658329">
+      <localteam name="Kouvottaret W" q1="25" q2="22" q3="26" q4="21" ot="" totalscore="94" id="12525" />
+      <awayteam name="HBA W" q1="23" q2="11" q3="19" q4="15" ot="" totalscore="68" id="12533" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="658330">
+      <localteam name="Lappeenranta W" q1="17" q2="15" q3="16" q4="22" ot="" totalscore="70" id="12527" />
+      <awayteam name="Tapiolan Honka W" q1="9" q2="21" q3="26" q4="8" ot="" totalscore="64" id="13075" />
+    </match>
+    <match date="27.11.2019" time="16:30" status="Finished" id="658331">
+      <localteam name="Vimpelin Veto W" q1="17" q2="20" q3="6" q4="24" ot="" totalscore="67" id="12524" />
+      <awayteam name="Forssan Alku W" q1="28" q2="11" q3="19" q4="20" ot="" totalscore="78" id="12522" />
+    </match>
+  </category>
+  <category name="France: Lnb" id="1001" file_group="france">
+    <match date="27.11.2019" time="19:00" status="Finished" id="642633">
+      <localteam name="Nanterre" q1="25" q2="23" q3="28" q4="25" ot="" totalscore="101" id="1702" />
+      <awayteam name="Elan Bearnais" q1="15" q2="24" q3="23" q4="27" ot="" totalscore="89" id="13548" />
+    </match>
+  </category>
+  <category name="Germany: Pro B" id="3942" file_group="germany">
+    <match date="27.11.2019" time="19:00" status="Finished" id="650746">
+      <localteam name="Hanau" q1="27" q2="19" q3="16" q4="24" ot="" totalscore="86" id="10846" />
+      <awayteam name="TG Wurzburg" q1="31" q2="28" q3="31" q4="34" ot="" totalscore="124" id="13786" />
+    </match>
+  </category>
+  <category name="Hungary: Nb I. A" id="1524" file_group="hungary">
+    <match date="27.11.2019" time="17:00" status="Finished" id="645839">
+      <localteam name="Szombathely" q1="25" q2="19" q3="19" q4="17" ot="" totalscore="80" id="7021" />
+      <awayteam name="Soproni KC" q1="19" q2="16" q3="14" q4="19" ot="" totalscore="68" id="7024" />
+    </match>
+  </category>
+  <category name="Hungary: Nb I. A Women" id="4006" file_group="hungary">
+    <match date="27.11.2019" time="16:00" status="Finished" id="658465">
+      <localteam name="ZTE NKK W" q1="12" q2="20" q3="23" q4="24" ot="" totalscore="79" id="6923" />
+      <awayteam name="TFSE-MTK W" q1="12" q2="24" q3="22" q4="14" ot="" totalscore="72" id="15061" />
+    </match>
+  </category>
+  <category name="Iceland: Premier League Women" id="3301" file_group="iceland">
+    <match date="27.11.2019" time="19:15" status="Finished" id="658581">
+      <localteam name="Grindavik W" q1="15" q2="26" q3="7" q4="15" ot="" totalscore="63" id="12496" />
+      <awayteam name="Skallagrimur W" q1="22" q2="14" q3="20" q4="17" ot="" totalscore="73" id="12497" />
+    </match>
+    <match date="27.11.2019" time="19:15" status="After Over Time" id="658582">
+      <localteam name="Keflavik W" q1="11" q2="17" q3="21" q4="12" ot="17" totalscore="78" id="12495" />
+      <awayteam name="Haukar W" q1="23" q2="13" q3="11" q4="14" ot="9" totalscore="70" id="12500" />
+    </match>
+    <match date="27.11.2019" time="19:15" status="Finished" id="658583">
+      <localteam name="KR Reykjavik W" q1="28" q2="26" q3="22" q4="14" ot="" totalscore="90" id="14153" />
+      <awayteam name="Breidablik W" q1="15" q2="9" q3="23" q4="13" ot="" totalscore="60" id="13190" />
+    </match>
+    <match date="27.11.2019" time="19:15" status="Finished" id="658584">
+      <localteam name="Snaefell W" q1="13" q2="21" q3="17" q4="19" ot="" totalscore="70" id="12494" />
+      <awayteam name="Valur W" q1="22" q2="33" q3="24" q4="14" ot="" totalscore="93" id="12499" />
+    </match>
+  </category>
+  <category name="Israel: Super League" id="1034" file_group="israel">
+    <match date="27.11.2019" time="17:30" status="Finished" id="651266">
+      <localteam name="Ironi Nahariya" q1="14" q2="13" q3="32" q4="23" ot="" totalscore="82" id="1130" />
+      <awayteam name="Maccabi Haifa" q1="20" q2="24" q3="22" q4="21" ot="" totalscore="87" id="1061" />
+    </match>
+  </category>
+  <category name="Lithuania: Lkf Cup" id="4074" file_group="lithuania">
+    <match date="27.11.2019" time="17:00" status="Finished" id="668049">
+      <localteam name="Alytaus Dzukija" q1="23" q2="28" q3="21" q4="17" ot="" totalscore="89" id="9028" />
+      <awayteam name="Neptunas" q1="29" q2="28" q3="21" q4="14" ot="" totalscore="92" id="7977" />
+    </match>
+  </category>
+  <category name="Lithuania: Nkl" id="3249" file_group="lithuania">
+    <match date="27.11.2019" time="16:00" status="Finished" id="660881">
+      <localteam name="Jonavos Sintek" q1="21" q2="16" q3="25" q4="22" ot="" totalscore="84" id="14194" />
+      <awayteam name="Taurages Krepsinio" q1="17" q2="19" q3="22" q4="18" ot="" totalscore="76" id="14192" />
+    </match>
+  </category>
+  <category name="Mexico: Lnbp" id="1542" file_group="mexico">
+    <match date="27.11.2019" time="02:15" status="Finished" id="663162">
+      <localteam name="Huracanes" q1="14" q2="25" q3="19" q4="26" ot="" totalscore="84" id="7137" />
+      <awayteam name="Fuerza Regia" q1="29" q2="19" q3="27" q4="23" ot="" totalscore="98" id="7143" />
+    </match>
+    <match date="27.11.2019" time="02:30" status="Finished" id="663163">
+      <localteam name="Plateros" q1="24" q2="20" q3="19" q4="31" ot="" totalscore="94" id="14850" />
+      <awayteam name="Lenadores" q1="18" q2="20" q3="24" q4="22" ot="" totalscore="84" id="14018" />
+    </match>
+  </category>
+  <category name="Philippines: Governors Cup - Play Offs" id="1435" file_group="philippines">
+    <match date="27.11.2019" time="11:00" status="After Over Time" id="669956">
+      <localteam name="NLEX Road Warriors" q1="27" q2="29" q3="18" q4="25" ot="24" totalscore="123" id="10225" />
+      <awayteam name="NorthPort" q1="24" q2="19" q3="27" q4="29" ot="27" totalscore="126" id="14772" />
+    </match>
+  </category>
+  <category name="Portugal: Lfb Women" id="4222" file_group="portugal">
+    <match date="27.11.2019" time="21:30" status="Finished" id="665151">
+      <localteam name="Benfica W" q1="23" q2="17" q3="22" q4="18" ot="" totalscore="80" id="15177" />
+      <awayteam name="AD Vagos W" q1="20" q2="27" q3="9" q4="16" ot="" totalscore="72" id="15178" />
+    </match>
+    <match date="27.11.2019" time="21:30" status="Finished" id="665168">
+      <localteam name="Vitoria W" q1="15" q2="17" q3="24" q4="19" ot="" totalscore="75" id="15173" />
+      <awayteam name="Ovarense W" q1="13" q2="17" q3="17" q4="18" ot="" totalscore="65" id="15176" />
+    </match>
+  </category>
+  <category name="Russia: Super League" id="2489" file_group="russia">
+    <match date="27.11.2019" time="08:15" status="Finished" id="655355">
+      <localteam name="Vostok 65" q1="23" q2="16" q3="16" q4="28" ot="" totalscore="83" id="14063" />
+      <awayteam name="BC Samara" q1="23" q2="16" q3="26" q4="22" ot="" totalscore="87" id="3295" />
+    </match>
+    <match date="27.11.2019" time="09:10" status="Finished" id="655354">
+      <localteam name="Spartak Primorie" q1="14" q2="26" q3="21" q4="25" ot="" totalscore="86" id="12574" />
+      <awayteam name="Ufimets Ufa" q1="23" q2="19" q3="13" q4="20" ot="" totalscore="75" id="12223" />
+    </match>
+    <match date="27.11.2019" time="16:00" status="Finished" id="655351">
+      <localteam name="Burevestnik Jaroslav" q1="15" q2="19" q3="21" q4="23" ot="" totalscore="78" id="12241" />
+      <awayteam name="University-Ugra" q1="27" q2="18" q3="16" q4="28" ot="" totalscore="89" id="7567" />
+    </match>
+    <match date="27.11.2019" time="16:00" status="Finished" id="655353">
+      <localteam name="Runa Moscow" q1="17" q2="19" q3="15" q4="20" ot="" totalscore="71" id="14618" />
+      <awayteam name="Temp Sumz Revda" q1="23" q2="23" q3="14" q4="21" ot="" totalscore="81" id="9308" />
+    </match>
+    <match date="27.11.2019" time="17:30" status="Finished" id="655356">
+      <localteam name="St. Petersburg" q1="15" q2="23" q3="27" q4="23" ot="" totalscore="88" id="7296" />
+      <awayteam name="Novosibirsk" q1="14" q2="25" q3="8" q4="20" ot="" totalscore="67" id="7267" />
+    </match>
+  </category>
+  <category name="Slovakia: Extraliga" id="1160" file_group="slovakia">
+    <match date="27.11.2019" time="17:00" status="Finished" id="652331">
+      <localteam name="MBK Handlova" q1="30" q2="25" q3="23" q4="22" ot="" totalscore="100" id="2099" />
+      <awayteam name="BKM Lucenec" q1="14" q2="19" q3="23" q4="20" ot="" totalscore="76" id="14267" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="652332">
+      <localteam name="Spisska Nova Ves" q1="18" q2="25" q3="26" q4="27" ot="" totalscore="96" id="2095" />
+      <awayteam name="BK Svit" q1="19" q2="26" q3="27" q4="15" ot="" totalscore="87" id="2094" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="652333">
+      <localteam name="Zilina" q1="15" q2="16" q3="25" q4="19" ot="" totalscore="75" id="13277" />
+      <awayteam name="Levice" q1="31" q2="20" q3="23" q4="14" ot="" totalscore="88" id="1740" />
+    </match>
+  </category>
+  <category name="Slovenia: Liga Nova Kbm" id="2818" file_group="slovenia">
+    <match date="27.11.2019" time="18:00" status="Finished" id="653023">
+      <localteam name="Podcetrtek" q1="17" q2="16" q3="14" q4="17" ot="" totalscore="64" id="10746" />
+      <awayteam name="Primorska" q1="27" q2="28" q3="23" q4="20" ot="" totalscore="98" id="14816" />
+    </match>
+  </category>
+  <category name="Slovenia: 1. Skl Women" id="3258" file_group="slovenia">
+    <match date="27.11.2019" time="20:00" status="Finished" id="650979">
+      <localteam name="Grosuplje W" q1="14" q2="19" q3="15" q4="17" ot="" totalscore="65" id="10515" />
+      <awayteam name="Triglav W" q1="12" q2="19" q3="22" q4="22" ot="" totalscore="75" id="10513" />
+    </match>
+  </category>
+  <category name="South America: South American Championship U17" id="3510" file_group="south_america">
+    <match date="27.11.2019" time="16:00" status="Finished" id="670336">
+      <localteam name="Colombia U17" q1="14" q2="5" q3="16" q4="14" ot="" totalscore="49" id="12798" />
+      <awayteam name="Uruguay U17" q1="26" q2="20" q3="24" q4="17" ot="" totalscore="87" id="12803" />
+    </match>
+    <match date="27.11.2019" time="18:00" status="Finished" id="670338">
+      <localteam name="Venezuela U17" q1="28" q2="19" q3="15" q4="25" ot="" totalscore="87" id="12802" />
+      <awayteam name="Argentina U17" q1="28" q2="17" q3="25" q4="20" ot="" totalscore="90" id="1160" />
+    </match>
+    <match date="27.11.2019" time="20:00" status="Finished" id="670340">
+      <localteam name="Brazil U17" q1="17" q2="11" q3="21" q4="21" ot="" totalscore="70" id="1142" />
+      <awayteam name="Chile U17" q1="17" q2="9" q3="18" q4="12" ot="" totalscore="56" id="12797" />
+    </match>
+  </category>
+  <category name="South Korea: Wkbl Women" id="1545" file_group="south_korea">
+    <match date="27.11.2019" time="10:00" status="Finished" id="654827">
+      <localteam name="S-Birds W" q1="19" q2="23" q3="15" q4="18" ot="" totalscore="75" id="7173" />
+      <awayteam name="KB Stars W" q1="17" q2="25" q3="23" q4="22" ot="" totalscore="87" id="7170" />
+    </match>
+  </category>
+  <category name="Sweden: Basketligan Women" id="3240" file_group="sweden">
+    <match date="27.11.2019" time="18:00" status="Finished" id="640234">
+      <localteam name="Hogsbo W" q1="21" q2="24" q3="17" q4="20" ot="" totalscore="82" id="12585" />
+      <awayteam name="Sodertalje W" q1="22" q2="14" q3="14" q4="12" ot="" totalscore="62" id="14426" />
+    </match>
+  </category>
+  <category name="Uruguay: Liga Uruguaya" id="4055" file_group="uruguay">
+    <match date="26.11.2019" time="23:15" status="After Over Time" id="661877">
+      <localteam name="Atenas" q1="25" q2="18" q3="21" q4="26" ot="15" totalscore="105" id="1658" />
+      <awayteam name="Nacional" q1="26" q2="15" q3="23" q4="26" ot="18" totalscore="108" id="7855" />
+    </match>
+    <match date="26.11.2019" time="23:15" status="Finished" id="661879">
+      <localteam name="Sayago" q1="12" q2="16" q3="23" q4="30" ot="" totalscore="81" id="7163" />
+      <awayteam name="Hebraica y Macabi" q1="27" q2="16" q3="19" q4="28" ot="" totalscore="90" id="7168" />
+    </match>
+    <match date="26.11.2019" time="23:15" status="Finished" id="661880">
+      <localteam name="Sportivo Capitol" q1="11" q2="9" q3="23" q4="26" ot="" totalscore="69" id="15117" />
+      <awayteam name="Defensor" q1="19" q2="13" q3="27" q4="20" ot="" totalscore="79" id="6708" />
+    </match>
+    <match date="27.11.2019" time="00:15" status="Finished" id="661878">
+      <localteam name="Malvin" q1="19" q2="22" q3="16" q4="16" ot="" totalscore="73" id="1568" />
+      <awayteam name="Olimpia" q1="20" q2="17" q3="23" q4="12" ot="" totalscore="72" id="7164" />
+    </match>
+  </category>
+  <category name="Usa: Nba" id="1046" file_group="usa">
+    <match date="27.11.2019" time="01:30" status="Finished" id="648924">
+      <localteam name="Dallas Mavericks" q1="27" q2="19" q3="31" q4="22" ot="" totalscore="99" id="1189" />
+      <awayteam name="Los Angeles Clippers" q1="34" q2="28" q3="31" q4="21" ot="" totalscore="114" id="1171" />
+    </match>
+    <match date="27.11.2019" time="02:00" status="Finished" id="648925">
+      <localteam name="Denver Nuggets" q1="25" q2="39" q3="22" q4="31" ot="" totalscore="117" id="1228" />
+      <awayteam name="Washington Wizards" q1="23" q2="24" q3="22" q4="35" ot="" totalscore="104" id="1218" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="648926">
+      <localteam name="Boston Celtics" q1="30" q2="27" q3="34" q4="30" ot="" totalscore="121" id="1067" />
+      <awayteam name="Brooklyn Nets" q1="23" q2="40" q3="23" q4="24" ot="" totalscore="110" id="8055" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="648927">
+      <localteam name="Charlotte Hornets" q1="31" q2="24" q3="31" q4="16" ot="" totalscore="102" id="1185" />
+      <awayteam name="Detroit Pistons" q1="32" q2="28" q3="20" q4="21" ot="" totalscore="101" id="1203" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="648928">
+      <localteam name="Cleveland Cavaliers" q1="27" q2="25" q3="21" q4="31" ot="" totalscore="104" id="1183" />
+      <awayteam name="Orlando Magic" q1="27" q2="32" q3="28" q4="29" ot="" totalscore="116" id="1127" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="648929">
+      <localteam name="Indiana Pacers" q1="21" q2="32" q3="36" q4="32" ot="" totalscore="121" id="1219" />
+      <awayteam name="Utah Jazz" q1="20" q2="23" q3="37" q4="22" ot="" totalscore="102" id="1180" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="648930">
+      <localteam name="Philadelphia 76ers" q1="25" q2="22" q3="29" q4="21" ot="" totalscore="97" id="1208" />
+      <awayteam name="Sacramento Kings" q1="18" q2="28" q3="19" q4="26" ot="" totalscore="91" id="1225" />
+    </match>
+    <match date="28.11.2019" time="00:30" status="Finished" id="648931">
+      <localteam name="Toronto Raptors" q1="21" q2="37" q3="31" q4="37" ot="" totalscore="126" id="1212" />
+      <awayteam name="New York Knicks" q1="29" q2="17" q3="23" q4="29" ot="" totalscore="98" id="1213" />
+    </match>
+  </category>
+  <category name="Usa: Nba G League" id="3473" file_group="usa">
+    <match date="27.11.2019" time="00:00" status="Finished" id="660394">
+      <localteam name="Westchester" q1="33" q2="22" q3="30" q4="24" ot="" totalscore="109" id="10096" />
+      <awayteam name="Fort Wayne Mad Ants" q1="23" q2="19" q3="25" q4="28" ot="" totalscore="95" id="2003" />
+    </match>
+    <match date="27.11.2019" time="00:30" status="Finished" id="660395">
+      <localteam name="Raptors 905" q1="25" q2="28" q3="34" q4="26" ot="" totalscore="113" id="11227" />
+      <awayteam name="Windy City Bulls" q1="20" q2="21" q3="25" q4="29" ot="" totalscore="95" id="12238" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="After Over Time" id="660396">
+      <localteam name="Rio Grande Valley Vipers" q1="33" q2="30" q3="25" q4="33" ot="1" totalscore="122" id="8543" />
+      <awayteam name="Salt Lake City Stars" q1="41" q2="27" q3="34" q4="19" ot="3" totalscore="124" id="12237" />
+    </match>
+    <match date="27.11.2019" time="01:30" status="Finished" id="660397">
+      <localteam name="Northern Arizona Suns" q1="17" q2="31" q3="29" q4="30" ot="" totalscore="107" id="13401" />
+      <awayteam name="Iowa Wolves" q1="24" q2="30" q3="47" q4="31" ot="" totalscore="132" id="12661" />
+    </match>
+    <match date="27.11.2019" time="03:00" status="Finished" id="660398">
+      <localteam name="Stockton Kings" q1="28" q2="24" q3="34" q4="33" ot="" totalscore="119" id="13886" />
+      <awayteam name="Canton Charge" q1="23" q2="20" q3="30" q4="38" ot="" totalscore="111" id="8533" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="660399">
+      <localteam name="Capital City Go-Go" q1="30" q2="29" q3="30" q4="29" ot="" totalscore="118" id="14361" />
+      <awayteam name="College Park Skyhawks" q1="33" q2="27" q3="20" q4="30" ot="" totalscore="110" id="15074" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="660400">
+      <localteam name="Grand Rapids Drive" q1="26" q2="38" q3="30" q4="33" ot="" totalscore="127" id="10095" />
+      <awayteam name="Erie BayHawks" q1="24" q2="28" q3="24" q4="28" ot="" totalscore="104" id="8538" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="660401">
+      <localteam name="Greensboro Swarm" q1="24" q2="33" q3="36" q4="38" ot="" totalscore="131" id="12240" />
+      <awayteam name="Maine Red Claws" q1="42" q2="41" q3="36" q4="36" ot="" totalscore="155" id="8539" />
+    </match>
+    <match date="28.11.2019" time="00:30" status="Finished" id="660402">
+      <localteam name="Sioux Falls Skyforce" q1="22" q2="33" q3="34" q4="15" ot="" totalscore="104" id="8541" />
+      <awayteam name="Texas Legends" q1="33" q2="31" q3="18" q4="24" ot="" totalscore="106" id="8546" />
+    </match>
+  </category>
+  <category name="Usa: Ncaa" id="2691" file_group="usa">
+    <match date="26.11.2019" time="23:00" status="Finished" id="666632">
+      <localteam name="Ball State" q1="0" q2="23" q3="0" q4="39" ot="" totalscore="62" id="2171" />
+      <awayteam name="Western Illinois" q1="0" q2="34" q3="0" q4="35" ot="" totalscore="69" id="2178" />
+    </match>
+    <match date="26.11.2019" time="23:00" status="Finished" id="666628">
+      <localteam name="Md.-East. Shore" q1="0" q2="23" q3="0" q4="19" ot="" totalscore="42" id="8240" />
+      <awayteam name="Wofford" q1="0" q2="36" q3="0" q4="31" ot="" totalscore="67" id="1956" />
+    </match>
+    <match date="26.11.2019" time="23:00" status="Finished" id="666633">
+      <localteam name="South Carolina" q1="0" q2="22" q3="0" q4="25" ot="" totalscore="47" id="2004" />
+      <awayteam name="Wichita State" q1="0" q2="41" q3="0" q4="29" ot="" totalscore="70" id="2269" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666650">
+      <localteam name="American University" q1="0" q2="46" q3="0" q4="40" ot="" totalscore="86" id="2524" />
+      <awayteam name="Howard" q1="0" q2="34" q3="0" q4="35" ot="" totalscore="69" id="1913" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666651">
+      <localteam name="Binghamton" q1="0" q2="53" q3="0" q4="37" ot="" totalscore="90" id="1871" />
+      <awayteam name="Oneonta State" q1="0" q2="29" q3="0" q4="40" ot="" totalscore="69" id="11841" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666625">
+      <localteam name="Citadel" q1="0" q2="47" q3="0" q4="43" ot="" totalscore="90" id="2307" />
+      <awayteam name="Brevard College" q1="0" q2="26" q3="0" q4="21" ot="" totalscore="47" id="8242" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666652">
+      <localteam name="Delaware State" q1="0" q2="42" q3="0" q4="48" ot="" totalscore="90" id="2564" />
+      <awayteam name="St. Elizabeth" q1="0" q2="22" q3="0" q4="31" ot="" totalscore="53" id="14214" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666653">
+      <localteam name="East Tennessee St" q1="0" q2="33" q3="0" q4="45" ot="" totalscore="78" id="10231" />
+      <awayteam name="Appalachian State" q1="0" q2="23" q3="0" q4="46" ot="" totalscore="69" id="2548" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666654">
+      <localteam name="Elon" q1="0" q2="30" q3="0" q4="31" ot="" totalscore="61" id="2403" />
+      <awayteam name="Furman" q1="0" q2="46" q3="0" q4="51" ot="" totalscore="97" id="2282" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666655">
+      <localteam name="Florida Gulf Coast" q1="0" q2="42" q3="0" q4="31" ot="" totalscore="73" id="1882" />
+      <awayteam name="Florida Tech" q1="0" q2="24" q3="0" q4="35" ot="" totalscore="59" id="2796" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666626">
+      <localteam name="Florida Intl" q1="0" q2="57" q3="0" q4="39" ot="" totalscore="96" id="2593" />
+      <awayteam name="Keiser" q1="0" q2="45" q3="0" q4="37" ot="" totalscore="82" id="14179" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666656">
+      <localteam name="High Point" q1="0" q2="50" q3="0" q4="40" ot="" totalscore="90" id="2211" />
+      <awayteam name="Greensboro Pride" q1="0" q2="42" q3="0" q4="31" ot="" totalscore="73" id="8590" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666657">
+      <localteam name="James Madison" q1="0" q2="46" q3="0" q4="32" ot="" totalscore="78" id="1989" />
+      <awayteam name="Coppin State" q1="0" q2="42" q3="0" q4="52" ot="" totalscore="94" id="2284" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="670521">
+      <localteam name="Missouri" q1="0" q2="29" q3="0" q4="37" ot="" totalscore="66" id="2536" />
+      <awayteam name="Oklahoma" q1="0" q2="41" q3="0" q4="36" ot="" totalscore="77" id="2236" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666658">
+      <localteam name="Mount St. Mary's" q1="0" q2="24" q3="0" q4="40" ot="" totalscore="64" id="2426" />
+      <awayteam name="Utah Valley State" q1="0" q2="29" q3="0" q4="32" ot="" totalscore="61" id="2008" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666659">
+      <localteam name="Navy" q1="0" q2="42" q3="0" q4="30" ot="" totalscore="72" id="1498" />
+      <awayteam name="Cornell" q1="0" q2="29" q3="0" q4="32" ot="" totalscore="61" id="1910" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666990">
+      <localteam name="NC Wilmington" q1="0" q2="69" q3="0" q4="53" ot="" totalscore="122" id="1884" />
+      <awayteam name="Emory &amp; Henry" q1="0" q2="33" q3="0" q4="33" ot="" totalscore="66" id="2435" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="After Over Time" id="666660">
+      <localteam name="New Hampshire" q1="0" q2="39" q3="0" q4="35" ot="13" totalscore="87" id="2281" />
+      <awayteam name="Bryant University" q1="0" q2="31" q3="0" q4="43" ot="2" totalscore="76" id="1860" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666661">
+      <localteam name="Notre Dame" q1="0" q2="42" q3="0" q4="49" ot="" totalscore="91" id="1979" />
+      <awayteam name="Fairleigh Dickinson" q1="0" q2="30" q3="0" q4="36" ot="" totalscore="66" id="2538" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666662">
+      <localteam name="Princeton" q1="0" q2="31" q3="0" q4="34" ot="" totalscore="65" id="1921" />
+      <awayteam name="Arizona State" q1="0" q2="26" q3="0" q4="41" ot="" totalscore="67" id="2262" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666663">
+      <localteam name="Rutgers" q1="0" q2="36" q3="0" q4="49" ot="" totalscore="85" id="1922" />
+      <awayteam name="NJIT" q1="0" q2="22" q3="0" q4="36" ot="" totalscore="58" id="1858" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666664">
+      <localteam name="St. Bonaventure" q1="0" q2="27" q3="0" q4="29" ot="" totalscore="56" id="1974" />
+      <awayteam name="Mercer" q1="0" q2="20" q3="0" q4="31" ot="" totalscore="51" id="2176" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666665">
+      <localteam name="Stetson" q1="0" q2="33" q3="0" q4="39" ot="" totalscore="72" id="1928" />
+      <awayteam name="Florida Col." q1="0" q2="34" q3="0" q4="26" ot="" totalscore="60" id="9407" />
+    </match>
+    <match date="27.11.2019" time="00:00" status="Finished" id="666666">
+      <localteam name="VMI" q1="0" q2="45" q3="0" q4="53" ot="" totalscore="98" id="2173" />
+      <awayteam name="Goucher Coll" q1="0" q2="20" q3="0" q4="12" ot="" totalscore="32" id="9400" />
+    </match>
+    <match date="27.11.2019" time="00:30" status="Finished" id="666667">
+      <localteam name="Monmouth" q1="0" q2="39" q3="0" q4="41" ot="" totalscore="80" id="2505" />
+      <awayteam name="Radford" q1="0" q2="35" q3="0" q4="28" ot="" totalscore="63" id="2167" />
+    </match>
+    <match date="27.11.2019" time="00:30" status="Finished" id="670523">
+      <localteam name="Nebraska" q1="0" q2="28" q3="0" q4="38" ot="" totalscore="66" id="2216" />
+      <awayteam name="George Mason" q1="0" q2="37" q3="0" q4="48" ot="" totalscore="85" id="1535" />
+    </match>
+    <match date="27.11.2019" time="00:30" status="Finished" id="670525">
+      <localteam name="Richmond" q1="0" q2="35" q3="0" q4="30" ot="" totalscore="65" id="1923" />
+      <awayteam name="Auburn" q1="0" q2="34" q3="0" q4="45" ot="" totalscore="79" id="1996" />
+    </match>
+    <match date="27.11.2019" time="00:30" status="Finished" id="666668">
+      <localteam name="UALR" q1="0" q2="36" q3="0" q4="31" ot="" totalscore="67" id="9075" />
+      <awayteam name="St. Francis Brooklyn" q1="0" q2="27" q3="0" q4="29" ot="" totalscore="56" id="9455" />
+    </match>
+    <match date="27.11.2019" time="00:30" status="Finished" id="666669">
+      <localteam name="William &amp; Mary" q1="0" q2="46" q3="0" q4="49" ot="" totalscore="95" id="1906" />
+      <awayteam name="Morehead State" q1="0" q2="36" q3="0" q4="48" ot="" totalscore="84" id="2174" />
+    </match>
+    <match date="27.11.2019" time="00:30" status="Finished" id="670527">
+      <localteam name="Wright State" q1="0" q2="30" q3="0" q4="40" ot="" totalscore="70" id="2206" />
+      <awayteam name="La Salle" q1="0" q2="35" q3="0" q4="37" ot="" totalscore="72" id="1917" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666670">
+      <localteam name="DePaul" q1="0" q2="32" q3="0" q4="56" ot="" totalscore="88" id="2158" />
+      <awayteam name="Central Michigan" q1="0" q2="50" q3="0" q4="25" ot="" totalscore="75" id="1524" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666671">
+      <localteam name="Houston" q1="0" q2="56" q3="0" q4="56" ot="" totalscore="112" id="1945" />
+      <awayteam name="Houston Baptist" q1="0" q2="33" q3="0" q4="40" ot="" totalscore="73" id="1843" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666672">
+      <localteam name="Illinois" q1="0" q2="66" q3="0" q4="51" ot="" totalscore="117" id="1495" />
+      <awayteam name="Lindenwood" q1="0" q2="29" q3="0" q4="36" ot="" totalscore="65" id="14160" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666673">
+      <localteam name="Illinois (Chi.)" q1="0" q2="25" q3="0" q4="39" ot="" totalscore="64" id="1502" />
+      <awayteam name="Canisius" q1="0" q2="54" q3="0" q4="40" ot="" totalscore="94" id="1973" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666674">
+      <localteam name="Louisiana Monroe" q1="0" q2="38" q3="0" q4="39" ot="" totalscore="77" id="1518" />
+      <awayteam name="Northwestern St." q1="0" q2="29" q3="0" q4="40" ot="" totalscore="69" id="1948" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="670529">
+      <localteam name="Nebraska O." q1="0" q2="31" q3="0" q4="39" ot="" totalscore="70" id="7488" />
+      <awayteam name="Loyola Maryland" q1="0" q2="28" q3="0" q4="37" ot="" totalscore="65" id="9457" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666675">
+      <localteam name="Nicholls State" q1="0" q2="44" q3="0" q4="58" ot="" totalscore="102" id="1946" />
+      <awayteam name="Blue Mountain" q1="0" q2="19" q3="0" q4="37" ot="" totalscore="56" id="7527" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666676">
+      <localteam name="Southern Illinois" q1="0" q2="42" q3="0" q4="22" ot="" totalscore="64" id="2187" />
+      <awayteam name="N. Carolina Central" q1="0" q2="28" q3="0" q4="20" ot="" totalscore="48" id="7146" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666677">
+      <localteam name="UAB" q1="0" q2="25" q3="0" q4="32" ot="" totalscore="57" id="2188" />
+      <awayteam name="Lamar" q1="0" q2="24" q3="0" q4="24" ot="" totalscore="48" id="2378" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="670511">
+      <localteam name="Virginia Tech" q1="0" q2="31" q3="0" q4="31" ot="" totalscore="62" id="1509" />
+      <awayteam name="Dayton" q1="0" q2="49" q3="0" q4="40" ot="" totalscore="89" id="1838" />
+    </match>
+    <match date="27.11.2019" time="01:00" status="Finished" id="666678">
+      <localteam name="Wisc. Green Bay" q1="0" q2="37" q3="0" q4="44" ot="" totalscore="81" id="2573" />
+      <awayteam name="Colgate" q1="0" q2="59" q3="0" q4="40" ot="" totalscore="99" id="1870" />
+    </match>
+    <match date="27.11.2019" time="01:30" status="Finished" id="666679">
+      <localteam name="West Virginia" q1="0" q2="20" q3="0" q4="40" ot="" totalscore="60" id="2010" />
+      <awayteam name="Northern Iowa" q1="0" q2="23" q3="0" q4="32" ot="" totalscore="55" id="1896" />
+    </match>
+    <match date="27.11.2019" time="02:00" status="After Over Time" id="666680">
+      <localteam name="Duke" q1="0" q2="45" q3="0" q4="36" ot="2" totalscore="83" id="2162" />
+      <awayteam name="Stephen F. Austin" q1="0" q2="40" q3="0" q4="41" ot="4" totalscore="85" id="2217" />
+    </match>
+    <match date="27.11.2019" time="02:00" status="Finished" id="666681">
+      <localteam name="Montana State" q1="0" q2="31" q3="0" q4="51" ot="" totalscore="82" id="1522" />
+      <awayteam name="Colorado Christian" q1="0" q2="29" q3="0" q4="17" ot="" totalscore="46" id="9416" />
+    </match>
+    <match date="27.11.2019" time="02:00" status="Finished" id="670258">
+      <localteam name="TCU" q1="0" q2="30" q3="0" q4="34" ot="" totalscore="64" id="1525" />
+      <awayteam name="Wyoming" q1="0" q2="14" q3="0" q4="33" ot="" totalscore="47" id="2266" />
+    </match>
+    <match date="27.11.2019" time="02:05" status="Finished" id="666682">
+      <localteam name="East. Washington" q1="0" q2="40" q3="0" q4="47" ot="" totalscore="87" id="1519" />
+      <awayteam name="Belmont" q1="0" q2="42" q3="0" q4="40" ot="" totalscore="82" id="2264" />
+    </match>
+    <match date="27.11.2019" time="02:30" status="Finished" id="670531">
+      <localteam name="Butler" q1="0" q2="29" q3="0" q4="39" ot="" totalscore="68" id="2274" />
+      <awayteam name="Stanford" q1="0" q2="29" q3="0" q4="38" ot="" totalscore="67" id="2223" />
+    </match>
+    <match date="27.11.2019" time="02:30" status="Finished" id="666991">
+      <localteam name="North Dakota" q1="0" q2="56" q3="0" q4="59" ot="" totalscore="115" id="2278" />
+      <awayteam name="North Central Cardinals" q1="0" q2="23" q3="0" q4="27" ot="" totalscore="50" id="15271" />
+    </match>
+    <match date="27.11.2019" time="03:00" status="Finished" id="666683">
+      <localteam name="California" q1="0" q2="36" q3="0" q4="36" ot="" totalscore="72" id="2261" />
+      <awayteam name="UC Davis" q1="0" q2="25" q3="0" q4="41" ot="" totalscore="66" id="1900" />
+    </match>
+    <match date="27.11.2019" time="03:00" status="Finished" id="666627">
+      <localteam name="Idaho" q1="0" q2="27" q3="0" q4="26" ot="" totalscore="53" id="2263" />
+      <awayteam name="North Dakota St" q1="0" q2="29" q3="0" q4="41" ot="" totalscore="70" id="7149" />
+    </match>
+    <match date="27.11.2019" time="03:00" status="Finished" id="666684">
+      <localteam name="Pacific" q1="0" q2="49" q3="0" q4="29" ot="" totalscore="78" id="2013" />
+      <awayteam name="Siu Edwardsville" q1="0" q2="17" q3="0" q4="33" ot="" totalscore="50" id="2002" />
+    </match>
+    <match date="27.11.2019" time="03:00" status="Finished" id="666685">
+      <localteam name="UC Riverside" q1="0" q2="31" q3="0" q4="40" ot="" totalscore="71" id="1534" />
+      <awayteam name="Longwood" q1="0" q2="26" q3="0" q4="32" ot="" totalscore="58" id="1514" />
+    </match>
+    <match date="27.11.2019" time="03:00" status="Finished" id="666686">
+      <localteam name="UNLV" q1="0" q2="36" q3="0" q4="44" ot="" totalscore="80" id="1533" />
+      <awayteam name="Jackson State" q1="0" q2="27" q3="0" q4="30" ot="" totalscore="57" id="1526" />
+    </match>
+    <match date="27.11.2019" time="03:30" status="Finished" id="670533">
+      <localteam name="Brigham Young" q1="0" q2="27" q3="0" q4="29" ot="" totalscore="56" id="2532" />
+      <awayteam name="Kansas" q1="0" q2="29" q3="0" q4="42" ot="" totalscore="71" id="1513" />
+    </match>
+    <match date="27.11.2019" time="03:30" status="Finished" id="666687">
+      <localteam name="CSU Bakersfield" q1="0" q2="25" q3="0" q4="40" ot="" totalscore="65" id="8273" />
+      <awayteam name="Sam Houston St." q1="0" q2="29" q3="0" q4="45" ot="" totalscore="74" id="2995" />
+    </match>
+    <match date="27.11.2019" time="04:30" status="Finished" id="670259">
+      <localteam name="Clemson" q1="0" q2="36" q3="0" q4="31" ot="" totalscore="67" id="1951" />
+      <awayteam name="Colorado" q1="0" q2="33" q3="0" q4="38" ot="" totalscore="71" id="1529" />
+    </match>
+    <match date="27.11.2019" time="16:00" status="Finished" id="670715">
+      <localteam name="Old Dominion" q1="0" q2="21" q3="0" q4="40" ot="" totalscore="61" id="1901" />
+      <awayteam name="Loyola Chicago" q1="0" q2="30" q3="0" q4="38" ot="" totalscore="68" id="9454" />
+    </match>
+    <match date="27.11.2019" time="16:00" status="Finished" id="670717">
+      <localteam name="Weber State" q1="0" q2="29" q3="0" q4="40" ot="" totalscore="69" id="2182" />
+      <awayteam name="Northeastern" q1="0" q2="47" q3="0" q4="32" ot="" totalscore="79" id="1887" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="666688">
+      <localteam name="Iowa State" q1="0" q2="37" q3="0" q4="39" ot="" totalscore="76" id="1511" />
+      <awayteam name="Michigan" q1="0" q2="41" q3="0" q4="42" ot="" totalscore="83" id="2197" />
+    </match>
+    <match date="27.11.2019" time="17:00" status="Finished" id="666689">
+      <localteam name="Western Carolina" q1="0" q2="34" q3="0" q4="44" ot="" totalscore="78" id="1952" />
+      <awayteam name="Bryan" q1="0" q2="17" q3="0" q4="37" ot="" totalscore="54" id="14108" />
+    </match>
+    <match date="27.11.2019" time="17:30" status="Finished" id="670817">
+      <localteam name="Boston University" q1="0" q2="40" q3="0" q4="33" ot="" totalscore="73" id="2521" />
+      <awayteam name="UT Martin" q1="0" q2="41" q3="0" q4="35" ot="" totalscore="76" id="8686" />
+    </match>
+    <match date="27.11.2019" time="18:30" status="Finished" id="670711">
+      <localteam name="Murray State" q1="0" q2="36" q3="0" q4="17" ot="" totalscore="53" id="2221" />
+      <awayteam name="Drake" q1="0" q2="36" q3="0" q4="27" ot="" totalscore="63" id="2185" />
+    </match>
+    <match date="27.11.2019" time="18:30" status="Finished" id="670713">
+      <localteam name="Washington State" q1="0" q2="31" q3="0" q4="38" ot="" totalscore="69" id="2190" />
+      <awayteam name="Colorado State" q1="0" q2="30" q3="0" q4="49" ot="" totalscore="79" id="2183" />
+    </match>
+    <match date="27.11.2019" time="19:00" status="Finished" id="666690">
+      <localteam name="Boston College" q1="0" q2="26" q3="0" q4="28" ot="" totalscore="54" id="1889" />
+      <awayteam name="St. Louis" q1="0" q2="24" q3="0" q4="40" ot="" totalscore="64" id="1981" />
+    </match>
+    <match date="27.11.2019" time="19:00" status="After Over Time" id="666691">
+      <localteam name="Georgia State" q1="0" q2="38" q3="0" q4="36" ot="7" totalscore="81" id="2275" />
+      <awayteam name="Charlotte" q1="0" q2="36" q3="0" q4="38" ot="4" totalscore="78" id="1185" />
+    </match>
+    <match date="27.11.2019" time="19:00" status="Finished" id="666692">
+      <localteam name="Tulsa" q1="0" q2="32" q3="0" q4="46" ot="" totalscore="78" id="1957" />
+      <awayteam name="South Carolina St" q1="0" q2="27" q3="0" q4="20" ot="" totalscore="47" id="2193" />
+    </match>
+    <match date="27.11.2019" time="19:30" status="Finished" id="666693">
+      <localteam name="Alabama" q1="0" q2="31" q3="0" q4="36" ot="" totalscore="67" id="1971" />
+      <awayteam name="North Carolina" q1="0" q2="37" q3="0" q4="39" ot="" totalscore="76" id="1919" />
+    </match>
+    <match date="27.11.2019" time="19:30" status="Finished" id="666694">
+      <localteam name="North Alabama" q1="0" q2="35" q3="0" q4="38" ot="" totalscore="73" id="3589" />
+      <awayteam name="Miss. Valley St." q1="0" q2="22" q3="0" q4="28" ot="" totalscore="50" id="1932" />
+    </match>
+    <match date="27.11.2019" time="19:30" status="Finished" id="670819">
+      <localteam name="UCLA" q1="0" q2="23" q3="0" q4="39" ot="" totalscore="62" id="1531" />
+      <awayteam name="Michigan State" q1="0" q2="26" q3="0" q4="49" ot="" totalscore="75" id="1977" />
+    </match>
+    <match date="27.11.2019" time="20:00" status="Finished" id="666695">
+      <localteam name="Furman" q1="0" q2="22" q3="0" q4="36" ot="" totalscore="58" id="2282" />
+      <awayteam name="UT Arlington" q1="0" q2="31" q3="0" q4="26" ot="" totalscore="57" id="9520" />
+    </match>
+    <match date="27.11.2019" time="20:00" status="Finished" id="670821">
+      <localteam name="Northern Colorado" q1="0" q2="21" q3="0" q4="41" ot="" totalscore="62" id="2265" />
+      <awayteam name="Gardner Webb" q1="0" q2="35" q3="0" q4="32" ot="" totalscore="67" id="2149" />
+    </match>
+    <match date="27.11.2019" time="21:00" status="Finished" id="666696">
+      <localteam name="Rhode Island" q1="0" q2="32" q3="0" q4="41" ot="" totalscore="73" id="1494" />
+      <awayteam name="Manhattan" q1="0" q2="19" q3="0" q4="45" ot="" totalscore="64" id="1859" />
+    </match>
+    <match date="27.11.2019" time="21:00" status="Finished" id="666697">
+      <localteam name="Virginia" q1="0" q2="24" q3="0" q4="22" ot="" totalscore="46" id="1905" />
+      <awayteam name="Maine Black Bears" q1="0" q2="14" q3="0" q4="12" ot="" totalscore="26" id="9643" />
+    </match>
+    <match date="27.11.2019" time="22:00" status="After Over Time" id="670823">
+      <localteam name="Kansas" q1="0" q2="36" q3="0" q4="37" ot="17" totalscore="90" id="1513" />
+      <awayteam name="Dayton" q1="0" q2="37" q3="0" q4="36" ot="11" totalscore="84" id="1838" />
+    </match>
+    <match date="27.11.2019" time="22:00" status="Finished" id="670825">
+      <localteam name="Nebraska" q1="0" q2="33" q3="0" q4="41" ot="" totalscore="74" id="2216" />
+      <awayteam name="South Florida" q1="0" q2="35" q3="0" q4="32" ot="" totalscore="67" id="1925" />
+    </match>
+    <match date="27.11.2019" time="22:00" status="Finished" id="666698">
+      <localteam name="Penn State" q1="0" q2="43" q3="0" q4="29" ot="" totalscore="72" id="1939" />
+      <awayteam name="Ole Miss" q1="0" q2="27" q3="0" q4="47" ot="" totalscore="74" id="4890" />
+    </match>
+    <match date="27.11.2019" time="22:00" status="Finished" id="666699">
+      <localteam name="Santa Clara" q1="0" q2="36" q3="0" q4="45" ot="" totalscore="81" id="1992" />
+      <awayteam name="Denver" q1="0" q2="31" q3="0" q4="33" ot="" totalscore="64" id="2151" />
+    </match>
+    <match date="27.11.2019" time="22:00" status="Finished" id="670827">
+      <localteam name="Wright State" q1="0" q2="34" q3="0" q4="37" ot="" totalscore="71" id="2206" />
+      <awayteam name="Miami (Ohio)" q1="0" q2="33" q3="0" q4="33" ot="" totalscore="66" id="1879" />
+    </match>
+    <match date="27.11.2019" time="23:00" status="Finished" id="670479">
+      <localteam name="Bradley" q1="0" q2="38" q3="0" q4="35" ot="" totalscore="73" id="2268" />
+      <awayteam name="Kansas State" q1="0" q2="37" q3="0" q4="23" ot="" totalscore="60" id="1988" />
+    </match>
+    <match date="27.11.2019" time="23:00" status="Finished" id="670829">
+      <localteam name="Northern Iowa" q1="0" q2="44" q3="0" q4="34" ot="" totalscore="78" id="1896" />
+      <awayteam name="South Carolina" q1="0" q2="37" q3="0" q4="35" ot="" totalscore="72" id="2004" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666721">
+      <localteam name="Delaware" q1="0" q2="39" q3="0" q4="36" ot="" totalscore="75" id="1841" />
+      <awayteam name="Stony Brook" q1="0" q2="20" q3="0" q4="41" ot="" totalscore="61" id="1912" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666722">
+      <localteam name="IPFW" q1="0" q2="38" q3="0" q4="39" ot="" totalscore="77" id="2003" />
+      <awayteam name="Niagara" q1="0" q2="34" q3="0" q4="20" ot="" totalscore="54" id="2523" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666723">
+      <localteam name="Monmouth" q1="0" q2="38" q3="0" q4="37" ot="" totalscore="75" id="2505" />
+      <awayteam name="Norfolk State" q1="0" q2="33" q3="0" q4="38" ot="" totalscore="71" id="1886" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="667026">
+      <localteam name="Robert Morris" q1="0" q2="40" q3="0" q4="62" ot="" totalscore="102" id="1863" />
+      <awayteam name="Geneva" q1="0" q2="29" q3="0" q4="33" ot="" totalscore="62" id="8255" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666724">
+      <localteam name="SMU Mustangs" q1="0" q2="45" q3="0" q4="45" ot="" totalscore="90" id="9628" />
+      <awayteam name="Hartford" q1="0" q2="23" q3="0" q4="35" ot="" totalscore="58" id="2156" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666725">
+      <localteam name="Southern Miss" q1="0" q2="32" q3="0" q4="37" ot="" totalscore="69" id="1926" />
+      <awayteam name="Gonzaga" q1="0" q2="53" q3="0" q4="41" ot="" totalscore="94" id="1986" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666728">
+      <localteam name="Syracuse" q1="0" q2="31" q3="0" q4="41" ot="" totalscore="72" id="1895" />
+      <awayteam name="Oklahoma State" q1="0" q2="43" q3="0" q4="43" ot="" totalscore="86" id="1842" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="667027">
+      <localteam name="Vermont" q1="0" q2="51" q3="0" q4="42" ot="" totalscore="93" id="2203" />
+      <awayteam name="Gallaudet" q1="0" q2="13" q3="0" q4="31" ot="" totalscore="44" id="11611" />
+    </match>
+    <match date="28.11.2019" time="00:00" status="Finished" id="666726">
+      <localteam name="Youngstown State" q1="0" q2="53" q3="0" q4="40" ot="" totalscore="93" id="1929" />
+      <awayteam name="Westminster College" q1="0" q2="23" q3="0" q4="44" ot="" totalscore="67" id="11686" />
+    </match>
+    <match date="28.11.2019" time="00:30" status="Not Started" id="666727">
+      <localteam name="CS Fullerton" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1523" />
+      <awayteam name="Southeast Missouri State" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2553" />
+    </match>
+    <match date="28.11.2019" time="00:30" status="Not Started" id="670831">
+      <localteam name="George Mason" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1535" />
+      <awayteam name="New Mexico State" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1970" />
+    </match>
+    <match date="28.11.2019" time="00:30" status="Not Started" id="670833">
+      <localteam name="La Salle" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1917" />
+      <awayteam name="South Alabama" q1="" q2="" q3="" q4="" ot="" totalscore="" id="2372" />
+    </match>
+    <match date="28.11.2019" time="00:30" status="Not Started" id="666729">
+      <localteam name="UALR" q1="" q2="" q3="" q4="" ot="" totalscore="" id="9075" />
+      <awayteam name="Alcorn State" q1="" q2="" q3="" q4="" ot="" totalscore="" id="1516" />
+    </match>
+  </category>
+  <category name="World: Champions League Americas" id="4228" file_group="world">
+    <match date="27.11.2019" time="00:30" status="Finished" id="666032">
+      <localteam name="Instituto de Cordoba" q1="26" q2="24" q3="19" q4="23" ot="" totalscore="92" id="10980" />
+      <awayteam name="Valdivia" q1="19" q2="20" q3="15" q4="13" ot="" totalscore="67" id="10257" />
+    </match>
+  </category>
+</scores>

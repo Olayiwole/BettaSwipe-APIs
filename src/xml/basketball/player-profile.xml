@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<team name="Atlanta Hawks" id="1182">
+    <player number="95" name="DeAndre' Bembry" position="SG" age="25" heigth="6' 5&quot;" weigth="210 lbs" college="Saint Joseph&amp;#x27;s" salary="$2,603,982" id="3062667" />
+    <player number="4" name="Charlie Brown Jr." position="SG" age="21" heigth="6' 6&quot;" weigth="199 lbs" college="Saint Joseph&amp;#x27;s" salary="--" id="4066508" />
+    <player number="15" name="Vince Carter" position="SG" age="42" heigth="6' 6&quot;" weigth="220 lbs" college="North Carolina" salary="$1,620,564" id="136" />
+    <player number="33" name="Allen Crabbe" position="SG" age="27" heigth="6' 5&quot;" weigth="212 lbs" college="California" salary="$18,500,000" id="2531210" />
+    <player number="24" name="Bruno Fernando" position="PF" age="21" heigth="6' 9&quot;" weigth="240 lbs" college="Maryland" salary="$1,400,000" id="4277952" />
+    <player number="0" name="Brandon Goodwin" position="PG" age="24" heigth="6' 0&quot;" weigth="180 lbs" college="Florida Gulf Coast" salary="$630,032" id="3057198" />
+    <player number="3" name="Kevin Huerter" position="SG" age="21" heigth="6' 7&quot;" weigth="190 lbs" college="Maryland" salary="$2,636,280" id="4066372" />
+    <player number="12" name="De'Andre Hunter" position="SF" age="21" heigth="6' 7&quot;" weigth="225 lbs" college="Virginia" salary="$7,068,360" id="4065732" />
+    <player number="30" name="Damian Jones" position="C" age="24" heigth="6' 11&quot;" weigth="245 lbs" college="Vanderbilt" salary="$2,305,057" id="3064559" />
+    <player number="25" name="Alex Len" position="C" age="26" heigth="7' 0&quot;" weigth="250 lbs" college="Maryland" salary="$4,160,000" id="2596107" />
+    <player number="5" name="Jabari Parker" position="PF" age="24" heigth="6' 8&quot;" weigth="245 lbs" college="Duke" salary="$6,500,000" id="3056600" />
+    <player number="31" name="Chandler Parsons" position="SF" age="31" heigth="6' 9&quot;" weigth="230 lbs" college="Florida" salary="$25,102,511" id="6466" />
+    <player number="22" name="Cam Reddish" position="SF" age="20" heigth="6' 8&quot;" weigth="218 lbs" college="Duke" salary="$4,245,720" id="4395627" />
+    <player number="1" name="Evan Turner" position="SG" age="31" heigth="6' 6&quot;" weigth="220 lbs" college="Ohio State" salary="$18,606,556" id="4239" />
+    <player number="8" name="Tyrone Wallace" position="SG" age="25" heigth="6' 5&quot;" weigth="198 lbs" college="California" salary="$1,588,231" id="3002137" />
+    <player number="11" name="Trae Young" position="PG" age="21" heigth="6' 1&quot;" weigth="180 lbs" college="Oklahoma" salary="$6,273,000" id="4277905" />
+</team>

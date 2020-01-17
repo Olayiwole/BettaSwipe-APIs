@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<h2h team1="9249" team2="9002">
+	<top50>
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="29.12.2018" team1_score="5" team2_score="1" static_id="2161240" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="03.11.2018" team1_score="1" team2_score="1" static_id="2378452" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="22.12.2017" team1_score="3" team2_score="3" static_id="2213087" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="27.08.2017" team1_score="4" team2_score="0" static_id="2212931" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="04.03.2017" team1_score="3" team2_score="1" static_id="1949392" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="14.08.2016" team1_score="3" team2_score="4" static_id="1935749" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="13.01.2016" team1_score="3" team2_score="3" static_id="1849290" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="24.08.2015" team1_score="0" team2_score="0" static_id="1921812" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="04.04.2015" team1_score="4" team2_score="1" static_id="1755831" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="21.12.2014" team1_score="2" team2_score="2" static_id="1773302" />
+		<match category="England" league="FA Cup" league_id="1198" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="16.02.2014" team1_score="2" team2_score="1" static_id="1639448" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="08.02.2014" team1_score="5" team2_score="1" static_id="1483700" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="02.11.2013" team1_score="2" team2_score="0" static_id="1483547" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="30.01.2013" team1_score="2" team2_score="2" static_id="1293911" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="02.09.2012" team1_score="0" team2_score="2" static_id="1293702" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="03.03.2012" team1_score="1" team2_score="2" static_id="1117301" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="20.08.2011" team1_score="0" team2_score="2" static_id="1117049" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="17.04.2011" team1_score="1" team2_score="1" static_id="944162" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="15.08.2010" team1_score="1" team2_score="1" static_id="943451" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="10.02.2010" team1_score="1" team2_score="0" static_id="781407" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="13.12.2009" team1_score="1" team2_score="2" static_id="781312" />
+		<match category="England" league="Carling Cup" league_id="1199" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="28.10.2009" team1_score="2" team2_score="1" static_id="874945" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="21.04.2009" team1_score="4" team2_score="4" static_id="637246" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="21.12.2008" team1_score="1" team2_score="1" static_id="637094" />
+		<match category="Eurocups" league="UEFA Champions League" league_id="1005" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="08.04.2008" team1_score="4" team2_score="2" static_id="575060" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="05.04.2008" team1_score="1" team2_score="1" static_id="458818" />
+		<match category="Eurocups" league="UEFA Champions League" league_id="1005" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="02.04.2008" team1_score="1" team2_score="1" static_id="575056" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="28.10.2007" team1_score="1" team2_score="1" static_id="458602" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="31.03.2007" team1_score="4" team2_score="1" static_id="366165" />
+		<match category="England" league="Carling Cup" league_id="1199" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="09.01.2007" team1_score="3" team2_score="6" static_id="414413" />
+		<match category="England" league="FA Cup" league_id="1198" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="05.01.2007" team1_score="1" team2_score="3" static_id="418342" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="12.11.2006" team1_score="3" team2_score="0" static_id="365971" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="11.03.2006" team1_score="2" team2_score="1" static_id="267583" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="13.02.2006" team1_score="1" team2_score="0" static_id="267342" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="07.05.2005" team1_score="3" team2_score="1" static_id="164724" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="27.11.2004" team1_score="2" team2_score="1" static_id="164518" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="08.04.2004" team1_score="4" team2_score="2" static_id="9470" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="03.10.2003" team1_score="1" team2_score="2" static_id="9400" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="28.01.2003" team1_score="2" team2_score="2" static_id="9086" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="28.12.2002" team1_score="1" team2_score="1" static_id="9027" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="12.01.2002" team1_score="1" team2_score="1" static_id="8093" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="22.12.2001" team1_score="1" team2_score="2" static_id="8034" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="22.12.2000" team1_score="4" team2_score="0" static_id="9843" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="20.08.2000" team1_score="2" team2_score="0" static_id="9777" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="12.02.2000" team1_score="0" team2_score="1" static_id="10837" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="27.08.1999" team1_score="2" team2_score="0" static_id="10771" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="08.01.1999" team1_score="0" team2_score="0" static_id="11522" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="21.08.1998" team1_score="0" team2_score="0" static_id="11455" />
+		<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="05.05.1998" team1_score="4" team2_score="0" static_id="17210" />
+		<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="29.11.1997" team1_score="0" team2_score="1" static_id="17142" />
+	</top50>
+	<overall>
+		<total>
+			<total games="192" />
+			<total team1_won="71" />
+			<total team2_won="68" />
+			<total draws="53" />
+		</total>
+		<home>
+			<team1 games="96" />
+			<team2 games="96" />
+			<team1 won="51" />
+			<team1 lost="26" />
+			<team2 won="42" />
+			<team2 lost="20" />
+			<team1 draws="19" />
+			<team2 draws="34" />
+		</home>
+		<away>
+			<team1 games="96" />
+			<team2 games="96" />
+			<team1 won="20" />
+			<team1 lost="42" />
+			<team2 won="26" />
+			<team2 lost="51" />
+			<team1 draws="34" />
+			<team2 draws="19" />
+		</away>
+	</overall>
+	<leagues>
+		<league name="UEFA Champions League" id="1005" games="2" team1_won="1" team2_won="0" draw="1" />
+		<league name="FA Cup" id="1198" games="2" team1_won="0" team2_won="2" draw="0" />
+		<league name="Carling Cup" id="1199" games="2" team1_won="0" team2_won="2" draw="0" />
+		<league name="Premier League" id="1204" games="186" team1_won="70" team2_won="64" draw="52" />
+	</leagues>
+	<goals>
+		<total>
+			<total team1_scored="281" />
+			<total team1_conceded="265" />
+			<total team2_scored="265" />
+			<total team2_conceded="281" />
+		</total>
+		<home>
+			<home team1_scored="194" />
+			<home team1_conceded="116" />
+			<home team2_scored="149" />
+			<home team2_conceded="87" />
+		</home>
+		<away>
+			<away team1_scored="87" />
+			<away team1_conceded="149" />
+			<away team2_scored="116" />
+			<away team2_conceded="194" />
+		</away>
+	</goals>
+	<biggest_victory>
+		<team1>
+			<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="17.04.1964" team1_score="5" team2_score="0" static_id="587451" />
+		</team1>
+		<team2>
+			<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="31.08.1934" team1_score="8" team2_score="1" static_id="602419" />
+		</team2>
+	</biggest_victory>
+	<biggest_defeat>
+		<team1>
+			<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Liverpool" id2="9249" date="31.08.1934" team1_score="8" team2_score="1" static_id="602419" />
+		</team1>
+		<team2>
+			<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="17.04.1964" team1_score="5" team2_score="0" static_id="587451" />
+		</team2>
+	</biggest_defeat>
+	<last5_home>
+		<team1>
+			<match category="Eurocups" league="UEFA Champions League" league_id="1005" team1="Liverpool" id1="9249" team2="Bayern Munchen" id2="10285" date="19.02.2019" team1_score="0" team2_score="0" static_id="2565614" />
+			<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="AFC Bournemouth" id2="9053" date="09.02.2019" team1_score="3" team2_score="0" static_id="2378605" />
+			<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Leicester City" id2="9240" date="30.01.2019" team1_score="1" team2_score="1" static_id="2378589" />
+			<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Crystal Palace" id2="9127" date="19.01.2019" team1_score="4" team2_score="3" static_id="2378575" />
+			<match category="England" league="Premier League" league_id="1204" team1="Liverpool" id1="9249" team2="Arsenal" id2="9002" date="29.12.2018" team1_score="5" team2_score="1" static_id="2378546" />
+		</team1>
+		<team2>
+			<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Southampton" id2="9363" date="24.02.2019" team1_score="2" team2_score="0" static_id="2378612" />
+			<match category="Eurocups" league="UEFA Europa League" league_id="1007" team1="Arsenal" id1="9002" team2="BATE" id2="6671" date="21.02.2019" team1_score="3" team2_score="0" static_id="2565662" />
+			<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Cardiff City" id2="9083" date="29.01.2019" team1_score="2" team2_score="1" static_id="2378582" />
+			<match category="England" league="FA Cup" league_id="1198" team1="Arsenal" id1="9002" team2="Manchester United" id2="9260" date="25.01.2019" team1_score="1" team2_score="3" static_id="2570214" />
+			<match category="England" league="Premier League" league_id="1204" team1="Arsenal" id1="9002" team2="Chelsea" id2="9092" date="19.01.2019" team1_score="2" team2_score="0" static_id="2378572" />
+		</team2>
+	</last5_home>
+	<last5_away>
+		<team1>
+			<match category="England" league="Premier League" league_id="1204" team1="Manchester United" id1="9260" team2="Liverpool" id2="9249" date="24.02.2019" team1_score="0" team2_score="0" static_id="2378618" />
+			<match category="England" league="Premier League" league_id="1204" team1="West Ham United" id1="9427" team2="Liverpool" id2="9249" date="04.02.2019" team1_score="1" team2_score="1" static_id="2378600" />
+			<match category="England" league="Premier League" league_id="1204" team1="Brighton &amp; Hove Albion" id1="9065" team2="Liverpool" id2="9249" date="12.01.2019" team1_score="0" team2_score="1" static_id="2378561" />
+			<match category="England" league="FA Cup" league_id="1198" team1="Wolverhampton Wanderers" id1="9446" team2="Liverpool" id2="9249" date="07.01.2019" team1_score="2" team2_score="1" static_id="2562139" />
+			<match category="England" league="Premier League" league_id="1204" team1="Manchester City" id1="9259" team2="Liverpool" id2="9249" date="03.01.2019" team1_score="2" team2_score="1" static_id="2378557" />
+		</team1>
+		<team2>
+			<match category="Eurocups" league="UEFA Europa League" league_id="1007" team1="BATE" id1="6671" team2="Arsenal" id2="9002" date="14.02.2019" team1_score="1" team2_score="0" static_id="2565661" />
+			<match category="England" league="Premier League" league_id="1204" team1="Huddersfield Town" id1="9220" team2="Arsenal" id2="9002" date="09.02.2019" team1_score="1" team2_score="2" static_id="2378604" />
+			<match category="England" league="Premier League" league_id="1204" team1="Manchester City" id1="9259" team2="Arsenal" id2="9002" date="03.02.2019" team1_score="3" team2_score="1" static_id="2378598" />
+			<match category="England" league="Premier League" league_id="1204" team1="West Ham United" id1="9427" team2="Arsenal" id2="9002" date="12.01.2019" team1_score="1" team2_score="0" static_id="2378570" />
+			<match category="England" league="FA Cup" league_id="1198" team1="Blackpool" id1="9045" team2="Arsenal" id2="9002" date="05.01.2019" team1_score="0" team2_score="3" static_id="2566092" />
+		</team2>
+	</last5_away>
+</h2h>

@@ -1,0 +1,987 @@
+{
+  "Albania": [
+    "KategoriaSuperiore",
+    "League1",
+    "League2-GroupA",
+    "League2-GroupB"
+  ],
+  "Algeria": [
+    "Division-1",
+    "Division2"
+  ],
+  "Andorra": [
+    "2aDivisio",
+    "PrimeraDivision"
+  ],
+  "Angola": [
+    "Girabola"
+  ],
+  "Argentina": [
+    "Apertura",
+    "ArgentinoA",
+    "ArgentinoB",
+    "Clausura",
+    "Cup",
+    "PrimBMetro",
+    "Primera",
+    "primerab",
+    "PrimeraCMetro",
+    "PrimeraDMetro",
+    "SuperFinal"
+  ],
+  "Armenia": [
+    "FirstLeague",
+    "PremierLeague"
+  ],
+  "Aruba": [
+    "DivisiondiHonor"
+  ],
+  "Australia": [
+    "A-League",
+    "Brisbane",
+    "CapitalTerritory",
+    "NewSouthWales",
+    "NorthernNsw",
+    "Nothern",
+    "Queensland",
+    "SouthAustralian",
+    "Tasmania-North",
+    "Tasmania-South",
+    "TLeague",
+    "Victorian",
+    "WesternAustralia"
+  ],
+  "Austria": [
+    "1-Liga",
+    "Bundesliga",
+    "Cup",
+    "Landesliga-Burgenland",
+    "Landesliga-Karnten",
+    "Landesliga-Niederosterreich",
+    "Landesliga-Oberosterreich",
+    "Landesliga-Salzburg",
+    "Landesliga-Steiermark",
+    "Landesliga-Tirol",
+    "Landesliga-Vorarlbergliga",
+    "Landesliga-Wien",
+    "Regionalliga-Mitte",
+    "Regionalliga-Ost",
+    "Regionalliga-West"
+  ],
+  "Azerbaidjan": [
+    "BirinciDasta",
+    "Cup",
+    "PremyerLiqasi"
+  ],
+  "Bahrain": [
+    "PremierLeague"
+  ],
+  "Bangladesh": [
+    "BLeague"
+  ],
+  "Barbados": [
+    "PremierLeague"
+  ],
+  "Belarus": [
+    "Division1",
+    "Division2",
+    "PremierLeague"
+  ],
+  "Belgium": [
+    "cup",
+    "Divison3-ACFF",
+    "Divison3-GroupA",
+    "Divison3-GroupB",
+    "FirstAmateurDivision",
+    "Playoffs",
+    "Playoffs23",
+    "ProLeague",
+    "Promotion-GroupA",
+    "Promotion-GroupB",
+    "Promotion-GroupC",
+    "Promotion-GroupD",
+    "Provincial-Antwerpen",
+    "Provincial-Brabant",
+    "Provincial-Hainaut",
+    "Provincial-Liege",
+    "Provincial-Limburg",
+    "Provincial-Luxembourg",
+    "Provincial-Namur",
+    "Provincial-Oost-Vlaanderen",
+    "Provincial-West-Vlaanderen",
+    "SecondDivision",
+    "SuperCup"
+  ],
+  "Belize": [
+    "PremierLeague"
+  ],
+  "Benin": [
+    "ChampionnatNational"
+  ],
+  "Bermuda": [
+    "PremierLeague"
+  ],
+  "Bhutan": [
+    "ADivision"
+  ],
+  "Bolivia": [
+    "PrimeraDivision"
+  ],
+  "Bosnia": [
+    "1Liga-FBiH",
+    "1Liga-RS",
+    "Cup",
+    "PremierLiga"
+  ],
+  "Botswana": [
+    "PremierLeague"
+  ],
+  "Brazil": [
+    "Acreano",
+    "Alagoano",
+    "Amapaense",
+    "Amazonense",
+    "Baiano1",
+    "Baiano2",
+    "Brasiliense",
+    "CampeonatoNordeste",
+    "Capixaba",
+    "Carioca1-TacaGuanabara",
+    "Carioca1-TacaRio",
+    "Carioca2",
+    "Catarinense",
+    "Cearense",
+    "Cearense2",
+    "Cup",
+    "Gaucho1",
+    "Gaucho2",
+    "Goiano",
+    "Maranhense",
+    "Matogrossense",
+    "Mineiro1",
+    "Mineiro2",
+    "Paraense",
+    "Paraibano",
+    "Paranaense1",
+    "Paranaense2",
+    "PaulistaA1",
+    "PaulistaA2",
+    "PaulistaA3",
+    "Pernambucano",
+    "Piauiense",
+    "Potiguar",
+    "Rondoniense",
+    "Roraimense",
+    "Sergipano",
+    "SerieA",
+    "SerieB",
+    "SerieC",
+    "SerieD",
+    "SulMatogrossense",
+    "Tocantinense"
+  ],
+  "Brunei": [
+    "PremierLeague"
+  ],
+  "Bulgaria": [
+    "APFG",
+    "BPFG-East",
+    "BPFG-West",
+    "Cup",
+    "VAFG-Northeast",
+    "VAFG-Northwest",
+    "VAFG-Southeast",
+    "VAFG-Southwest"
+  ],
+  "Burkina_faso": [
+    "1stDivision"
+  ],
+  "Cambodia": [
+    "PremierLeague"
+  ],
+  "Cameroon": [
+    "EliteOne"
+  ],
+  "Canada": [
+    "CSL",
+    "PCSL"
+  ],
+  "Chile": [
+    "Cup",
+    "Primera",
+    "PrimeraB",
+    "SuperCup"
+  ],
+  "China": [
+    "FaCup",
+    "LeagueOne",
+    "SuperLeague"
+  ],
+  "Chinese_taipei": [
+    "NationalLeague"
+  ],
+  "Colombia": [
+    "Apertura",
+    "Clausura",
+    "Cup",
+    "PrimeraB"
+  ],
+  "Congo_dr": [
+    "SuperLigue"
+  ],
+  "Costa_rica": [
+    "Apertura",
+    "Clausura",
+    "LigadeAscenso"
+  ],
+  "Croatia": [
+    "2HNL",
+    "3HNL-Istok",
+    "3HNL-Jug",
+    "3HNL-Sjever",
+    "3HNL-Sredite",
+    "3HNL-Zapad",
+    "cup",
+    "HNL"
+  ],
+  "Cyprus": [
+    "1-division",
+    "Cup",
+    "Division2",
+    "Division3"
+  ],
+  "Czechia": [
+    "Cup",
+    "CzechLiga",
+    "Liga2",
+    "Liga3-CFL",
+    "Liga3-MSFL",
+    "Liga4-DivisionA",
+    "Liga4-DivisionB",
+    "Liga4-DivisionC",
+    "Liga4-DivisionD",
+    "Liga4-DivisionE",
+    "SuperCup"
+  ],
+  "Denmark": [
+    "1stDivision",
+    "2ndDivision-East",
+    "2ndDivision-Group1",
+    "2ndDivision-Group2",
+    "2ndDivision-Group3",
+    "2ndDivision-West",
+    "Cup",
+    "Denmarksserien-Group1",
+    "Denmarksserien-Group2",
+    "Denmarksserien-Group3",
+    "Denmarksserien-Group4",
+    "SuperLiga"
+  ],
+  "Dominican_republic": [
+    "LigaMayor"
+  ],
+  "Ecuador": [
+    "apertura",
+    "clausura",
+    "PrimeraB"
+  ],
+  "Egypt": [
+    "PremierLeague",
+    "SecondDivison-Group1",
+    "SecondDivison-Group2",
+    "SecondDivison-Group3",
+    "SecondDivison-Group4",
+    "SecondDivison-Group5",
+    "SecondDivison-Group6"
+  ],
+  "El_salvador": [
+    "PrimeraDivision"
+  ],
+  "England": [
+    "BlueSquareNorth",
+    "BlueSquareSouth",
+    "CarlingCup",
+    "Championship",
+    "Conference",
+    "ConferencePlayoff",
+    "FACup",
+    "FATrophy",
+    "FLTrophy",
+    "LeagueOne",
+    "LeagueTwo",
+    "NonLeagueDivOne-IsthmianNorth",
+    "NonLeagueDivOne-IsthmianSouth",
+    "NonLeagueDivOne-NorthernNorth",
+    "NonLeagueDivOne-NorthernSouth",
+    "NonLeagueDivOne-SouthernCentral",
+    "NonLeagueDivOne-SouthernSW",
+    "NonLeaguePremier-Isthmian",
+    "NonLeaguePremier-Northern",
+    "NonLeaguePremier-Southern",
+    "PremierLeague",
+    "SuperCup"
+  ],
+  "Estonia": [
+    "Esiliiga",
+    "Meistriliiga"
+  ],
+  "Ethiopia": [
+    "PremierLeague"
+  ],
+  "Eurocups": [
+    "champleague",
+    "euro",
+    "europaleague",
+    "EuroQualification",
+    "EuroU21",
+    "euro_qualification",
+    "SuperCup",
+    "YouthLeague"
+  ],
+  "Faroe_islands": [
+    "1Delid",
+    "Formuladeildin"
+  ],
+  "Fiji": [
+    "NationalFootballLeague"
+  ],
+  "Finland": [
+    "Cup",
+    "Kakkonen-LohkoA",
+    "Kakkonen-LohkoB",
+    "Kakkonen-LohkoC",
+    "Kakkonen-LohkoD",
+    "Veikkausliiga",
+    "Ykkonen"
+  ],
+  "France": [
+    "CFA-GroupA",
+    "CFA-GroupB",
+    "CFA-GroupC",
+    "CFA-GroupD",
+    "CFA2-GroupA",
+    "CFA2-GroupB",
+    "CFA2-GroupC",
+    "CFA2-GroupD",
+    "CFA2-GroupE",
+    "CFA2-GroupF",
+    "CFA2-GroupG",
+    "CFA2-GroupH",
+    "Cup",
+    "LeagueCup",
+    "Ligue1",
+    "Ligue2",
+    "National",
+    "SuperCup"
+  ],
+  "Friendly": [
+    "intl_friendly"
+  ],
+  "Gabon": [
+    "ChampionnatD1"
+  ],
+  "Georgia": [
+    "PirveliLiga",
+    "UmaglesiLiga"
+  ],
+  "Germany": [
+    "3Liga",
+    "Bundesliga",
+    "Bundesliga2",
+    "Cup",
+    "Oberliga-Baden-Wurttemberg",
+    "Oberliga-Bayern-Nord",
+    "Oberliga-Bayern-Sud",
+    "Oberliga-Bayern",
+    "Oberliga-Bremen",
+    "Oberliga-Hamburg",
+    "Oberliga-Hessen",
+    "Oberliga-Mittelrhein",
+    "Oberliga-Niederrhein",
+    "Oberliga-Niedersachsen",
+    "Oberliga-Nordost-Nord",
+    "Oberliga-Nordost-Sud",
+    "Oberliga-NRW",
+    "Oberliga-Rheinland",
+    "Oberliga-Schleswig-Holstein",
+    "Oberliga-Sudwest",
+    "Oberliga-Westfalen",
+    "Playoffs12",
+    "Playoffs23",
+    "Regionalliga-Bayern",
+    "Regionalliga-Nord",
+    "Regionalliga-Nordost",
+    "Regionalliga-Sud",
+    "Regionalliga-SudWest",
+    "Regionalliga-West",
+    "SuperCup"
+  ],
+  "Ghana": [
+    "PremierLeague"
+  ],
+  "Greece": [
+    "BEthiniki",
+    "CEthniki-Group1",
+    "CEthniki-Group2",
+    "CEthniki-Group3",
+    "CEthniki-Group4",
+    "CEthniki-Group5",
+    "CEthniki-Group6",
+    "CEthniki-Notios",
+    "CEthniki-Voreios",
+    "cup",
+    "SuperLeague"
+  ],
+  "Grenada": [
+    "PremierDivision"
+  ],
+  "Guadeloupe": [
+    "DivisionDHonneur"
+  ],
+  "Guatemala": [
+    "LigaNacional",
+    "PrimeraDivision"
+  ],
+  "Guinea": [
+    "Ligue1"
+  ],
+  "Haiti": [
+    "ChampionnatNational"
+  ],
+  "Holland": [
+    "cup",
+    "EersteDivisie",
+    "Eredivisie",
+    "Playoffs",
+    "SuperCup",
+    "Topklasse-Saturday",
+    "Topklasse-Sunday",
+    "TweedeDivisie"
+  ],
+  "Honduras": [
+    "LigaNacional"
+  ],
+  "Hong_kong": [
+    "Hkfa1stDivision",
+    "Hkfa2ndDivision"
+  ],
+  "Hungary": [
+    "Cup",
+    "NBI",
+    "NbII-East",
+    "NbII-West",
+    "NbIII-Alfold",
+    "NbIII-Bakony",
+    "NbIII-Drava",
+    "NbIII-Duna",
+    "NbIII-Matra",
+    "NbIII-Nyugati",
+    "NbIII-Tisza"
+  ],
+  "Iceland": [
+    "1DelidKarla",
+    "2DelidKarla",
+    "Cup",
+    "LeagueCup",
+    "Urvalsdeild"
+  ],
+  "India": [
+    "ILeague",
+    "SanthoshTrophy",
+    "Superleague"
+  ],
+  "Indonesia": [
+    "ISL",
+    "SuperLiga"
+  ],
+  "Intl": [
+    "AFCChallengeCup",
+    "AFCChampionsLeague",
+    "AFCCup",
+    "AfricanNationsChampionship",
+    "ASEANCup",
+    "AsianCup",
+    "AsianCupQualification",
+    "CAFChampionsLeague",
+    "CAFConfederationsCup",
+    "CaribbeanCup",
+    "CECAFACup",
+    "ClubFriendlies",
+    "CONCACAFChampionsLeague",
+    "ConcacafGoldCup",
+    "ConfederationsCup",
+    "CopaAmerica",
+    "CopaCentroamericana",
+    "CopaSudamericana",
+    "CupOfNations",
+    "CupOfNationsQualification",
+    "EAFFEastAsianCup",
+    "Friendlies",
+    "GulfCup",
+    "ICC",
+    "Libertadores",
+    "O-League",
+    "OFCNationsCup",
+    "Olympics",
+    "SAFFChampionship",
+    "WomenOlympics"
+  ],
+  "Iran": [
+    "AzadeganLeague-GroupA",
+    "AzadeganLeague-GroupB",
+    "AzadeganLeague",
+    "PremierLeague"
+  ],
+  "Iraq": [
+    "IraqiLeague-North",
+    "IraqiLeague-South",
+    "IraqiLeague"
+  ],
+  "Ireland": [
+    "1stDivision",
+    "faicup",
+    "LeagueCup",
+    "PremierLeague"
+  ],
+  "Israel": [
+    "LigaLeumit",
+    "LigatAl",
+    "StateCup",
+    "TotoCup"
+  ],
+  "Italy": [
+    "Cup",
+    "SerieA",
+    "SerieB",
+    "SerieC1-A",
+    "SerieC1-B",
+    "SerieC1-C",
+    "SerieC2-A",
+    "SerieC2-B",
+    "SerieC2-C",
+    "SerieD-A",
+    "SerieD-B",
+    "SerieD-C",
+    "SerieD-D",
+    "SerieD-E",
+    "SerieD-F",
+    "SerieD-G",
+    "SerieD-H",
+    "SerieD-I",
+    "SuperCup"
+  ],
+  "Ivory_coast": [
+    "Ligue1"
+  ],
+  "Jamaica": [
+    "PremierLeague"
+  ],
+  "Japan": [
+    "Cup",
+    "J-League",
+    "J2-League",
+    "J3League",
+    "JapanFootballleague",
+    "NabiscoCup"
+  ],
+  "Jordan": [
+    "League"
+  ],
+  "Kazakhstan": [
+    "1stDivision",
+    "PremierLeague"
+  ],
+  "Kenya": [
+    "PremierLeague"
+  ],
+  "Korea": [
+    "ChallengersLeague",
+    "FaCup",
+    "K-League",
+    "K2League",
+    "LeagueCup"
+  ],
+  "Kuwait": [
+    "Division1",
+    "PremierLeague"
+  ],
+  "Kyrgyzstan": [
+    "TopLiga"
+  ],
+  "Latvia": [
+    "1Liga",
+    "Virsliga"
+  ],
+  "Lebanon": [
+    "League"
+  ],
+  "Libya": [
+    "PremierLeague"
+  ],
+  "Lithuania": [
+    "1Lyga",
+    "ALyga"
+  ],
+  "Luxembourg": [
+    "NationalDivision"
+  ],
+  "Macedonia": [
+    "FirstLeague",
+    "SecondLeague"
+  ],
+  "Malawi": [
+    "SuperLeague"
+  ],
+  "Malaysia": [
+    "PremierLeague",
+    "SuperLeague"
+  ],
+  "Mali": [
+    "PremiereDivision"
+  ],
+  "Malta": [
+    "FirstDivision",
+    "PremierDivision"
+  ],
+  "Mexico": [
+    "Apertura",
+    "Clausura",
+    "Cup",
+    "PrimeraA"
+  ],
+  "Moldova": [
+    "DivisiaA",
+    "NationalDivision"
+  ],
+  "Montenegro": [
+    "DrugaLiga",
+    "PrvaLiga"
+  ],
+  "Morocco": [
+    "GNEF1",
+    "GNEF2"
+  ],
+  "Namibia": [
+    "PremierLeague"
+  ],
+  "Nepal": [
+    "ADivision"
+  ],
+  "New_zealand": [
+    "PremierLeague"
+  ],
+  "Nicaragua": [
+    "1aDivision"
+  ],
+  "Nigeria": [
+    "PremierLeague"
+  ],
+  "Northern_ireland": [
+    "Championship1",
+    "Championship2",
+    "IFAPremiership"
+  ],
+  "Norway": [
+    "2Divisjon-Avdeling-1",
+    "2Divisjon-Avdeling-2",
+    "2Divisjon-Avdeling-3",
+    "2Divisjon-Avdeling-4",
+    "Adeccoligaen",
+    "cup",
+    "Eliteserien"
+  ],
+  "Oman": [
+    "League"
+  ],
+  "Pakistan": [
+    "PremierLeague"
+  ],
+  "Panama": [
+    "PrimeraDivision"
+  ],
+  "Paraguay": [
+    "Apertura",
+    "Clausura",
+    "DivisionIntermedia"
+  ],
+  "Peru": [
+    "CopaInca",
+    "PrimeraDivision",
+    "SegundaDivision"
+  ],
+  "Philippines": [
+    "UFL"
+  ],
+  "Poland": [
+    "Division2",
+    "Ekstraklasa",
+    "IILiga-East",
+    "IILiga-West",
+    "PolandCup"
+  ],
+  "Portugal": [
+    "Cup",
+    "Division2",
+    "IIDivisao-Centro",
+    "IIDivisao-GroupA",
+    "IIDivisao-GroupB",
+    "IIDivisao-GroupC",
+    "IIDivisao-GroupD",
+    "IIDivisao-GroupE",
+    "IIDivisao-GroupF",
+    "IIDivisao-GroupG",
+    "IIDivisao-GroupH",
+    "IIDivisao-Norte",
+    "IIDivisao-Sul",
+    "LeagueCup",
+    "PortugueseLiga",
+    "SuperCup"
+  ],
+  "Qatar": [
+    "League2",
+    "StarsLeague"
+  ],
+  "Romania": [
+    "Cup",
+    "LigaI",
+    "LigaII-Seria1",
+    "LigaII-Seria2",
+    "LigaIII-Seria1",
+    "LigaIII-Seria2",
+    "LigaIII-Seria3",
+    "LigaIII-Seria4",
+    "LigaIII-Seria5",
+    "LigaIII-Seria6",
+    "SuperCup"
+  ],
+  "Russia": [
+    "1-division",
+    "2Division-Center",
+    "2Division-East",
+    "2Division-South",
+    "2Division-Ural-Povolzhye",
+    "2Division-West",
+    "Cup",
+    "Playoffs",
+    "PremierLeague",
+    "YouthLeague"
+  ],
+  "Rwanda": [
+    "NationalSoccerLeague"
+  ],
+  "San_marino": [
+    "Campionato"
+  ],
+  "Saudi_arabia": [
+    "ChampionsCup",
+    "CrownPrinceCup",
+    "Division1",
+    "SaudiProfessionalLeague"
+  ],
+  "Scotland": [
+    "ChallengeCup",
+    "Division1",
+    "Division2",
+    "Division3",
+    "FACup",
+    "LeagueCup",
+    "Playoffs12",
+    "Playoffs23",
+    "Playoffs34",
+    "PremierLeague"
+  ],
+  "Senegal": [
+    "Ligue1"
+  ],
+  "Serbia": [
+    "PrvaLiga",
+    "SrpskaLiga-Belgrade",
+    "SrpskaLiga-East",
+    "SrpskaLiga-Vojvodina",
+    "SrpskaLiga-West",
+    "SuperLiga"
+  ],
+  "Singapore": [
+    "Cup",
+    "SLeague"
+  ],
+  "Slovakia": [
+    "Cup",
+    "IILiga-Bratislava",
+    "IILiga-Center",
+    "IILiga-Vychod",
+    "IILiga-Zapad",
+    "ILiga-Eeast",
+    "ILiga-West",
+    "ILiga",
+    "SuperLiga"
+  ],
+  "Slovania": [
+    "1-SNL",
+    "cup"
+  ],
+  "Slovenia": [
+    "2SNL",
+    "Cup"
+  ],
+  "South_africa": [
+    "PremierLeague"
+  ],
+  "Spain": [
+    "Cup",
+    "Primera",
+    "Segunda",
+    "SegundaB-Group1",
+    "SegundaB-Group2",
+    "SegundaB-Group3",
+    "SegundaB-Group4",
+    "SegundaB-Playoff",
+    "SuperCup",
+    "Tercera-Group1",
+    "Tercera-Group10",
+    "Tercera-Group11",
+    "Tercera-Group12",
+    "Tercera-Group13",
+    "Tercera-Group14",
+    "Tercera-Group15",
+    "Tercera-Group16",
+    "Tercera-Group17",
+    "Tercera-Group18",
+    "Tercera-Group2",
+    "Tercera-Group3",
+    "Tercera-Group4",
+    "Tercera-Group5",
+    "Tercera-Group6",
+    "Tercera-Group7",
+    "Tercera-Group8",
+    "Tercera-Group9"
+  ],
+  "Sudan": [
+    "PremierLeague"
+  ],
+  "Surinam": [
+    "Hoofdklasse"
+  ],
+  "Sweden": [
+    "Allsvenskan",
+    "cup",
+    "Damallsvenskan",
+    "Division1-Norra",
+    "Division1-Sodra",
+    "Division2-NorraGotaland",
+    "Division2-NorraSvealand",
+    "Division2-Norrland",
+    "Division2-SodraGotaland",
+    "Division2-SodraSvealand",
+    "Division2-VastraGotaland",
+    "playoffs12",
+    "playoffs23",
+    "Superettan"
+  ],
+  "Switzerland": [
+    "1LigaClassic-Group1",
+    "1LigaClassic-Group2",
+    "1LigaClassic-Group3",
+    "1LigaPromotion",
+    "2LigaInterregional-Group1",
+    "2LigaInterregional-Group2",
+    "2LigaInterregional-Group3",
+    "2LigaInterregional-Group4",
+    "2LigaInterregional-Group5",
+    "2LigaInterregional-Group6",
+    "ChallengeLeague",
+    "Cup",
+    "SuperLeague"
+  ],
+  "Syria": [
+    "1stDivision"
+  ],
+  "Tanzania": [
+    "LigikuuBara"
+  ],
+  "Thailand": [
+    "FACup",
+    "PremierLeague",
+    "ThaiDivision1"
+  ],
+  "Trinidad_and_tobago": [
+    "TnTProLeague"
+  ],
+  "Tunisia": [
+    "Ligue1"
+  ],
+  "Turkey": [
+    "3Lig-Group1",
+    "3Lig-Group2",
+    "3Lig-Group3",
+    "Cup",
+    "LigA",
+    "LigB-Beyaz",
+    "LigB-Kirmizi",
+    "LigB-Playoff",
+    "SuperLig"
+  ],
+  "Uae": [
+    "Division1",
+    "EmiratesCup",
+    "PremierLeague"
+  ],
+  "Ukraine": [
+    "Cup",
+    "PershaLiga",
+    "PremierLeague",
+    "SecondLeague-GroupA",
+    "SecondLeague-GroupB"
+  ],
+  "Uruguay": [
+    "Apertura",
+    "Clausura",
+    "SegundaDivision"
+  ],
+  "Usa": [
+    "Cup",
+    "MLS",
+    "NASL",
+    "PDL",
+    "USL1",
+    "USL2"
+  ],
+  "Uzbekistan": [
+    "OliyLiga"
+  ],
+  "Venezuela": [
+    "PrimeraDivision",
+    "SegundaDivision"
+  ],
+  "Vietnam": [
+    "Cup",
+    "VLeague",
+    "VLeague2"
+  ],
+  "Wales": [
+    "FACup",
+    "FeederLeagues-CymruAlliance",
+    "FeederLeagues-WelshLeagueDivision1",
+    "PremierLeague"
+  ],
+  "Worldcup": [
+    "ClubWorldCup",
+    "wc_Intercontinental_playoffs",
+    "wc_qualification_africa",
+    "wc_qualification_asia",
+    "wc_qualification_concacaf",
+    "wc_qualification_europe",
+    "wc_qualification_oceania",
+    "wc_qualification_southamerica",
+    "WorldCup"
+  ],
+  "Yemen": [
+    "League"
+  ],
+  "Zambia": [
+    "PremierLeague"
+  ],
+  "Zimbabwe": [
+    "PremierSoccerLeague"
+  ]
+}
